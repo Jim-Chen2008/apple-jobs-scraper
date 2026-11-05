@@ -1,0 +1,15 @@
+# 敏感 / 会话类（含登录 cookie，切勿提交）
+cookies.txt
+headers.txt
+
+# 抓取原始中间产物
+apple_js.js
+apple_china_all.json
+progress_*.json
+run_*.log
+search_*.json
+out/
+
+# Python
+__pycache__/
+*.pyc
