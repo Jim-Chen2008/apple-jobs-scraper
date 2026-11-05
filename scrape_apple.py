@@ -35,61 +35,64 @@ PROGRESS_LIST = "progress_china.json"
 PROGRESS_DETAIL = "progress_detail.json"
 
 
-INCLUDE_KW = [
-    "engineer", "engineering", "工程师",
-    "developer", "development", "开发", "开发工程师",
-    "software", "软件",
-    "data", "数据", "data scientist", "数据科学家", "data engineer", "数据工程师",
-    "machine learning", "ml", "机器学习", "深度学习", "deep learning",
-    "人工智能", " ai", "a.i.",
-    "algorithm", "算法",
-    "ios", "android", "移动",
-    "sdet", "qa", "test", "测试", "quality",
-    "architect", "架构",
-    "infrastructure", "基础设施", "platform", "平台",
-    "backend", "back-end", "后端", "frontend", "front-end", "前端",
-    "full stack", "全栈",
-    "devops", "sre", "运维",
-    "security", "安全",
-    "database", "数据库",
-    "network", "网络",
-    "system", "systems", "系统",
-    "researcher", "research scientist", "研究员",
-    "programmer", "程序员",
-    "information technology", "信息技术",
-    "firmware", "固件", "embedded", "嵌入式",
-    "computer vision", "cv ", "nlp",
-    "cloud", "云",
-    "technical", "技术",
+# ===== 精细化「计算机相关」分类（口径与 analyze_apple.py 一致，产出 ~259 条）=====
+# 明确属于计算机/软件/数据/AI 的团队
+CORE_TEAMS = {"SFTWR", "MLAI"}
+
+# HRDWR(硬件) 中偏「计算机/软件/嵌入式/系统」的关键词 -> 纳入
+HW_INCLUDE = [
+    "software", "embedded", "firmware", "silicon", "soc ", "rtos", "driver",
+    "machine learning", "ml ", "deep learning", "validation", "automation",
+    "wireless", "rf", "network", "security", "system", "algorithm",
+    "computer vision", "ai ", "data", "infrastructure", "platform", "backend",
+    "cloud", "devops", "sre", " sdet", "qa", "test", "camera", "signal",
+    "digital", "fpga", "verification", "architect", "建模", "仿真",
 ]
-COMPUTER_TEAMS = {"SFTWR", "HRDWR"}  # Software and Services / Hardware
+# HRDWR 中偏「制造/质量/工艺/材料/结构」的关键词 -> 排除
+HW_EXCLUDE = [
+    "manufacturing", "mechanical", "display", "material", "molding",
+    "failure analysis", "quality", "process", "supplier", "optical",
+    "packaging", "enclosure", "product design", "dfm", "thermal", "acoustic",
+    "battery", "magnet", "magnetics", "ink", "coating", "metrology", "speaker",
+    "天线", "antenna", "lens", "注塑", "layout", "cad",
+]
+# 完全排除的团队（销售/市场/职能/零售等）
+EXCLUDE_TEAMS = {"SLDEV", "MKTG", "CORSV", "APPST"}
+# 即便在软件/ML 团队内，以下明显非工程类标题也排除
+EXCLUDE_TITLE = ["marketing", "recruit", "business manager", "communications",
+                 "公关", "人力", "sales", "account", "evangelist"]
+# OPMFG 中仅保留明显数据/算法/自动化岗
+OPMFG_INCLUDE = ["data", "机器学习", "算法", "automation", "python", "软件", "ml ", "ai "]
 
 
-def is_computer(job):
-    title = (job.get("postingTitle") or "").lower()
-    team_name = ""
+def classify(job):
+    """返回岗位分类：core / hw_sw / data / intern，非计算机相关返回 None。"""
     t = job.get("team") or {}
-    if isinstance(t, dict):
-        team_name = (t.get("teamName") or "").lower()
-    blob = title + " " + team_name
-    team_code = (t.get("teamCode") or "").upper() if isinstance(t, dict) else ""
-
-    for kw in ("retail", "store leader", "specialist", "genius", "零售", "销售代表", "店经理"):
-        if kw in blob:
-            return False
-
-    if team_code in COMPUTER_TEAMS:
-        if any(k in title for k in ("retail", "store", "specialist", "genius", "销售", "零售")):
-            return False
-        return True
-
-    hit = any(kw in blob for kw in INCLUDE_KW)
-    if not hit:
-        return False
-    for kw in ("sales", "marketing", "brand", "pr ", "communications", "finance", "legal", "hr ", "招聘", "人力"):
-        if kw in title:
-            return False
-    return True
+    code = (t.get("teamCode") or "").upper() if isinstance(t, dict) else ""
+    title = (job.get("postingTitle") or "").lower()
+    if code in EXCLUDE_TEAMS:
+        return None
+    if code in CORE_TEAMS:
+        if any(k in title for k in EXCLUDE_TITLE):
+            return None
+        return "core"
+    if code == "HRDWR":
+        if any(k in title for k in HW_EXCLUDE):
+            return None
+        if any(k in title for k in HW_INCLUDE):
+            return "hw_sw"
+        return None
+    if code == "OPMFG":
+        if any(k in title for k in OPMFG_INCLUDE):
+            return "data"
+        return None
+    if code == "STDNT":
+        # 仅保留软件/数据/ML 实习
+        if any(k in title for k in ["software", "data", "ml ", "machine learning",
+                                    "算法", "机器学习", "开发", "embedded", "ai "]):
+            return "intern"
+        return None
+    return None
 
 
 class Session:
@@ -209,7 +212,8 @@ def fetch_details(sess, jobs):
     total = len(jobs)
     for i, job in enumerate(jobs, 1):
         pid = job.get("positionId")
-        if not pid or pid in done:
+        # 若 pid 已抓过且本次内存中确有详情，则跳过；否则（如从上次残留进度恢复）重新抓取
+        if not pid or (pid in done and job.get("detail")):
             continue
         d = sess.get(f"{API}/jobDetails/{pid}?locale={LOCALE}")
         if d is None:
@@ -259,11 +263,16 @@ def main():
     for (name, code), c in team_counter.most_common(20):
         print(f"  {c:4d}  {name} ({code})", flush=True)
 
-    comp = [j for j in all_jobs if is_computer(j)]
+    comp = []
+    for j in all_jobs:
+        cat = classify(j)
+        if cat:
+            j["_cat"] = cat
+            comp.append(j)
     print(f"\n==> 计算机相关岗位命中: {len(comp)}", flush=True)
     for j in comp:
         t = j.get("team") or {}
-        print(f"  - {j.get('postingTitle')}  [{t.get('teamCode')}]", flush=True)
+        print(f"  - {j.get('postingTitle')}  [{t.get('teamCode')}] {j.get('_cat')}", flush=True)
 
     if not args.no_detail:
         print("\n==> 抓取岗位详情(任职要求) ...", flush=True)
@@ -281,6 +290,7 @@ def main():
             "title": j.get("postingTitle"),
             "team": t.get("teamName"),
             "teamCode": t.get("teamCode"),
+            "category": j.get("_cat"),
             "positionId": j.get("positionId"),
             "postingDate": j.get("postingDate"),
             "locations": loc_names,
