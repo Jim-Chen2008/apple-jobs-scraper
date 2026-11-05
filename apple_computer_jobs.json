@@ -570,6 +570,96 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "Software Engineer, Apple Pay (Wallet, Payments and Commerce)",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200693338",
+  "postingDate": "2026年11月04日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200693338/software-engineer-apple-pay-wallet-payments-and-commerce",
+  "minimumQualifications": "Experience building and maintaining complex software systems.\nA solid understanding of distributed systems fundamentals.\nA commitment to continuous learning and improvement, and curiosity for new technologies, techniques, and patterns in pursuit of engineering excellence.\nAn ability to communicate thoughtfully and clearly, both verbally and in writing, to discuss complex technical concepts with diverse audiences, including global teams and external partners.\nA track record of building and sustaining healthy long-term relationships within your team, and beyond its boundaries.\nThe tenacity and perseverance to drive a complex project all the way from conception to production.\nNo formal degree is required. What matters most is your mindset, your initiative, and your ability to apply your skills to real-world applications.\n",
+  "preferredQualifications": "Hands-on software development experience with a modern programing language, preferably Java or Kotlin.\nDevelopment and operational experience with REST and/or gRPC services (either server-to-server or mobile client facing).\nExperience with containerization and orchestration (e.g. Docker, Kubernetes).\nExperience architecting, building, supporting or otherwise working on cloud-native (e.g. AWS) applications with resilience as a core feature.\nFamiliarity with CI/CD pipelines and infrastructure as code.\nExperience with observability tools (e.g. OpenTelemetry, Datadog).\nUnderstanding of modern networking and experience using traﬃc tools for tracing.\nAn appreciation for, and understanding of security, privacy, and cryptography (e.g. PKI, certificate management, JWT).\nHands-on experience with SQL/NoSQL databases (e.g. DynamoDB, Oracle).",
+  "description": "As a key member of the team, you’ll participate in technical discussions, write specifications, review code, and produce documentation. Success in this role therefore requires strong self-motivation, crisp and clear communication, a highly collaborative approach, and the ability to work effectively across teams and disciplines."
+ },
+ {
+  "title": "AI Product Manager - APO BPR",
+  "team": "Operations and Supply Chain",
+  "teamCode": "OPMFG",
+  "category": "data",
+  "positionId": "200692418",
+  "postingDate": "2026年11月04日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200692418/ai-product-manager-apo-bpr",
+  "minimumQualifications": "Bachelor’s degree in Supply Chain, Operations, Information Systems, Engineering, or a related field.\n5+ years of experience in Business Analysis, Product Management, Product Operations, Supply Chain Transformation, or related roles.",
+  "preferredQualifications": "Solid understanding of product development and implementation lifecycles.\nExceptional analytical and problem-solving capabilities.\nDemonstrated experience driving digital product initiatives.\nExperience working in a global and cross-functional environment.\nOutstanding communication, organization, and stakeholder management skills.\nSelf-motivated, driven individual who is comfortable working in a fast-paced environment\nProven experience driving large-scale business transformation, process optimization, and digitalization initiatives within Supply Chain Operations.\nStrong domain expertise across one or more supply chain functions, including Planning, Procurement, Logistics, and Manufacturing Operations.\nDemonstrated ability to analyze complex business challenges, identify improvement opportunities, and translate them into scalable business and technology solutions.\nProven ability to influence decision-making and build alignment across all levels of the organization without direct authority.\nExperience leveraging data and insights to support business decisions and measure outcomes.\n\nAI Competency\nGenerative AI fundamentals \nLarge Language Models \nAI Agents and Agentic Workflows\nPrompt Engineering concepts and best practices\nRetrieval-Augmented Generation\nTool Calling, Model Context Protocol, and agent orchestration concepts\nAgent skills\nAI evaluation and quality measurement\nHands-on experience applying Generative AI solutions to solve business problems, improve operational efficiency, or enhance decision-making processes is highly desirable.",
+  "description": "In this highly visible role within the APO Business Process Engineering team, you will be the primary owner of the digital transformation strategic initiatives critical to delivering our APO 2030 goals, and the champion of AI-enabled innovation across Apple Procurement and Operations organizations. \n\nYou will partner closely with global Supply Chain Operations, Planning, Procurement, Engineering, Product Design and Development teams to identify business challenges, redesign operational processes, and deliver technology solutions that drive efficiency, enhance decision-making, and elevate business outcomes. "
+ },
+ {
+  "title": "Java Backend Engineer",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200677291",
+  "postingDate": "2026年11月04日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200677291/java-backend-engineer",
+  "minimumQualifications": "Bachelor’s degree in computer science or a related technical field or equivalent professional work experience\n3+ years proven experience developing software in a professional capacity. Longer experience preferred.\n3+ years proven experience implementing, and shipping high-scale, high-performance, highly available, fault-tolerant, and secure cloud-based distributed systems, including proficiency in REST API implementation\n3+ years proven experience using relational (e.g. Postgres, MySQL, etc.) and NoSQL (e.g. Cassandra, MongoDB, etc.) databases, including proficiency in schema design and query optimization.\n3+ years proven experience with Java, Spring, SpringBoot including proficiency in concurrency, memory management, and performance optimization techniques.\nProficiency in OOP principles, data structures, algorithms, and software design patterns (e.g. GoF), with a proven focus on implementing testable, maintainable, and extensible backend code.",
+  "preferredQualifications": "Comfortable using CI/CD tools to build, test, deploy, and release containerized software applications on cloud-based Kubernetes (e.g. AWS EKS, GCP GKE, Azure AKS, etc.).\nExperience in reactive programming (Spring Webflux/ Project Reactor) and unit testing frameworks (e.g. JUnit, Mockito, etc.).\nExperience with tooling languages (e.g. Go, Python, Ruby, etc.) and distributed orchestration & computing systems (e.g. Airflow, Spark, Flink, etc.).\nUnderstanding of advanced JVM internals (e.g. garbage collection, memory allocation, JIT, JNI, etc.).\nKnowledge of networking concepts & protocols (e.g. HTTP/HTTPS, CDN, edge computing, load balancing, OSI model, etc.)",
+  "description": "We are looking for mid-career Java Software Engineers, highly motivated and dedicated to build the next generation of software services that powers several critically important applications.  In this role you will be partnering with multi-functional teams across Apple. You will work closely with our business leaders and other partners to implement new solutions. The candidate must be able to work independently, understand the needs and build the solutions for sophisticated architecture and comfortable working under pressure at times.\n\nThe ideal candidate is self-motivated, pro-active and results-driven. Attention to detail, dedication to providing high-quality solutions modeling engineering excellence, and ability to work towards on-time delivery of projects are all crucial qualities needed to work at Apple as a Software Engineer.  \n\nThe ideal candidate will also possess excellent communication and collaboration skills to work with various internal and external partners."
+ },
+ {
+  "title": "Quality - Testing SQE",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200686499",
+  "postingDate": "2026年11月04日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200686499/quality-testing-sqe",
+  "minimumQualifications": "BA/BS degree or equivalent experience\n3+ years of relevant testing experience\nProficiency in Java or similar language\nProficiency in SQL",
+  "preferredQualifications": "Experience testing iOS applications\nHands-on experience using generative AI/LLMs for test generation, code review, and\ndocumentation\nExcellent communication skills with a sense of ownership and ability to advocate for quality\nacross teams\nSelf-motivated with sharp attention to detail and a mindset for finding edge cases\nTrack record of reducing repetitive manual processes through automation and tooling\nimprovements in Python Java or similar language.\nStrong understanding of functional, regression, integration, and performance testing\nmethodologies\nAbility to read and assess code quality and risk across Java or similar languages\nDemonstrated ability to analyze complex problems, prioritize issues by customer impact, and\ncollaborate cross-functionally to troubleshoot and resolve production issues.",
+  "description": "Retail and Marcom Engineering, an IS&T team, builds and operates the systems and\nexperiences that connect Apple's products with its customers. The team owns the technology\nbehind both Apple's online and physical stores and drives the interactive marketing experiences\nand tools that keep creative operations moving. Together, those functions deliver the\ntechnology behind every product story Apple tells and every purchase a customer makes.\nThe Retail Engineering Point of Sale (POS) team is responsible for the technology and IT\nsystems used to enable Apple Retail Stores service to millions of customers and are an industry\nleader in Retail. As part of this team, you'll contribute to the infrastructure that keeps Appleʼs\naward-winning retail experience running seamlessly.\nAs a Quality Engineer you'll need to take an active role in shaping the quality of our software.\nThis will demand deep integration with our development engineers, creating test plans, bug\nreporting and triaging, identifying automation opportunities, and supporting design reviews.\nYou'll help us identify holes in coverage, actively sync with multi-functional teams to reduce\nduplication, foster better testing, and preserve product stability. We are building a passionate\nand diverse team that will span a broad range of applications, tools, and frameworks. We need\nyour help to reach Apple's high standards of quality."
+ },
+ {
+  "title": "Systems SRE - Shanghai - Tech Lead Manager",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200685593",
+  "postingDate": "2026年11月04日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200685593/systems-sre-shanghai-tech-lead-manager",
+  "minimumQualifications": "10+ years in SRE, production engineering, or infrastructure roles operating large-scale distributed systems, including 3+ years managing engineers.\nHands-on technical depth: able to debug production issues and write and review code in at least one of Python, Go, or Java.\nStrong Linux and systems fundamentals: OS internals, networking, storage, performance, and systems management.\nSolid understanding of SRE principles: SLOs and error budgets, monitoring and alerting, incident management, fault analysis, and capacity planning.\nExperience with configuration management and infrastructure as code (Puppet, Ansible, Chef, Terraform, or similar).\nExperience with Kubernetes and containerization.\nTrack record of leading a team across more than one technical domain or service area.\nExcellent written and spoken English and Mandarin, and the ability to communicate clearly with global teams across time zones.",
+  "preferredQualifications": "Experience with bare-metal provisioning and hardware lifecycle at data center scale (PXE/iPXE, BMC/Redfish, firmware management, OS imaging).\nExperience operating developer platforms such as GitHub Enterprise, Artifactory or Nexus, and CI/build systems (Jenkins or similar).\nKnowledge of Linux security primitives: SELinux, PAM/SSH access controls, disk encryption, identity and authentication systems, and container security.\nExperience operating infrastructure as an internal managed service with defined SLAs.\nObservability experience (Prometheus, Grafana, Splunk, or similar).\nExperience operating infrastructure in China, including local cloud providers (e.g., Alibaba Cloud), cross-border connectivity, and local compliance and data-residency requirements.\nExperience building a new team or site from the ground up.",
+  "description": "This is a player-coach role. The team is small and spans several domains, so you will lead from the front: debug production issues, review designs and code, and build automation alongside your engineers while hiring, growing, and managing them. You will be the local leader for Apple's infrastructure presence in China, partnering with the US, and European teams that own each domain's roadmap, and making sure work in China is well-scoped, well-supported, and delivered to the same reliability and security bar.\n\nYou will own operational excellence across all three areas: SLOs, incident response, on-call health, change safety, and steady reduction of toil through software. You will also be the link between the China team and the domain leaders for each area, balancing priorities across them and raising risks early.\n\nThis is a foundational role. The team will start small, and we expect it to grow as Apple's infrastructure investment in China expands. You will play a key role in shaping its scope, hiring, and culture as it grows."
+ },
+ {
+  "title": "Software Engineer Intern (Full-Stack & AI Agents) - Shanghai",
+  "team": "Students",
+  "teamCode": "STDNT",
+  "category": "intern",
+  "positionId": "200690042",
+  "postingDate": "2026年11月04日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai",
+  "minimumQualifications": "Student of BS or MS in Computer Engineering, Computer Science and AIML or equivalent.\nAvailable for an onsite internship in Shanghai for 6-12 months.\nHands-on experience building LLM-powered applications, AI Agents, or tool-use workflows using frameworks such as LangChain, LangGraph or similar agentic architectures. \nStrong programming skills in Python and/or JavaScript/TypeScript, with a solid foundation in data structures, algorithms, and software design.\nHands-on experience with either backend web frameworks (e.g., FastAPI, Flask, Django, Node.js) or modern frontend frameworks (e.g., React, Vue).\nExcellent written and verbal communication skills in both English and Chinese.\n",
+  "preferredQualifications": "Familiarity with Retrieval-Augmented Generation (RAG), embedding models, vector databases (e.g., pgvector, ChromaDB, Milvus), or graph databases (e.g., Neo4j).\nExperience with full-stack web development using Python and React.\nExposure to embedded systems, firmware debugging, hardware diagnostics, or system-level log analysis is a strong plus.\nSelf-motivated problem solver with a strong ownership mindset and the ability to thrive in a fast-paced, cross-functional engineering environment.",
+  "description": "The System Firmware and Diagnostics team is looking for an enthusiastic Software Engineer Intern to join our team. You will have the opportunity to work on core engineering platforms and AI-powered diagnostic systems that make a major impact on how Apple develops, tests, debugs, and manufactures its next-generation hardware products (including iPhone, iPad, Mac, Apple Watch, and Home accessories). Our environment encourages technical innovation, rapid iteration, cross-functional collaboration, and a liberating amount of autonomy.\n\nIn this role, you will build both cloud-native full-stack platforms for real-time hardware lab orchestration and autonomous Large Language Model (LLM) agent ecosystems that automate root-cause analysis across massive hardware and firmware telemetry datasets.\n\nThis role involves designing, developing, and scaling full-stack web applications, distributed data pipelines, and multi-agent AI workflows that empower hardware and firmware engineers worldwide. You will collaborate closely with System Firmware, Diagnostics, Hardware Validation, and Factory Engineering teams to turn complex hardware debugging workflows into seamless, intelligent software products.\n"
+ },
+ {
   "title": "Engineering Manager – SAP Technology & Cloud Platforms",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -1785,21 +1875,6 @@
   "description": "The role involves development and execution of validation and characterization methodologies for Apple’s touch solutions, from proof-of-concept to mass production. The engineer acting as a Direct Responsible Individual will be responsible for:\n-  Leading the development and execution of engineering validation and characterization methodologies for Apple’s touch solutions across different products\n-  Driving strategies with multi-functional teams, including test, firmware, software, mechanical design and reliability engineering to deliver groundbreaking touch solutions\n-  Designing metrics and figures-of-merit to guide touch design and performance tracking\n-  Architecting and designing HW & SW infrastructure with pioneering robotics for innovative test solutions\n-  Managing vendors to implement validation tools, plans and infrastructure at vendor sites\n-  Performing failure mode analysis with advanced analysis tools to drive root cause diagnosis and system-level problem solving\n-  Authoring reports and communications pertaining to key results and checkpoints\n-  Business travel (Primarily within China. To a lesser extent USA)"
  },
  {
-  "title": "Engineering Project Manager Intern - Shanghai or Shenzhen",
-  "team": "Students",
-  "teamCode": "STDNT",
-  "category": "intern",
-  "positionId": "200681391",
-  "postingDate": "2026年9月19日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200681391/engineering-project-manager-intern-shanghai-or-shenzhen",
-  "minimumQualifications": "",
-  "preferredQualifications": "",
-  "description": ""
- },
- {
   "title": "Site Reliability Engineer, Enterprise Technology Services",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -2760,21 +2835,6 @@
   "description": "We are looking for an experienced Engineering Project Manager to lead complex, cross-functional technology initiatives across engineering, compliance, business, product, and operations teams with a focus on engineering execution, compliance governance, audit readiness, and operational controls. In this role, you will drive high-impact programs from concept through delivery, partnering closely with engineering leaders, product owners, business stakeholders, and regional teams. You will bring structure to ambiguity, align teams around clear priorities, manage risks and dependencies, and ensure delivery of compliant, scalable, secure, and high-quality solutions. \n\nThis is a role for someone who can operate comfortably at both strategic and execution levels:\nable to engage senior leaders on roadmap, governance, and trade-offs, while also diving deep\ninto technical details, project plans, risks, milestones, and operational readiness."
  },
  {
-  "title": "Engineering Project Manager, Edge Services",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200677838",
-  "postingDate": "2026年8月17日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200677838/engineering-project-manager-edge-services",
-  "minimumQualifications": "",
-  "preferredQualifications": "",
-  "description": ""
- },
- {
   "title": "Service Reliability Engineer, Edge Services ",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -2848,21 +2908,6 @@
   "minimumQualifications": "Conversational and written English proficiency \nDemonstrated a strong proficiency in software development using Python, Rust, and/or Java programming languages\nExperience working with cloud compute environments like OpenStack, AliCloud, AWS, GCP or Azure\nExperience with infrastructure as code (IaC), configuration management, CI/CD, and automation\nExcellent troubleshooting, problem solving, and debugging skills\nComfortable with on-call rotation.",
   "preferredQualifications": "BA/BS degree in Computer Science and 3 years of relevant experience\nProficiency in implementing and correlating telemetry using monitoring and observability tools such as Splunk, Grafana and Prometheus\nBuilding and operating container orchestrating systems (Docker, Kubernetes and micro-services)\nExperience in Site Reliability Engineering / DevOps\nExcellent written and verbal communication skills\nExperience in UNIX/Linux Operating Systems",
   "description": "In this position, you will have the opportunity to work collaboratively with a group of “A” player software engineers from related but different backgrounds to make Apple Retail truly innovative. To be successful in this role, the candidate must be hands-on, proactive, talented at problem solving, have the mindset to challenge the norm and have a strong desire to learn and work towards excellence.\n\nApple is looking for an individual that takes pride in crafting solutions to enhance product delivery by architecting and leading distributed compute platforms and application services. This engineer needs to work closely with cross-functional teams to identify potential solutions and go on to work with the engineering teams to properly test and deploy changes. Critical thinking, writing solid and clean code, planning, documenting, and communicating within the team and cross-functionally is critical to the success of the role."
- },
- {
-  "title": "Engineering Program Manager",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200678042",
-  "postingDate": "2026年8月17日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200678042/engineering-program-manager",
-  "minimumQualifications": "",
-  "preferredQualifications": "",
-  "description": ""
  },
  {
   "title": "Engineering Project Manager - SAP Operations and Service Management",
@@ -2998,21 +3043,6 @@
   "minimumQualifications": "More than 12 years experience in building frameworks using middleware like Apache Camel. \nStrong programming experience (more than 8+ years) in Java for building middleware or backend applications. \nStrong experience (more than 5+ years) using Java frameworks such as Spring.\nStrong object oriented design and analysis skills.\nMore than 5+ years experience in working with Oracle or similar relational databases and NoSQL databases such as MongoDB. \nMore than 5+ years experience in designing and building scalable and reliable solutions using Distributed System Architecture.\nKnowledge of HTTP/S, TCP, DNS, web application load balancing.\nPassion for programming and a good conceptual understanding of the operating environment - JVM, Operating System, File Systems, Network Protocols. Deep understanding of basic security concepts and protocols - authentication, authorization, signing, encryption, SSL/TLS, SSH/SFTP, PKI, X509 certificates and PGP. \nFirsthand experience in performance tuning of applications and databases. \nStrong expertise in backend integration and good understanding of Java and middleware technologies.\n",
   "preferredQualifications": "Good knowledge of scripting language such as bash/Perl.\nKnowledge of integrations with cloud based solutions is a plus\nFamiliarity with AI/ML fundamentals is a plus\nWorking experience in Agile development methodology.\n",
   "description": "Apple E-Business Services team is seeking an outstanding hands on Integration Software Engineer with passion for developing highly scalable integration platforms. This is an excellent opportunity for a self motivated, enthusiastic, result oriented person to design and build Java based B2B ‘infrastructure as code’ components using technologies like object storage and no sql databases. Enjoy the benefits of working in a fast growing business where you are encouraged to \"Think Different\" and where your efforts play a key role in the success of Apple's business."
- },
- {
-  "title": "Software Engineer – ACM Platform & AML Services, IS&T Ai & Data Platforms",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200676316",
-  "postingDate": "2026年8月12日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200676316/software-engineer-acm-platform-aml-services-is-t-ai-data-platforms",
-  "minimumQualifications": "",
-  "preferredQualifications": "",
-  "description": ""
  },
  {
   "title": "Data Engineer, IS&T Ai & Data Platforms",
@@ -3240,7 +3270,7 @@
   "description": "The Technical Operations Engineer will support and improve business-critical Customer Systems\nservices used across Apple’s global customer-support organizations. The role combines advanced\nproduction support, automation, reliability engineering and Operational Excellence.\nThe engineer will be responsible for service health, incident response, root-cause analysis and\ncontinuous improvement of operational processes, tooling and platform reliability."
  },
  {
-  "title": "People Analytics Developer and Software Engineer",
+  "title": "Business Analytics Developer, People Analytics",
   "team": "Software and Services",
   "teamCode": "SFTWR",
   "category": "core",
@@ -3249,7 +3279,7 @@
   "locations": [
    "Shanghai"
   ],
-  "link": "https://jobs.apple.com/zh-cn/details/200675970/people-analytics-developer-and-software-engineer",
+  "link": "https://jobs.apple.com/zh-cn/details/200675970/business-analytics-developer-people-analytics",
   "minimumQualifications": "7+ years of experience developing and maintaining analytics products and reports, using Tableau or other analytics visualisation tools, that identify meaningful data insights and drive decisions.\nStrong data analysis and business analysis skills — able to frame a business question, identify the right data, apply appropriate analytical methods, and communicate findings with clarity.\nDemonstrated ability to translate high-level, often vague business requirements into a tangible prototype to drive discussion and further iterations toward the right solution.\nStrong SQL expertise and solid working knowledge of Snowflake, MySQL, and PostgreSQL — including schema design, query optimisation, and developing optimised data sets for analytical and operational products.\nWorking knowledge of Python scripting for data processing, automation, and connecting Tableau to data sources including Snowflake. \nAbility to work independently, research newer technology areas, and innovate to produce the best analytics outcome in a given situation.\nActive team player with strong collaboration and communication skills — able to partner cross-functionally across analytics, engineering, and business teams globally and ensure visibility into the work being done. \nComfortable managing multiple priorities, setting stakeholder expectations appropriately, and proactively assessing incoming work to take the right action.\nFosters a positive, humble, and open culture in teams, consistently exhibiting Apple values of inclusion, trust, and respect for others.",
   "preferredQualifications": "Bachelor's or Master's degree in a quantitative or business field — Computer Science, Information Management Systems, Data Science, Business Analytics, or a related discipline; equivalent professional experience will be fully considered.\nKnowledge of Python data processing and analysis libraries such as NumPy and Pandas — applied to data preparation, statistical analysis, and augmenting Tableau analytics products with programmatic data transformations.\nFamiliarity with HR analytics and reporting tools for measuring HR performance and employee satisfaction across the hire-to-retire lifecycle.\nExperience with the application of AI-assisted analytics tooling to improve the speed and quality of people insights.\nExperience working with employee data and HR systems in a large enterprise environment.\nExperience working across multiple geographies and cultures within a global organisation.",
   "description": "The Business Analytics Developer will play a pivotal role in the team, working with data from the Apple enterprise data warehouse across multiple systems in the Apple HRIS landscape to derive powerful insights for leadership, and build analytics products that drive a positive employee experience across Apple. You translate complex, often ambiguous business questions into structured analytical approaches, combining strong data analysis with clear, compelling visualisations, and communicating findings in a way that directly shapes decisions. You operate with a high degree of autonomy, bringing curiosity, structure, and stakeholder confidence to every engagement."
