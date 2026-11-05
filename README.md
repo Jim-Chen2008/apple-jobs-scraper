@@ -18,6 +18,7 @@
 | `analyze_apple.py` | 详情爬虫 + 关键词统计：逐个抓取岗位详情（最低/优先要求原文），写入 `progress_detail.json`（断点续传）。 |
 | `make_report.py` | 读取抓取结果，生成 `apple_report.md` 分析报告（岗位清单 + 关键词频率 + 共同/特殊要求 + 优势人群）。 |
 | `apple_computer_jobs.json` | 结构化数据：259 个岗位，含 `title` / `link` / `team` / `locations` / `minimumQualifications` / `preferredQualifications` 等字段。 |
+| `apple_china_all.json` | **原始全量数据**：中国区全部 556 个在招岗位（未筛选，含非计算机类），作为完整原始快照保留，可在此基础上自行再筛选。 |
 | `apple_report.md` | 完整分析报告（含 259 个岗位的名称+链接清单）。 |
 
 ## 运行
