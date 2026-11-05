@@ -2,9 +2,8 @@
 cookies.txt
 headers.txt
 
-# 抓取原始中间产物
+# 抓取原始中间产物（apple_china_all.json 为长期保留的原始全量数据，已纳入版本跟踪）
 apple_js.js
-apple_china_all.json
 progress_*.json
 run_*.log
 search_*.json

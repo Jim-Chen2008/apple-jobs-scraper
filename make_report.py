@@ -1,11 +1,40 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""根据 apple_computer_jobs.json 生成分析报告 apple_report.md"""
+"""根据 apple_computer_jobs.json 生成分析报告 apple_report.md（字段缺失时自动兜底）"""
 import json
 import re
+import datetime
 from collections import Counter
 
 DATA = json.load(open("apple_computer_jobs.json", encoding="utf-8"))
+
+# 若 scrape 输出未带 category，则兜底推导，保证报告分组可用
+def derive_category(j):
+    code = (j.get("teamCode") or "").upper()
+    title = (j.get("title") or "").lower()
+    if code == "MLAI" or any(k in title for k in ("machine learning", "深度学习", "人工智能", "ml ", " ai ")):
+        return "core"
+    if "intern" in title or "实习" in title or code == "STDNT":
+        return "intern"
+    if "data" in title or "数据" in title or "algorithm" in title or "算法" in title:
+        return "data"
+    if code == "HRDWR":
+        return "hw_sw"
+    return "core"
+
+for j in DATA:
+    j.setdefault("category", derive_category(j))
+
+# 把派生出的 category 写回数据文件，保证数据与报告一致
+with open("apple_computer_jobs.json", "w", encoding="utf-8") as f:
+    json.dump(DATA, f, ensure_ascii=False, indent=1)
+
+# 读取全量数据用于统计口径（不存在时回退到已抓取数）
+try:
+    ALL_N = len(json.load(open("apple_china_all.json", encoding="utf-8")))
+except Exception:
+    ALL_N = len(DATA)
+TODAY = datetime.date.today().isoformat()
 
 CAT_CN = {
     "core": "软件 / 机器学习 / AI（SFTWR + MLAI）",
@@ -79,8 +108,8 @@ for j in DATA:
 L = []
 L.append("# Apple 中国区「计算机相关」岗位爬取与分析报告\n")
 L.append(f"> 数据来源：https://jobs.apple.com/zh-cn/search?location=china-CHNC  \n"
-         f"> 抓取时间口径：2026-11-03  \n"
-         f"> 命中岗位数：**{N}** （从 556 条中国区在招岗位中筛选，已剔除销售/市场/职能/零售/"
+         f"> 抓取时间口径：{TODAY}  \n"
+         f"> 命中岗位数：**{N}** （从 {ALL_N} 条中国区在招岗位中筛选，已剔除销售/市场/职能/零售/"
          f"制造质量工艺等非计算机类）\n")
 
 L.append("## 一、概览\n")

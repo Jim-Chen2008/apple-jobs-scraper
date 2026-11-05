@@ -1,0 +1,53 @@
+name: Apple Jobs 定时爬取
+
+# 定时 + 手动触发
+on:
+  schedule:
+    # 每天 UTC 01:00（北京时间 09:00）自动运行
+    # 想改成每周一：把下面一行替换为  - cron: '0 1 * * 1'
+    - cron: '0 1 * * *'
+  workflow_dispatch: {}   # 允许在 Actions 页面手动点「Run workflow」
+
+# 同一时间只跑一个，避免并发提交冲突
+concurrency:
+  group: apple-jobs-scrape
+  cancel-in-progress: false
+
+# 允许工作流把更新推回仓库
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行爬虫（全部 + 计算机相关岗位）
+        run: python3 scrape_apple.py
+
+      - name: 生成分析报告
+        run: python3 make_report.py
+
+      - name: 提交并推送最新数据（仅在有变化时）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apple_china_all.json apple_computer_jobs.json apple_report.md
+          if git diff --cached --quiet; then
+            echo "✅ 数据无变化，跳过提交"
+          else
+            DATE=$(date -u +'%Y-%m-%d')
+            git commit -m "chore: 自动更新 Apple 招聘数据 $DATE"
+            git push
+            echo "🚀 已推送最新数据 ($DATE)"
+          fi
