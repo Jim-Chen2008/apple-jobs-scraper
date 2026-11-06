@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月05日",
+  "postingDate": "2026年11月06日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-05T14:10:55.637502793Z",
+  "postDateInGMT": "2026-11-06T07:47:03.086778199Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月05日",
+  "postingDate": "2026年11月06日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-05T14:10:55.637510809Z",
+  "postDateInGMT": "2026-11-06T07:47:03.086787618Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月05日",
+  "postingDate": "2026年11月06日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-05T14:10:55.637512163Z",
+  "postDateInGMT": "2026-11-06T07:47:03.086788841Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月05日",
+  "postingDate": "2026年11月06日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-05T14:10:55.637513131Z",
+  "postDateInGMT": "2026-11-06T07:47:03.086790342Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -3240,6 +3240,246 @@
   "postExternal": true
  },
  {
+  "id": "200682872-3715",
+  "jobSummary": "Would you like to drive the future of Apple’s products, applications, and platform while having the unique opportunity to impact some of the most far-reaching software in the world? The Apple Services Engineering (ASE) organization leads the development and innovation on Apple’s cloud-centric products and experiences for users all over the world, including iCloud+, Photos, Mail, Messages, FaceTime, Calendar, Notes, etc. We are the foundation on which Apple’s software developers build the products that our customers love. Our multi-disciplinary data team plays a fundamental role in this mission by partnering closely with product, engineering, and business teams to develop a culture of leveraging data to inform and craft our strategy.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200682872",
+  "postingDate": "2026年11月06日",
+  "postingTitle": "Senior Product Data Scientist, iCloud",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-06T06:54:49.899Z",
+  "transformedPostingTitle": "senior-product-data-scientist-icloud",
+  "reqId": "200682872-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Software and Services",
+   "teamID": "teamsAndSubTeams-SFTWR",
+   "teamCode": "SFTWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200682872",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200685578-3715",
+  "jobSummary": "Help us build the Apple Data Platform in China! We are establishing a new engineering organization from the ground up to build and operate Apple's next-generation data platform for customers in China. As the founding principal engineer on the team, you'll own the architecture of the platform that powers data, analytics, and AI workloads while meeting regional regulatory and data residency requirements.\n\nWorking in close partnership with the global Apple Data Platform organization, you'll bring world-class platform capabilities to China, solve large-scale distributed systems challenges, and set the technical foundation that will support Apple's long-term growth in the region.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200685578",
+  "postingDate": "2026年11月06日",
+  "postingTitle": "Principal Software Engineer - Apple Data Platform",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-06T06:27:54.134Z",
+  "transformedPostingTitle": "principal-software-engineer-apple-data-platform",
+  "reqId": "200685578-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Software and Services",
+   "teamID": "teamsAndSubTeams-SFTWR",
+   "teamCode": "SFTWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200685578",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200691508-3715",
+  "jobSummary": "Apple is a place where extraordinary people gather to do their best work. Just be ready to dream big. \n\nThe people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nImaging what you could do here. At Apple, creative ideas have a way of becoming wonderful products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.\n\nApple’s Global Business Solutions (GBS) team partners with key Apple business leaders, including Retail, Sales, Operations, R&D and Services, to perform data mining and analysis. In addition to supporting transactional and financial reporting processes, GBS provides a strategic platform to uncover trends and insights to enhance financial controls and compliance, operational efficiency and business performance.\n\nWe look for individuals with strong technical capabilities and the right balance of problem solving and strategic thinking to help drive automation and process innovation in our finance operations. You will work closely with key business partners to optimize finance operations, focusing on automating reporting, analytics, and process improvements.\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200691508",
+  "postingDate": "2026年11月06日",
+  "postingTitle": "Apple Finance Intern (GBS R2R) - Shanghai",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-06T01:34:21.839Z",
+  "transformedPostingTitle": "apple-finance-intern-gbs-r2r-shanghai",
+  "reqId": "200691508-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Students",
+   "teamID": "teamsAndSubTeams-STDNT",
+   "teamCode": "STDNT"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200691508",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200678055-3715",
+  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you will do more than join something, you will add something.\n\nApple Home features premium products designed to enhance and personalize the user experience with consumer electronics. Combining performance, style, and innovation, they serve as the perfect complement to daily life, both at work and beyond.\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200678055",
+  "postingDate": "2026年11月05日",
+  "postingTitle": "Engineering Program Manager-Home",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-05T16:26:47.633Z",
+  "transformedPostingTitle": "engineering-program-manager-home",
+  "reqId": "200678055-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200678055",
+  "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200690939-3715",
+  "jobSummary": "At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences. Bring passion and dedication to your job and there's no telling what you could accomplish. That same passion for innovation that goes into our products also applies to our practices, strengthening our dedication to leave the world better than we found it!\n\nMost software engineering roles hand off testing to one team and operations to another. Here you own all of it. As a Software Engineer on Forge, you'll design, build, test, ship, and run the platform Apple's engineering teams build on, working closely with those teams to find where the infrastructure beneath them gets in the way and fixing it.\n\nForge is part of Enterprise Technology Services (ETS), within Apple's Information Systems and Technology (IS&T) organization, the engine behind everything Apple does for customers and for the people who build for them. Forge is building the platform Apple's engineering organizations can use to take a service from code to running in production. That path has traditionally run through a series of separate specialist systems. We are bringing it together on a common platform with a shared core, so a team goes from allocated capacity to a live production service without assembling the pieces themselves. Our job is to get teams to production quickly, on a platform that stays secure and reliable without them having to think about it.\n\nOur charter is deliberately wide and still growing, reaching from the physical fleet in the data center to the surfaces engineering teams build against, and extending into new environments and new classes of infrastructure as Apple's needs evolve. We are a small team with outsized reach, bringing an AI-first mindset to how the platform operates and improves itself, and the best work we do takes one team's hardest problem and turns it into a capability every team inherits.\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200690939",
+  "postingDate": "2026年11月05日",
+  "postingTitle": "Forward Deployed Software Engineer - Platforms Engineering",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-05T15:52:02.857Z",
+  "transformedPostingTitle": "forward-deployed-software-engineer-platforms-engineering",
+  "reqId": "200690939-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Software and Services",
+   "teamID": "teamsAndSubTeams-SFTWR",
+   "teamCode": "SFTWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200690939",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200693622-3715",
+  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nAt Apple, we believe that by focusing on even the smallest of details, we can make a significant impact on the customer experience. The Retail Executive Relations Team connects individually with customers and responds to critical customer issues from Apple’s Executive Team, Public Relations, Apple Legal, Governmental boards, Investor Relations, and other stakeholders. In this role, you will be responsible for regional data analysis, handling ad-hoc requests, and identifying emerging trends across the APAC, while partnering closely with Worldwide teams to connect and correlate trends across global regions. You will also serve as an AI champion, leveraging modern AI tools and automation to streamline workflows, drive team efficiency, and help the broader team embrace innovative technologies.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200693622",
+  "postingDate": "2026年11月05日",
+  "postingTitle": "APAC Retail Executive Relations Analytics & Insights",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-05T15:05:29.874Z",
+  "transformedPostingTitle": "apac-retail-executive-relations-analytics-insights",
+  "reqId": "200693622-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Sales and Business Development",
+   "teamID": "teamsAndSubTeams-SLDEV",
+   "teamCode": "SLDEV"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200693622",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
   "id": "200693334-3715",
   "jobSummary": "Apple is looking for a versatile R&D Team Lead to guide a multidisciplinary engineering team in exploring new concepts and bringing innovative ideas to life through hands-on prototyping. This role combines technical leadership, project execution, and close collaboration with teams and technology partners around the world.\nYou will bring a broad understanding of complex technical systems, practical engineering experience, and the ability to connect people and ideas across disciplines. You will help the team turn open-ended challenges into clear priorities, working prototypes, and compelling demonstrations that inform future technology directions.",
   "locations": [
@@ -3857,14 +4097,14 @@
   ],
   "positionId": "200677505",
   "postingDate": "2026年10月30日",
-  "postingTitle": "Software Development Engineer in Test — Retail Engineering",
+  "postingTitle": "Cross Functional Test Lead — Retail Engineering",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
   "postDateInGMT": "2026-10-30T06:26:36.159Z",
-  "transformedPostingTitle": "software-development-engineer-in-test-retail-engineering",
+  "transformedPostingTitle": "cross-functional-test-lead-retail-engineering",
   "reqId": "200677505-3715",
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,
@@ -4196,46 +4436,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200687159",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200680346-3715",
-  "jobSummary": "Help us build the Apple Data Platform in China! We are establishing a new engineering organization from the ground up to build and operate Apple's next-generation data platform for customers in China. Our mission is to deliver a secure, scalable, and high-performance platform for data, analytics, and AI workloads while meeting regional regulatory and data residency requirements. \n\nWorking in close partnership with the global Apple Data Platform organization, you'll help bring world-class platform capabilities to China, maintain architectural consistency and operational excellence, and establish a long-term engineering presence that powers critical Apple businesses across the region.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200680346",
-  "postingDate": "2026年10月29日",
-  "postingTitle": "Senior Engineering Manager - Apple Data Platform",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-29T07:21:36.703Z",
-  "transformedPostingTitle": "senior-engineering-manager-apple-data-platform",
-  "reqId": "200680346-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200680346",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -5316,46 +5516,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200688701",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200685575-3715",
-  "jobSummary": "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Join Apple, and help us leave the world better than we found it.   \n\nThe Apple Services Engineering (ASE) Compliance team is expanding and we are looking for a Privacy Compliance engineer located in China to support our Global Compliance strategy. \n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200685575",
-  "postingDate": "2026年10月22日",
-  "postingTitle": "Privacy Compliance Engineer",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-22T09:30:00.498Z",
-  "transformedPostingTitle": "privacy-compliance-engineer",
-  "reqId": "200685575-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200685575",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -6676,46 +6836,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200688150",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200683186-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.  \n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.  \n\nOur team within Apple Store Online is responsible for delivering scalable, efficient, and customer centric technical solutions to serve our Retail Customers and Call Center Specialists globally. We continuously pursue excellence by evaluating and rethinking the customer journey through the online shopping experience, including Digital Programs, Chat/Voice systems, Payments, Fulfillment, Delivery, and Customer Care. This role looks beyond the immediate to thoughtfully innovate on the details leveraging the latest cutting edge technology to elevate the shopping experience globally.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200683186",
-  "postingDate": "2026年10月14日",
-  "postingTitle": "Product Manager - Apple Store Online, Customer Support Shopping Applications",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-14T01:01:49.233Z",
-  "transformedPostingTitle": "product-manager-apple-store-online-customer-support-shopping-applications",
-  "reqId": "200683186-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Apple Retail",
-   "teamID": "teamsAndSubTeams-APPST",
-   "teamCode": "APPST"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200683186",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -10840,46 +10960,6 @@
   "postExternal": true
  },
  {
-  "id": "200682872-3715",
-  "jobSummary": "Would you like to drive the future of Apple’s products, applications, and platform while having the unique opportunity to impact some of the most far-reaching software in the world? The Apple Services Engineering (ASE) organization leads the development and innovation on Apple’s cloud-centric products and experiences for users all over the world, including iCloud+, Photos, Mail, Messages, FaceTime, Calendar, Notes, etc. We are the foundation on which Apple’s software developers build the products that our customers love. Our multi-disciplinary data team plays a fundamental role in this mission by partnering closely with product, engineering, and business teams to develop a culture of leveraging data to inform and craft our strategy.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200682872",
-  "postingDate": "2026年9月10日",
-  "postingTitle": "Senior Product Data Scientist, iCloud",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-10T06:30:01.379Z",
-  "transformedPostingTitle": "senior-product-data-scientist-icloud",
-  "reqId": "200682872-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200682872",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200682566-3715",
   "jobSummary": "Apple is one of the world’s most successful businesses. We are primarily a consumer electronics business producing hardware (iPhone, iPad, Mac, Apple Watch, AirPods, Apple TV), software (iOS, MacOS, Safari) and services (Apple Music, App Store, iCloud, News+ and Apple TV+). Over 1.4 billion of our devices are currently in use across the world, whilst Apple Music has over 60 million subscribers globally We care about what we do, and believe Apple is a force for good. Apple is a company full of exciting ideas and innovative people, who are also committed to upholding the highest moral, legal and ethical standards in everything we do. We believe technology can serve humankind's deepest values and highest aspirations. Protecting individuals’ privacy, promoting diversity and inclusivity, providing products that educate, and are accessible to all needs, are fundamentals within our business. \n",
   "locations": [
@@ -11641,7 +11721,7 @@
  },
  {
   "id": "200681912-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work. \n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things. The Retail Online Analytics team is seeking a Tag Management & Infrastructure Analyst with deep expertise in tag management, Adobe Analytics, and Adobe Experience Platform to lead the design and implementation of scalable, privacy-centric measurement solutions across Apple’s web and native app ecosystem.\n\nTo ensure compliance with China’s Personal Information Protection Law (PIPL) guidelines, we are transitioning from a single global reporting suite (hosted on AWS) to a localized data architecture. We are seeking a skilled, China-based resource to lead the configuration, implementation, and alignment of a brand-new local instance of Adobe Analytics and Adobe Target.\nThis role is critical in bridging localized compliance requirements with global data consistency and ensuring our analytics teams have the high-quality, aggregated data they need for business decisions.",
+  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work. \n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things. The Retail Online Analytics team is seeking a Tag Management & Infrastructure Analyst with deep expertise in tag management, Adobe Analytics, and Adobe Experience Platform to lead the design and implementation of scalable, privacy-centric measurement solutions across Apple’s web and native app ecosystem.\n\nTo ensure compliance, we are transitioning from a single global reporting suite (hosted on AWS) to a localized data architecture. We are seeking a skilled, China-based resource to lead the configuration, implementation, and alignment of a brand-new local instance of Adobe Analytics and Adobe Target.\nThis role is critical in bridging localized compliance requirements with global data consistency and ensuring our analytics teams have the high-quality, aggregated data they need for business decisions.",
   "locations": [
    {
     "postLocationId": "postLocation-SGI",
@@ -12000,46 +12080,6 @@
   "postExternal": true
  },
  {
-  "id": "200680336-3715",
-  "jobSummary": "Working at Apple offers the chance to do your best work and be part of something truly remarkable. Imagine the possibilities of what you could do here. At Apple, innovative ideas swiftly transform into phenomenal platforms services and customer experiences.  Bring passion and dedication to your role and the sky’s the limit.\n\nThe Emerging Technology Services team productizes upcoming software and champions it within the Apple community.  We’re a dynamic team blending SRE DevOps and Operational Intelligence. Our creations become technology pillars supporting Apple across various domains. From eCommerce to reporting systems, we ensure seamless communication between disparate systems at unprecedented scale and speed.  Our support extends to Load Balancers, perimeter security , integrations and API gateways, facilitating platform adoption.\n\nThe SRE Engineer position is part of a horizontal Platform Engineering Ops group dedicated to a diverse range of technologies and applications, including highly scalable distributed applications.  This role demands strategic engineering and data science skills alongside hands on technical work.  The candidate will delve into the security domain, participate in building machine learning pipelines, develop anomaly detection models, explore crypto strategies for privacy and apply data science skills to vast datasets.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200680336",
-  "postingDate": "2026年9月01日",
-  "postingTitle": "Site Reliability Engineer, Enterprise Technology Services",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-01T21:39:26.943Z",
-  "transformedPostingTitle": "site-reliability-engineer-enterprise-technology-services",
-  "reqId": "200680336-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200680336",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200608974-3715",
   "jobSummary": "Marketing Communications (Marcom) is the creatively-led global team that oversees Apple’s consumer facing marketing. We ensure the flawless development and execution of world-class communications across all medias and platforms. Every day, hundreds of millions of Apple customers around the world interact with our products. We drive the strategy and creative work that provide both new and existing customers with simple, engaging and inspiring marketing experiences.\n\nThe Greater China team develops and manages world-class marketing communication efforts that support Apple’s rapid growth in this region. This includes all consumer-facing communications across Localization, Advertising, Social, Retail, Partner, Interactive & Digital platforms, as well as support for Video & Motion Graphics.\n\nAs the Creative Director - Experience Design, you will lead the strategy and design for all of our interactive and omnichannel experiences in China. You will support a cross-disciplinary team of experts across Experience Design, Interactive Visual Design, and Writing. Your day-to-day will involve close collaboration with Interactive Creative Directors and Design teams to define the end-to-end customer journey, seamlessly connecting digital platforms to in-store experiences for Apple and our partners.\n",
   "locations": [
@@ -12076,46 +12116,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200608974",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200678392-3715",
-  "jobSummary": "Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system.\n\nApple’s IS&T Greater China teams are seeking a hands-on, experienced Engineering Project Manager to drive critical technology compliance and governance initiatives in China. Reporting into the GC IS&T Director, you will be driving operational and strategic excellence, ensuring our enterprise applications, systems, and platforms meet rigorous regional and global compliance standards. If you love building scalable solutions to handle global complexity while navigating the fast-paced evolution of technology and regulatory landscapes, imagine what you could do here.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200678392",
-  "postingDate": "2026年8月31日",
-  "postingTitle": "Engineering Project Manager",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-31T17:04:46.951Z",
-  "transformedPostingTitle": "engineering-project-manager",
-  "reqId": "200678392-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200678392",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -12556,46 +12556,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200677857",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200680349-3715",
-  "jobSummary": "Help us build the Apple Data Platform in China! We are establishing a new engineering organization from the ground up to build and operate Apple's next-generation data platform for customers in China. As the founding principal engineer on the team, you'll own the architecture of the platform that powers data, analytics, and AI workloads while meeting regional regulatory and data residency requirements.\n\nWorking in close partnership with the global Apple Data Platform organization, you'll bring world-class platform capabilities to China, solve large-scale distributed systems challenges, and set the technical foundation that will support Apple's long-term growth in the region.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200680349",
-  "postingDate": "2026年8月27日",
-  "postingTitle": "Principal Software Engineer - Apple Data Platform",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-27T08:46:29.155Z",
-  "transformedPostingTitle": "principal-software-engineer-apple-data-platform",
-  "reqId": "200680349-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200680349",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -13356,46 +13316,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200678940",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200678388-3715",
-  "jobSummary": "At Apple, new insights have a way of becoming revolutionary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.\n\nThe Emerging Technologies team specializes in building forward-looking, extremely scalable platforms. The team has a passion for solving challenging problems, exploring new domains, and engineering transformational solutions. The diversity of our team and thinking inspires innovation that runs through everything we do.\n\nIn this role, you will help build world class security solutions in the space of Anti-Phishing/Spam, Social Engineering Attack Prevention, Network/Perimeter Security and more. You will work with a passionate team with the goal of making the Internet safer for everyone.  You will build full stack solutions that handle extremely large volumes of critical data harnessing the power of NoSQL, Machine Learning, Big Data, and other emerging technologies. If you're excited about being challenged, building the next generation of security solutions, and making a significant impact in the tech world, we want to hear from you.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200678388",
-  "postingDate": "2026年8月20日",
-  "postingTitle": "Data Platform Engineer, Emerging Technology Solutions",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-20T17:44:29.665Z",
-  "transformedPostingTitle": "data-platform-engineer-emerging-technology-solutions",
-  "reqId": "200678388-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200678388",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -14720,46 +14640,6 @@
   "postExternal": true
  },
  {
-  "id": "200677807-3715",
-  "jobSummary": "At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. We believe that the diversity of our people and their ideas encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Imagine what you could accomplish here by bringing your passion and dedication to building solutions that revolutionize industries.\nWe are seeking an SAP Full Stack Developer to join our team in designing, developing, and deploying cloud enterprise solutions. In this role, you will collaborate with cross-functional partners to translate business requirements into robust, high-performance cloud applications. This is an exciting opportunity to stay at the forefront of modern cloud technologies, solve complex engineering challenges, and make a meaningful impact on Apple's enterprise systems.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200677807",
-  "postingDate": "2026年8月14日",
-  "postingTitle": "SAP Java Full Stack Engineer",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-14T22:25:58.628Z",
-  "transformedPostingTitle": "sap-java-full-stack-engineer",
-  "reqId": "200677807-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200677807",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200677849-3715",
   "jobSummary": "Working with amazing people  and awesome products not only makes your work meaningful, it drives you to make our world a better place. Great ideas have a way of becoming great products, services and customer experiences very quickly at Apple. The Infrastructure Software Development team is looking  for a passionate, self-motivated  and hard-working engineer to be part of a diverse, fast paced  and high-energy team. Bring passion  and dedication to your job  and there's no telling what you could accomplish.\n",
   "locations": [
@@ -15761,7 +15641,7 @@
  },
  {
   "id": "200675988-3715",
-  "jobSummary": "Apple's AI & Data Platform (AiDP) Data Services organization is seeking a motivated database systems engineer to join our Data Services SRE team, focused on our transactional database fleet. Engineers on this team develop and contribute to platform tooling that manages relational and distributed-SQL/document engines powering some of Apple's most critical internet services at massive scale. In AiDP, your work will benefit hundreds of millions of users.\n",
+  "jobSummary": "AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple.\n\nApple's AI & Data Platform (AiDP) Data Services organization is seeking a motivated database systems engineer to join our Data Services SRE team, focused on our transactional database fleet. Engineers on this team develop and contribute to platform tooling that manages relational and distributed-SQL/document engines powering some of Apple's most critical internet services at massive scale. In AiDP, your work will benefit hundreds of millions of users.\n",
   "locations": [
    {
     "postLocationId": "postLocation-SGI",
