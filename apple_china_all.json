@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月06日",
+  "postingDate": "2026年11月07日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-06T07:47:03.086778199Z",
+  "postDateInGMT": "2026-11-07T06:55:16.270569764Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月06日",
+  "postingDate": "2026年11月07日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-06T07:47:03.086787618Z",
+  "postDateInGMT": "2026-11-07T06:55:16.270577510Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月06日",
+  "postingDate": "2026年11月07日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-06T07:47:03.086788841Z",
+  "postDateInGMT": "2026-11-07T06:55:16.270578872Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月06日",
+  "postingDate": "2026年11月07日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-06T07:47:03.086790342Z",
+  "postDateInGMT": "2026-11-07T06:55:16.270579938Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -3240,6 +3240,46 @@
   "postExternal": true
  },
  {
+  "id": "200693838-3715",
+  "jobSummary": "Apple System RF team is looking for a Radio Frequency (RF) System Integration Engineer. Come and join us! You will be responsible for developing and optimizing RF automation software systems used on Apple’s products including iPhones, iPads, Apple Watch and more for different wireless technologies.  Imagine what you could do here! At Apple, new insights have a way of becoming products, services, and customer experiences very quickly. Every single day, people do amazing things at Apple. Do you want to impact billions of users by developing an extraordinary product with a prime focus on accuracy, understandability and performance of the product?   You will become part of a hands-on development team that furthers engineering precision, creativity and innovation. Dynamic, encouraging people and innovative technologies are the norm here. We want you to join our team if you are an inventive engineer with the desire to research and develop solutions that do not yet exist. Bring passion and dedication to your job and there's no telling what you could accomplish.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200693838",
+  "postingDate": "2026年11月06日",
+  "postingTitle": "RF System Integration Manager",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-06T11:17:22.387Z",
+  "transformedPostingTitle": "rf-system-integration-manager",
+  "reqId": "200693838-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200693838",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
   "id": "200682872-3715",
   "jobSummary": "Would you like to drive the future of Apple’s products, applications, and platform while having the unique opportunity to impact some of the most far-reaching software in the world? The Apple Services Engineering (ASE) organization leads the development and innovation on Apple’s cloud-centric products and experiences for users all over the world, including iCloud+, Photos, Mail, Messages, FaceTime, Calendar, Notes, etc. We are the foundation on which Apple’s software developers build the products that our customers love. Our multi-disciplinary data team plays a fundamental role in this mission by partnering closely with product, engineering, and business teams to develop a culture of leveraging data to inform and craft our strategy.",
   "locations": [
@@ -3361,7 +3401,7 @@
  },
  {
   "id": "200678055-3715",
-  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you will do more than join something, you will add something.\n\nApple Home features premium products designed to enhance and personalize the user experience with consumer electronics. Combining performance, style, and innovation, they serve as the perfect complement to daily life, both at work and beyond.\n",
+  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other's ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It's the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you will do more than join something, you will add something.\n\nEcosystem Products and Partnerships is the organization responsible for developing, scaling, and delivering hardware products, accessories, and partner-integrated devices that expand and enrich the core product ecosystem (such as Home, Beats and 2PP accessories).\n",
   "locations": [
    {
     "postLocationId": "postLocation-SGI",
@@ -3377,14 +3417,14 @@
   ],
   "positionId": "200678055",
   "postingDate": "2026年11月05日",
-  "postingTitle": "Engineering Program Manager-Home",
+  "postingTitle": "Ecosystem Platforms and Partnerships - System EPM",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
   "postDateInGMT": "2026-11-05T16:26:47.633Z",
-  "transformedPostingTitle": "engineering-program-manager-home",
+  "transformedPostingTitle": "ecosystem-platforms-and-partnerships-system-epm",
   "reqId": "200678055-3715",
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,
@@ -3761,7 +3801,7 @@
  },
  {
   "id": "200686499-3715",
-  "jobSummary": "The people here at Apple don’t just build products — we craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts.Join Apple, and help us leave the world better than we found it.  \n\nIS&T Retail Store Apps Engineering is responsible for the technology and IT systems used to enable Apple Retail Stores to service millions of customers enabling Apple Retail to become one of the best retailers in the world. Bring passion and dedication to your job and there's no telling what you could accomplish.  \n\nDo you enjoy solving complex business problems with process and technology? Do you thrive in environments that require multi-functional thinking, collaboration, and innovation? If so, this may be the job for you.",
+  "jobSummary": "The people here at Apple don’t just build products — we craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nAre you passionate about solving complex business challenges with process engineering and technology? Do you thrive in environments that require multi-functional thinking, collaboration, and innovation? If so, this may be the job for you. Bring passion and dedication to your job and there's no telling what you could accomplish.",
   "locations": [
    {
     "postLocationId": "postLocation-SGI",
@@ -3777,14 +3817,14 @@
   ],
   "positionId": "200686499",
   "postingDate": "2026年11月04日",
-  "postingTitle": "Quality - Testing SQE",
+  "postingTitle": "Software Quality Engineer, Retail & Marcom Engineering",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
   "postDateInGMT": "2026-11-04T02:40:44.323Z",
-  "transformedPostingTitle": "quality-testing-sqe",
+  "transformedPostingTitle": "software-quality-engineer-retail-marcom-engineering",
   "reqId": "200686499-3715",
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,
@@ -7561,7 +7601,7 @@
  },
  {
   "id": "200684414-3715",
-  "jobSummary": "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary\nproducts, services, and customer experiences very quickly. Bring passion and dedication to\nyour job and there's no telling what you could accomplish. Join Apple, and help us leave the\nworld better than we found it!\n\nThe Business Technology Solutions (BTS) team champions and executes technology-enabled\nbusiness solutions that have material top-line and bottom-line impact to Apple. We participate\nin all elements of the product or program development life cycle, launch revenue-generating\nprograms, implement cost eﬃciencies, support sustainable strategies, and establish scalable\ntechnologies.",
+  "jobSummary": "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Join Apple, and help us leave the world better than we found it!\n\nThe Business Technology Solutions (BTS) team champions and executes technology-enabled business solutions that have material top-line and bottom-line impact to Apple. We participate in all elements of the product or program development life cycle, launch revenue-generating programs, implement cost eﬃciencies, support sustainable strategies, and establish scalable technologies.",
   "locations": [
    {
     "postLocationId": "postLocation-SGI",
@@ -7876,46 +7916,6 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200686355",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200684128-3715",
-  "jobSummary": "The AppleCare Finance BPR team is looking for a passionate and highly motivated SAP Solutions Architect to join our team. We work closely with Apple Care Business development, Insurance partners, Privacy and Compliance teams to understand finance needs around new product launches, geo-expansions, repair strategies, insurance regulatory requirements etc. We participate in IT deployment projects to represent AC Finance to ensure accuracy in financial treatment of AC Sales, Service, Insurance activities in SAP and Reporting systems.\nIf you thrive in a fast-moving, collaborative environment and want to solve complex problems, we’d love to hear from you.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200684128",
-  "postingDate": "2026年10月02日",
-  "postingTitle": "Apple Care Finance, SAP Solutions Architect ",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-02T17:08:29.957Z",
-  "transformedPostingTitle": "apple-care-finance-sap-solutions-architect",
-  "reqId": "200684128-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200684128",
   "isMultiLocation": false,
   "postExternal": true
  },

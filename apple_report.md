@@ -1,26 +1,26 @@
 # Apple 中国区「计算机相关」岗位爬取与分析报告
 
 > 数据来源：https://jobs.apple.com/zh-cn/search?location=china-CHNC  
-> 抓取时间口径：2026-11-06  
-> 命中岗位数：**256** （从 558 条中国区在招岗位中筛选，已剔除销售/市场/职能/零售/制造质量工艺等非计算机类）
+> 抓取时间口径：2026-11-07  
+> 命中岗位数：**258** （从 558 条中国区在招岗位中筛选，已剔除销售/市场/职能/零售/制造质量工艺等非计算机类）
 
 ## 一、概览
 
-- 计算机相关岗位总数：**256**
+- 计算机相关岗位总数：**258**
   - 软件 / 机器学习 / AI（SFTWR + MLAI）：195
-  - 硬件系统 / 嵌入式 / 射频（HRDWR 软件相关）：49
+  - 硬件系统 / 嵌入式 / 射频（HRDWR 软件相关）：51
   - 在校实习（软件 / AI 方向）：6
   - 数据 / 算法（运营数据类）：6
 
 - 团队分布：
   - Software and Services：171
-  - Hardware：49
+  - Hardware：51
   - Machine Learning and AI：24
   - Students：6
   - Operations and Supply Chain：6
 
 - 工作城市（Top）：
-  - Shanghai：202
+  - Shanghai：204
   - Beijing：28
   - Shenzhen：14
   - Chengdu：4
@@ -28,37 +28,37 @@
   - Shenzhen Metro Area：3
   - Suzhou：2
 
-## 二、任职要求关键词频率（基于 256 个岗位的「最低要求+优先要求」文本）
+## 二、任职要求关键词频率（基于 258 个岗位的「最低要求+优先要求」文本）
 
 下表反映**跨岗位共性**——出现比例越高，越属于「通用要求」。
 
 | 要求维度 | 出现岗位数 | 占比 |
 |---|---:|---:|
-| 工作经验(年) | 251 | 98% |
-| 计算机科学 | 180 | 70% |
-| 数据/大数据 | 179 | 69% |
-| 沟通协作 | 176 | 68% |
-| 电子/电气工程 | 171 | 66% |
-| 领导力/管理 | 165 | 64% |
-| 相关学位(本科/硕士) | 161 | 62% |
-| Python | 161 | 62% |
+| 工作经验(年) | 253 | 98% |
+| 计算机科学 | 182 | 70% |
+| 数据/大数据 | 180 | 69% |
+| 沟通协作 | 178 | 68% |
+| 电子/电气工程 | 173 | 67% |
+| 领导力/管理 | 167 | 64% |
+| 相关学位(本科/硕士) | 162 | 62% |
+| Python | 162 | 62% |
 | 云计算/分布式 | 150 | 58% |
-| C/C++ | 145 | 56% |
+| C/C++ | 146 | 56% |
 | Java | 101 | 39% |
 | SQL/数据库 | 97 | 37% |
-| 英语能力 | 88 | 34% |
-| 解决问题 | 72 | 28% |
+| 英语能力 | 90 | 34% |
+| 解决问题 | 73 | 28% |
 | 软件工程 | 69 | 26% |
 | 机器学习/深度学习 | 63 | 24% |
 | 安全 | 63 | 24% |
+| 测试/质量 | 46 | 17% |
 | 后端/服务 | 46 | 17% |
-| 测试/质量 | 45 | 17% |
 | 前端/Web | 42 | 16% |
 | iOS/macOS | 31 | 12% |
 | 算法 | 29 | 11% |
-| 嵌入式/固件 | 27 | 10% |
+| 嵌入式/固件 | 28 | 10% |
 | Go | 24 | 9% |
-| 项目管理 | 20 | 7% |
+| 项目管理 | 21 | 8% |
 | Swift/Objective-C | 10 | 3% |
 
 ## 三、全部岗位清单（名称 + 链接）
@@ -100,7 +100,7 @@
 | 29 | Forward Deployed Software Engineer - Platforms Engineering | Software and Services | Shanghai | 2026年11月05日 | [查看](https://jobs.apple.com/zh-cn/details/200690939/forward-deployed-software-engineer-platforms-engineering) |
 | 30 | Software Engineer, Apple Pay (Wallet, Payments and Commerce) | Software and Services | Shanghai | 2026年11月04日 | [查看](https://jobs.apple.com/zh-cn/details/200693338/software-engineer-apple-pay-wallet-payments-and-commerce) |
 | 31 | Java Backend Engineer | Software and Services | Shanghai | 2026年11月04日 | [查看](https://jobs.apple.com/zh-cn/details/200677291/java-backend-engineer) |
-| 32 | Quality - Testing SQE | Software and Services | Shanghai | 2026年11月04日 | [查看](https://jobs.apple.com/zh-cn/details/200686499/quality-testing-sqe) |
+| 32 | Software Quality Engineer, Retail & Marcom Engineering | Software and Services | Shanghai | 2026年11月04日 | [查看](https://jobs.apple.com/zh-cn/details/200686499/software-quality-engineer-retail-marcom-engineering) |
 | 33 | Systems SRE - Shanghai - Tech Lead Manager | Software and Services | Shanghai | 2026年11月04日 | [查看](https://jobs.apple.com/zh-cn/details/200685593/systems-sre-shanghai-tech-lead-manager) |
 | 34 | Engineering Manager – SAP Technology & Cloud Platforms | Software and Services | Shanghai | 2026年11月02日 | [查看](https://jobs.apple.com/zh-cn/details/200685827/engineering-manager-sap-technology-cloud-platforms) |
 | 35 | Senior Software Engineer - Apple Pay Cryptography Services | Software and Services | Shanghai | 2026年10月30日 | [查看](https://jobs.apple.com/zh-cn/details/200688112/senior-software-engineer-apple-pay-cryptography-services) |
@@ -264,7 +264,7 @@
 | 193 | Computer Vision Algorithm Engineer | Machine Learning and AI | Shanghai | 2023年9月21日 | [查看](https://jobs.apple.com/zh-cn/details/200472645/computer-vision-algorithm-engineer) |
 | 194 | Field Security Technical Engineer | Software and Services | Shenzhen | 2026年10月30日 | [查看](https://jobs.apple.com/zh-cn/details/200692595/field-security-technical-engineer) |
 | 195 | Embedded Software Engineer | Software and Services | Shenzhen | 2025年10月28日 | [查看](https://jobs.apple.com/zh-cn/details/200615795/embedded-software-engineer) |
-### 硬件系统 / 嵌入式 / 射频（HRDWR 软件相关）（49）
+### 硬件系统 / 嵌入式 / 射频（HRDWR 软件相关）（51）
 
 | # | 职位名称 | 团队 | 地点 | 发布日期 | 链接 |
 |---|---|---|---|---|---|
@@ -278,45 +278,47 @@
 | 8 | Mac System Engineering Program Manager | Hardware | Chengdu | 2026年10月27日 | [查看](https://jobs.apple.com/zh-cn/details/200691847/mac-system-engineering-program-manager) |
 | 9 | Mac System Engineering Program Manager | Hardware | Chengdu | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200678375/mac-system-engineering-program-manager) |
 | 10 | Mac Hardware Systems Engineer | Hardware | Chengdu | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674741/mac-hardware-systems-engineer) |
-| 11 | RFHW Systems Engineer - Connectivity/NFC | Hardware | Shanghai | 2026年11月02日 | [查看](https://jobs.apple.com/zh-cn/details/200692446/rfhw-systems-engineer-connectivity-nfc) |
-| 12 | RFIC Validation and Characterization Engineer | Hardware | Shanghai | 2026年10月29日 | [查看](https://jobs.apple.com/zh-cn/details/200691870/rfic-validation-and-characterization-engineer) |
-| 13 | Wireless Firmware Engineer | Hardware | Shanghai | 2026年10月29日 | [查看](https://jobs.apple.com/zh-cn/details/200692146/wireless-firmware-engineer) |
-| 14 | iPhone System HW Electrical Engineer | Hardware | Shanghai | 2026年10月28日 | [查看](https://jobs.apple.com/zh-cn/details/200692168/iphone-system-hw-electrical-engineer) |
-| 15 | Camera Hardware Design and Simulation Engineer | Hardware | Shanghai | 2026年10月27日 | [查看](https://jobs.apple.com/zh-cn/details/200691796/camera-hardware-design-and-simulation-engineer) |
-| 16 | Hardware System Engineer – iPhone System Technologies — SoC | Hardware | Shanghai | 2026年10月26日 | [查看](https://jobs.apple.com/zh-cn/details/200691530/hardware-system-engineer-iphone-system-technologies-soc) |
-| 17 | iPhone System HW Validation Engineer | Hardware | Shanghai | 2026年10月20日 | [查看](https://jobs.apple.com/zh-cn/details/200690080/iphone-system-hw-validation-engineer) |
-| 18 | Camera Module Design Lead | Hardware | Shanghai | 2026年10月20日 | [查看](https://jobs.apple.com/zh-cn/details/200690082/camera-module-design-lead) |
-| 19 | Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering) | Hardware | Shanghai | 2026年10月08日 | [查看](https://jobs.apple.com/zh-cn/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering) |
-| 20 | Wireless Silicon Debug and Characterization Engineering Manager | Hardware | Shanghai | 2026年10月04日 | [查看](https://jobs.apple.com/zh-cn/details/200686355/wireless-silicon-debug-and-characterization-engineering-manager) |
-| 21 | Touch HW EE Validation Engineer | Hardware | Shanghai | 2026年9月21日 | [查看](https://jobs.apple.com/zh-cn/details/200684744/touch-hw-ee-validation-engineer) |
-| 22 | Product RF Design Engineer | Hardware | Shanghai | 2026年9月14日 | [查看](https://jobs.apple.com/zh-cn/details/200682870/product-rf-design-engineer) |
-| 23 | Apple Vision Pro Hardware System EE Intern | Hardware | Shanghai | 2026年9月11日 | [查看](https://jobs.apple.com/zh-cn/details/200681917/apple-vision-pro-hardware-system-ee-intern) |
-| 24 | Senior Software Engineer, Machine Learning & AI | Hardware | Shanghai | 2026年9月08日 | [查看](https://jobs.apple.com/zh-cn/details/200682296/senior-software-engineer-machine-learning-ai) |
-| 25 | Embedded Software Engineer | Hardware | Shanghai | 2026年9月08日 | [查看](https://jobs.apple.com/zh-cn/details/200644032/embedded-software-engineer) |
-| 26 | Wireless RF Hardware Engineer | Hardware | Shanghai | 2026年8月19日 | [查看](https://jobs.apple.com/zh-cn/details/200678605/wireless-rf-hardware-engineer) |
-| 27 | Software Engineering Intern – AI Tools for Hardware Engineering | Hardware | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering) |
-| 28 | Hardware System Integration Engineer Intern - AirPods | Hardware | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676914/hardware-system-integration-engineer-intern-airpods) |
-| 29 | DRAM Design Validation Engineer | Hardware | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676915/dram-design-validation-engineer) |
-| 30 | System EE-EE/HW Intern (Shanghai) | Hardware | Shanghai | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494601/system-ee-ee-hw-intern-shanghai) |
-| 31 | Senior Software Engineer, Test Frameworks | Hardware | Shanghai | 2026年7月17日 | [查看](https://jobs.apple.com/zh-cn/details/200672684/senior-software-engineer-test-frameworks) |
-| 32 | PLC Automation Engineer (Programmable Logic Controller) | Hardware | Shanghai | 2026年6月02日 | [查看](https://jobs.apple.com/zh-cn/details/200665566/plc-automation-engineer-programmable-logic-controller) |
-| 33 | Power Systems Integration Engineer (HWEE) - Wireless Power Division | Hardware | Shanghai | 2026年5月18日 | [查看](https://jobs.apple.com/zh-cn/details/200663266/power-systems-integration-engineer-hwee-wireless-power-division) |
-| 34 | SoC Test Engineering Program Manager | Hardware | Shanghai | 2026年2月06日 | [查看](https://jobs.apple.com/zh-cn/details/200645713/soc-test-engineering-program-manager) |
-| 35 | Wireless System Engineer | Hardware | Shanghai | 2026年1月07日 | [查看](https://jobs.apple.com/zh-cn/details/200640243/wireless-system-engineer) |
-| 36 | Vision Pro Hardware System Engineer | Hardware | Shanghai | 2024年8月30日 | [查看](https://jobs.apple.com/zh-cn/details/200565793/vision-pro-hardware-system-engineer) |
-| 37 | Software Development Engineer - Tool Integration | Hardware | Shanghai | 2022年7月15日 | [查看](https://jobs.apple.com/zh-cn/details/200401406/software-development-engineer-tool-integration) |
-| 38 | Software Engineering Intern – AI Tools for Hardware Engineering | Hardware | Shenzhen | 2026年10月16日 | [查看](https://jobs.apple.com/zh-cn/details/200688942/software-engineering-intern-ai-tools-for-hardware-engineering) |
-| 39 | iPad System EE - Hardware Engineering Intern | Hardware | Shenzhen | 2026年10月14日 | [查看](https://jobs.apple.com/zh-cn/details/200688951/ipad-system-ee-hardware-engineering-intern) |
-| 40 | Home & Beats system EE | Hardware | Shenzhen | 2026年10月13日 | [查看](https://jobs.apple.com/zh-cn/details/200688687/home-beats-system-ee) |
-| 41 | Hardware Test Engineer - iPhone | Hardware | Shenzhen | 2026年9月22日 | [查看](https://jobs.apple.com/zh-cn/details/200685012/hardware-test-engineer-iphone) |
-| 42 | iPad Hardware System EE | Hardware | Shenzhen | 2026年8月25日 | [查看](https://jobs.apple.com/zh-cn/details/200679839/ipad-hardware-system-ee) |
-| 43 | System EE-EE/HW Intern (Shenzhen) | Hardware | Shenzhen | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494600/system-ee-ee-hw-intern-shenzhen) |
-| 44 | iPhone System Hardware Validation Engineer-Shenzhen | Hardware | Shenzhen | 2025年12月25日 | [查看](https://jobs.apple.com/zh-cn/details/200639223/iphone-system-hardware-validation-engineer-shenzhen) |
-| 45 | System QA Engineer Lead (Beats SQA) | Hardware | Shenzhen | 2025年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200616174/system-qa-engineer-lead-beats-sqa) |
-| 46 | Control Systems and Sensing Integration Engineer | Hardware | Shenzhen | 2024年4月29日 | [查看](https://jobs.apple.com/zh-cn/details/200548706/control-systems-and-sensing-integration-engineer) |
-| 47 | iPad Hardware Systems Integration Engineer | Hardware | Shenzhen | 2021年4月07日 | [查看](https://jobs.apple.com/zh-cn/details/200237136/ipad-hardware-systems-integration-engineer) |
-| 48 | Hardware System Integration Engineer - AirPods | Hardware | Suzhou | 2026年9月15日 | [查看](https://jobs.apple.com/zh-cn/details/200683452/hardware-system-integration-engineer-airpods) |
-| 49 | System EE - EE/HW Intern (Suzhou) | Hardware | Suzhou | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494610/system-ee-ee-hw-intern-suzhou) |
+| 11 | RF System Integration Manager | Hardware | Shanghai | 2026年11月06日 | [查看](https://jobs.apple.com/zh-cn/details/200693838/rf-system-integration-manager) |
+| 12 | Ecosystem Platforms and Partnerships - System EPM | Hardware | Shanghai | 2026年11月05日 | [查看](https://jobs.apple.com/zh-cn/details/200678055/ecosystem-platforms-and-partnerships-system-epm) |
+| 13 | RFHW Systems Engineer - Connectivity/NFC | Hardware | Shanghai | 2026年11月02日 | [查看](https://jobs.apple.com/zh-cn/details/200692446/rfhw-systems-engineer-connectivity-nfc) |
+| 14 | RFIC Validation and Characterization Engineer | Hardware | Shanghai | 2026年10月29日 | [查看](https://jobs.apple.com/zh-cn/details/200691870/rfic-validation-and-characterization-engineer) |
+| 15 | Wireless Firmware Engineer | Hardware | Shanghai | 2026年10月29日 | [查看](https://jobs.apple.com/zh-cn/details/200692146/wireless-firmware-engineer) |
+| 16 | iPhone System HW Electrical Engineer | Hardware | Shanghai | 2026年10月28日 | [查看](https://jobs.apple.com/zh-cn/details/200692168/iphone-system-hw-electrical-engineer) |
+| 17 | Camera Hardware Design and Simulation Engineer | Hardware | Shanghai | 2026年10月27日 | [查看](https://jobs.apple.com/zh-cn/details/200691796/camera-hardware-design-and-simulation-engineer) |
+| 18 | Hardware System Engineer – iPhone System Technologies — SoC | Hardware | Shanghai | 2026年10月26日 | [查看](https://jobs.apple.com/zh-cn/details/200691530/hardware-system-engineer-iphone-system-technologies-soc) |
+| 19 | iPhone System HW Validation Engineer | Hardware | Shanghai | 2026年10月20日 | [查看](https://jobs.apple.com/zh-cn/details/200690080/iphone-system-hw-validation-engineer) |
+| 20 | Camera Module Design Lead | Hardware | Shanghai | 2026年10月20日 | [查看](https://jobs.apple.com/zh-cn/details/200690082/camera-module-design-lead) |
+| 21 | Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering) | Hardware | Shanghai | 2026年10月08日 | [查看](https://jobs.apple.com/zh-cn/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering) |
+| 22 | Wireless Silicon Debug and Characterization Engineering Manager | Hardware | Shanghai | 2026年10月04日 | [查看](https://jobs.apple.com/zh-cn/details/200686355/wireless-silicon-debug-and-characterization-engineering-manager) |
+| 23 | Touch HW EE Validation Engineer | Hardware | Shanghai | 2026年9月21日 | [查看](https://jobs.apple.com/zh-cn/details/200684744/touch-hw-ee-validation-engineer) |
+| 24 | Product RF Design Engineer | Hardware | Shanghai | 2026年9月14日 | [查看](https://jobs.apple.com/zh-cn/details/200682870/product-rf-design-engineer) |
+| 25 | Apple Vision Pro Hardware System EE Intern | Hardware | Shanghai | 2026年9月11日 | [查看](https://jobs.apple.com/zh-cn/details/200681917/apple-vision-pro-hardware-system-ee-intern) |
+| 26 | Senior Software Engineer, Machine Learning & AI | Hardware | Shanghai | 2026年9月08日 | [查看](https://jobs.apple.com/zh-cn/details/200682296/senior-software-engineer-machine-learning-ai) |
+| 27 | Embedded Software Engineer | Hardware | Shanghai | 2026年9月08日 | [查看](https://jobs.apple.com/zh-cn/details/200644032/embedded-software-engineer) |
+| 28 | Wireless RF Hardware Engineer | Hardware | Shanghai | 2026年8月19日 | [查看](https://jobs.apple.com/zh-cn/details/200678605/wireless-rf-hardware-engineer) |
+| 29 | Software Engineering Intern – AI Tools for Hardware Engineering | Hardware | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering) |
+| 30 | Hardware System Integration Engineer Intern - AirPods | Hardware | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676914/hardware-system-integration-engineer-intern-airpods) |
+| 31 | DRAM Design Validation Engineer | Hardware | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676915/dram-design-validation-engineer) |
+| 32 | System EE-EE/HW Intern (Shanghai) | Hardware | Shanghai | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494601/system-ee-ee-hw-intern-shanghai) |
+| 33 | Senior Software Engineer, Test Frameworks | Hardware | Shanghai | 2026年7月17日 | [查看](https://jobs.apple.com/zh-cn/details/200672684/senior-software-engineer-test-frameworks) |
+| 34 | PLC Automation Engineer (Programmable Logic Controller) | Hardware | Shanghai | 2026年6月02日 | [查看](https://jobs.apple.com/zh-cn/details/200665566/plc-automation-engineer-programmable-logic-controller) |
+| 35 | Power Systems Integration Engineer (HWEE) - Wireless Power Division | Hardware | Shanghai | 2026年5月18日 | [查看](https://jobs.apple.com/zh-cn/details/200663266/power-systems-integration-engineer-hwee-wireless-power-division) |
+| 36 | SoC Test Engineering Program Manager | Hardware | Shanghai | 2026年2月06日 | [查看](https://jobs.apple.com/zh-cn/details/200645713/soc-test-engineering-program-manager) |
+| 37 | Wireless System Engineer | Hardware | Shanghai | 2026年1月07日 | [查看](https://jobs.apple.com/zh-cn/details/200640243/wireless-system-engineer) |
+| 38 | Vision Pro Hardware System Engineer | Hardware | Shanghai | 2024年8月30日 | [查看](https://jobs.apple.com/zh-cn/details/200565793/vision-pro-hardware-system-engineer) |
+| 39 | Software Development Engineer - Tool Integration | Hardware | Shanghai | 2022年7月15日 | [查看](https://jobs.apple.com/zh-cn/details/200401406/software-development-engineer-tool-integration) |
+| 40 | Software Engineering Intern – AI Tools for Hardware Engineering | Hardware | Shenzhen | 2026年10月16日 | [查看](https://jobs.apple.com/zh-cn/details/200688942/software-engineering-intern-ai-tools-for-hardware-engineering) |
+| 41 | iPad System EE - Hardware Engineering Intern | Hardware | Shenzhen | 2026年10月14日 | [查看](https://jobs.apple.com/zh-cn/details/200688951/ipad-system-ee-hardware-engineering-intern) |
+| 42 | Home & Beats system EE | Hardware | Shenzhen | 2026年10月13日 | [查看](https://jobs.apple.com/zh-cn/details/200688687/home-beats-system-ee) |
+| 43 | Hardware Test Engineer - iPhone | Hardware | Shenzhen | 2026年9月22日 | [查看](https://jobs.apple.com/zh-cn/details/200685012/hardware-test-engineer-iphone) |
+| 44 | iPad Hardware System EE | Hardware | Shenzhen | 2026年8月25日 | [查看](https://jobs.apple.com/zh-cn/details/200679839/ipad-hardware-system-ee) |
+| 45 | System EE-EE/HW Intern (Shenzhen) | Hardware | Shenzhen | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494600/system-ee-ee-hw-intern-shenzhen) |
+| 46 | iPhone System Hardware Validation Engineer-Shenzhen | Hardware | Shenzhen | 2025年12月25日 | [查看](https://jobs.apple.com/zh-cn/details/200639223/iphone-system-hardware-validation-engineer-shenzhen) |
+| 47 | System QA Engineer Lead (Beats SQA) | Hardware | Shenzhen | 2025年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200616174/system-qa-engineer-lead-beats-sqa) |
+| 48 | Control Systems and Sensing Integration Engineer | Hardware | Shenzhen | 2024年4月29日 | [查看](https://jobs.apple.com/zh-cn/details/200548706/control-systems-and-sensing-integration-engineer) |
+| 49 | iPad Hardware Systems Integration Engineer | Hardware | Shenzhen | 2021年4月07日 | [查看](https://jobs.apple.com/zh-cn/details/200237136/ipad-hardware-systems-integration-engineer) |
+| 50 | Hardware System Integration Engineer - AirPods | Hardware | Suzhou | 2026年9月15日 | [查看](https://jobs.apple.com/zh-cn/details/200683452/hardware-system-integration-engineer-airpods) |
+| 51 | System EE - EE/HW Intern (Suzhou) | Hardware | Suzhou | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494610/system-ee-ee-hw-intern-suzhou) |
 ### 数据 / 算法（运营数据类）（6）
 
 | # | 职位名称 | 团队 | 地点 | 发布日期 | 链接 |
@@ -342,13 +344,13 @@
 
 ### 4.1 共同要求（绝大多数岗位都具备）
 
-综合 256 份 JD，以下属于「计算机相关岗位的通用门槛」：
+综合 258 份 JD，以下属于「计算机相关岗位的通用门槛」：
 
 - **工作经验(年)**（约 98% 的岗位提及）
 - **计算机科学**（约 70% 的岗位提及）
 - **数据/大数据**（约 69% 的岗位提及）
 - **沟通协作**（约 68% 的岗位提及）
-- **电子/电气工程**（约 66% 的岗位提及）
+- **电子/电气工程**（约 67% 的岗位提及）
 - **领导力/管理**（约 64% 的岗位提及）
 - **相关学位(本科/硕士)**（约 62% 的岗位提及）
 - **Python**（约 62% 的岗位提及）
