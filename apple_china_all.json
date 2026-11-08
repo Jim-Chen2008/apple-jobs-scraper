@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月07日",
+  "postingDate": "2026年11月08日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-07T06:55:16.270569764Z",
+  "postDateInGMT": "2026-11-08T07:02:31.531828941Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月07日",
+  "postingDate": "2026年11月08日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-07T06:55:16.270577510Z",
+  "postDateInGMT": "2026-11-08T07:02:31.531837532Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月07日",
+  "postingDate": "2026年11月08日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-07T06:55:16.270578872Z",
+  "postDateInGMT": "2026-11-08T07:02:31.531839033Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月07日",
+  "postingDate": "2026年11月08日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-07T06:55:16.270579938Z",
+  "postDateInGMT": "2026-11-08T07:02:31.531840133Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -2436,46 +2436,6 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200646616",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200633492-0351",
-  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-BJS",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Beijing",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200633492",
-  "postingDate": "2025年12月15日",
-  "postingTitle": "China Health Policy & Government Affairs Lead ",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2025-12-15T00:56:32.434Z",
-  "transformedPostingTitle": "china-health-policy-government-affairs-lead",
-  "reqId": "200633492-0351",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200633492",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -11200,46 +11160,6 @@
   "postExternal": true
  },
  {
-  "id": "200681656-3715",
-  "jobSummary": "Marketing Communications (Marcom)  is the creatively-led global team that oversees Apple’s consumer facing marketing. We ensure the flawless development and execution of world-class communications across all medias and platforms. Every day, hundreds of millions of Apple customers around the world interact with our products. We drive the strategy and creative work that provide both new and existing customers with simple, engaging and inspiring marketing experiences.\n\nWithin Marcom Strategy, the Channel Strategist partners closely with Channel and Partner Comms to drive best-in-class marketing and customer experiences across our partner ecosystem. This group shapes how Apple shows up across e-commerce platforms, carriers, retailers, and financial partners—amplifying our business at scale and bringing us closer to our customers.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200681656",
-  "postingDate": "2026年9月08日",
-  "postingTitle": "Channel Strategist",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-08T07:22:40.979Z",
-  "transformedPostingTitle": "channel-strategist",
-  "reqId": "200681656-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Marketing",
-   "teamID": "teamsAndSubTeams-MKTG",
-   "teamCode": "MKTG"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200681656",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200681650-3715",
   "jobSummary": "Marketing Communications (Marcom) is the creatively led global team that oversees Apple’s consumer-facing marketing. We ensure the flawless development and execution of world-class communications across all media and platforms. Every day, hundreds of millions of Apple customers around the world interact with our products. We drive the strategy and creative work that deliver simple, engaging, and inspiring marketing experiences to both new and existing customers.\n\nThe Senior Brand Strategist is pivotal to identifying high-impact strategic opportunities and shaping how Apple articulates brand and product narratives across Greater China. This role bridges global brand ambition with local market realities, uncovering unaddressed consumer needs and setting the strategic foundation for truly integrated campaigns.",
   "locations": [
@@ -15676,86 +15596,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200675988",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200676510-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nDo you love problem solving and thinking beyond an obvious solution? Are you passionate about data accuracy and improving operational efficiency by managing complex data and information delivery? We are! \n\nThe Retail Business Intelligence team is looking for a resourceful, energetic Senior Data Engineer to lead and assist with the data needs of projects by crafting creative solutions to deliver data to end users. You’ll work with cross-functional teams to stitch data from various systems into unified, high-performance and low-latency reporting layers for end-to-end analyses of projects. Join us, and you’ll help provide the data needed for the organization to effectively manage the business and improve our customer experiences across the world.\n\nDay-to-day responsibilities in the Retail Business Intelligence team include partnering with IT teams to build critical data pipelines, ad hoc data analyses, troubleshooting data and supporting project teams during all stages of projects including, requirement gatherings, gap reviews, development and testing.\n\nIf you are a strategic problem solver who can lead and work with cross-functional teams to handle changes, perform data analyses, and execute project requirements to support an ever-changing data landscape, apply today!",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200676510",
-  "postingDate": "2026年8月07日",
-  "postingTitle": "Senior Data Engineer, Retail Business Intelligence",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-07T07:08:10.464Z",
-  "transformedPostingTitle": "senior-data-engineer-retail-business-intelligence",
-  "reqId": "200676510-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200676510",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200676246-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nDo you love problem solving and thinking beyond an obvious solution? Are you passionate about data accuracy and improving operational efficiency by managing complex data and information delivery? We are! \n\nOur Retail Business Intelligence team within ASO is looking for a resourceful, energetic Senior Data Engineer to serve as a data subject matter expert across high-impact capital projects. You’ll partner with cross-functional teams to define how the success of major business initiatives is measured, tracked and understood. Join us, and you’ll help ensure that the data behind every initiative is accurate, actionable and ready to drive decisions at scale.\n\nDay-to-day responsibilities in the Retail Business Intelligence team include partnering with IT teams to build critical data pipelines, ad hoc data analyses, troubleshooting data and supporting project teams during all stages of projects including, requirement gatherings, gap reviews, development and testing.\n\nIf you are a strategic problem solver who can lead and work with cross-functional teams to handle changes, perform data analyses, and execute project requirements to support an ever-changing data landscape, apply today!",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200676246",
-  "postingDate": "2026年8月07日",
-  "postingTitle": "Senior Data Engineer, Retail Business Intelligence",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-07T05:38:39.574Z",
-  "transformedPostingTitle": "senior-data-engineer-retail-business-intelligence",
-  "reqId": "200676246-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200676246",
   "isMultiLocation": false,
   "postExternal": true
  },
