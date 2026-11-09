@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月08日",
+  "postingDate": "2026年11月09日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-08T07:02:31.531828941Z",
+  "postDateInGMT": "2026-11-09T07:44:57.860394156Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月08日",
+  "postingDate": "2026年11月09日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-08T07:02:31.531837532Z",
+  "postDateInGMT": "2026-11-09T07:44:57.860402623Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月08日",
+  "postingDate": "2026年11月09日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-08T07:02:31.531839033Z",
+  "postDateInGMT": "2026-11-09T07:44:57.860404199Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月08日",
+  "postingDate": "2026年11月09日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-08T07:02:31.531840133Z",
+  "postDateInGMT": "2026-11-09T07:44:57.860405585Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -237,6 +237,46 @@
   "homeOffice": false,
   "jobPositionId": "PIPE-200672850",
   "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200692389-7139",
+  "jobSummary": "The Sensing HW team develops groundbreaking sensors that are central to a variety of Apple platforms, including Macs, Audio, the Home ecosystem, and accessories.\n\nYou will play a key role in developing, characterizing, and validating sensor systems used in these platforms. The ideal candidate will have expertise in touch sensing technologies, hands-on experience with hardware validation processes, and the ability to work closely with cross-functional teams to drive product excellence. Familiarity with product integration and manufacturing technologies used in consumer electronics is also preferred.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SHNG",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai Metro Area",
+    "countryID": "iso-country-CHN",
+    "level": 4
+   }
+  ],
+  "positionId": "200692389",
+  "postingDate": "2026年10月29日",
+  "postingTitle": "Sensing Hardware Validation Engineer",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-10-29T23:57:05.009Z",
+  "transformedPostingTitle": "sensing-hardware-validation-engineer",
+  "reqId": "200692389-7139",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200692389",
+  "isMultiLocation": true,
   "postExternal": true
  },
  {
@@ -436,46 +476,6 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200605593",
-  "isMultiLocation": true,
-  "postExternal": true
- },
- {
-  "id": "200692389",
-  "jobSummary": "The Sensing HW team develops groundbreaking sensors that are central to a variety of Apple platforms, including Macs, Audio, the Home ecosystem, and accessories.\n\nYou will play a key role in developing, characterizing, and validating sensor systems used in these platforms. The ideal candidate will have expertise in touch sensing technologies, hands-on experience with hardware validation processes, and the ability to work closely with cross-functional teams to drive product excellence. Familiarity with product integration and manufacturing technologies used in consumer electronics is also preferred.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SHEN",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shenzhen Metro Area",
-    "countryID": "iso-country-CHN",
-    "level": 4
-   }
-  ],
-  "positionId": "200692389",
-  "postingDate": "2026年10月29日",
-  "postingTitle": "Sensing Hardware Validation Engineer",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-29T23:57:05.009Z",
-  "transformedPostingTitle": "sensing-hardware-validation-engineer",
-  "reqId": "200692389",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Hardware",
-   "teamID": "teamsAndSubTeams-HRDWR",
-   "teamCode": "HRDWR"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200692389",
   "isMultiLocation": true,
   "postExternal": true
  },
@@ -3196,6 +3196,206 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200628625",
+  "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200674479-3715",
+  "jobSummary": "The people here at Apple don’t just create products — they create the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.   \n\nAt Apple, we believe in the power of technology to enrich people’s lives. Everything we build is designed—first and foremost—with helping people in mind. We believe advertising is no different, and that its value should come from how it benefits customers, not what it extracts from them. Our Apple Ads team applies that belief by delivering ads that add value, helping people discover content, supporting creators, and protecting and respecting everyone’s privacy.   \n\nOur technology powers ads in the App Store, Apple News, Stocks, and Apple TV. We help developers and marketers of all sizes drive discovery of their apps across the App Store. Our display ads in Apple News and Stocks aid advertisers in promoting their products alongside trusted content in a brand-safe environment, while supporting publishers and journalists. We help advertisers connect with captivated audiences with our sponsorship integrations and experiences in live sports on Apple TV. Everything we do is with the unwavering commitment to privacy you expect from Apple. Because when advertising is done right, it benefits everyone.\n\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200674479",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Client Partner, Games Export, Apple Ads Partner Development, Greater China",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T06:59:09.421Z",
+  "transformedPostingTitle": "client-partner-games-export-apple-ads-partner-development-greater-china",
+  "reqId": "200674479-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Sales and Business Development",
+   "teamID": "teamsAndSubTeams-SLDEV",
+   "teamCode": "SLDEV"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200674479",
+  "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200688129-3715",
+  "jobSummary": "Apple is a place where extraordinary people gather to do their best work. Just be ready to dream big.\n\nThe people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading customer experiences. Join Apple, and help us leave the world better than we found it.\n\nImagine what you could do here. At Apple, great ideas have a way of becoming wonderful products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.\n\nBe a part of the Field Design Engineering (FDE) team!\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200688129",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Global Navigation Satellite System Evaluation & Field Test Intern - Shanghai",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T06:01:08.624Z",
+  "transformedPostingTitle": "global-navigation-satellite-system-evaluation-field-test-intern-shanghai",
+  "reqId": "200688129-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Students",
+   "teamID": "teamsAndSubTeams-STDNT",
+   "teamCode": "STDNT"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200688129",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200693007-3715",
+  "jobSummary": "\nAre you passionate about using your financial knowledge to navigate complex cross functional challenges? Just as our customers find value in Apple products, the Finance group finds value for both Apple and its shareholders. As part of this group, you will support Apple’s growth, applying the same level of innovation toward financial matters as we do toward our products and services. You will be defining, leading and delivering programs to optimize the financial lifecycle of our rapidly expanding digital Services Businesses.\n\nWe are seeking an experienced and dynamic Finance Program Manager with prior experience in driving large cross functional global initiatives, such as ERP implementations, Finance Transformations and new product introductions.\n\nThe ideal candidate will possess a combination of a strong blend of financial acumen, passion for innovation and ability to confidently collaborate with Product, Engineering, and Finance stakeholders with minimal oversight.\n\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200693007",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Senior Finance Operations Manager, Services ",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T05:12:53.276Z",
+  "transformedPostingTitle": "senior-finance-operations-manager-services",
+  "reqId": "200693007-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Corporate Functions",
+   "teamID": "teamsAndSubTeams-CORSV",
+   "teamCode": "CORSV"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200693007",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200677825-3715",
+  "jobSummary": "Imagine what you could do here. At Apple, new ideas become extraordinary products, services and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you can accomplish.\n\nThe Core Data & Intelligence organization builds the data, models and services that accelerate the growth of Apple's services. We are looking for a Senior Data Engineering Manager based in Shanghai, China to lead data engineering efforts spanning Apple Services Engineering. You will build and lead a high-performing team of data engineers, set the technical direction for large-scale data foundations and platforms, and partner with cross-functional leaders to turn business needs into scalable, privacy-first data solutions.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200677825",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Senior Data Engineering Manager, Core Data & Intelligence",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T02:23:15.676Z",
+  "transformedPostingTitle": "senior-data-engineering-manager-core-data-intelligence",
+  "reqId": "200677825-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Software and Services",
+   "teamID": "teamsAndSubTeams-SFTWR",
+   "teamCode": "SFTWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200677825",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200663491-3715",
+  "jobSummary": "As part of our Mac/Input Devices Engineering team, you will help craft creative input devices solutions that facilitate people communicating with multiple devices. You will work across disciplines to transform improved hardware elements into a single, integrated design. You will help us innovate new technologies that continuously outperform the previous iterations. By collaborating with other product development groups across Apple, you will push the industry boundaries of what a Mac/input device can do and improve the product experience for our customers across the world.  The Mac/Input Devices Engineering team at Apple produces innovative and highly reliable systems for Apple product lines. Tightly integrated with Product Development, Operations, Industrial Design and Reliability Testing groups, you will help coordinate and execute the overall product designs from beginning to end.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200663491",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "iPad Product Design Intern",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T00:00:00.000Z",
+  "transformedPostingTitle": "ipad-product-design-intern",
+  "reqId": "200663491-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200663491",
   "isMultiLocation": true,
   "postExternal": true
  },
@@ -8337,14 +8537,14 @@
   ],
   "positionId": "200684393",
   "postingDate": "2026年9月28日",
-  "postingTitle": "Site Reliability Engineer",
+  "postingTitle": "Site Reliability Engineer, eBusiness Services",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
   "postDateInGMT": "2026-09-28T02:50:36.699Z",
-  "transformedPostingTitle": "site-reliability-engineer",
+  "transformedPostingTitle": "site-reliability-engineer-ebusiness-services",
   "reqId": "200684393-3715",
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,
@@ -12480,46 +12680,6 @@
   "postExternal": true
  },
  {
-  "id": "200679139-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nThe Retail Executive Relations Senior Representative serves as the crucial link between Apple Retail, consumer, and related Government Agencies/Consumer Associations. This role collaborates closely with senior leadership across various functional areas, divisions, and regions, aiming to respond to critical customer issues including the company’s most serious, sensitive and visible customer satisfaction issues, and continuously driving improvements in Apple business.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200679139",
-  "postingDate": "2026年8月26日",
-  "postingTitle": "APAC Executive Relations Senior Representative",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-26T15:28:30.607Z",
-  "transformedPostingTitle": "apac-executive-relations-senior-representative",
-  "reqId": "200679139-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200679139",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200678394-3715",
   "jobSummary": "Joint Mobile Engineering Team (JMET) is a security engineering team that provides critical services for Apple across every product line. From manufacturing to customer-facing operations, the team's services span the entire lifecycle of most Apple hardware. The team designs, implements, and supports services that improve customer safety and privacy through security services tightly coupled with hardware — including server-side solutions that activate Apple devices worldwide and support Apple's efforts in eSIM. The team works closely with cross-functional teams across Apple, as well as carriers and other third parties. Many of the team's services are referenced in the iOS Security Guide or discussed publicly online.\n\nAs a Site Reliability Engineer, you will participate in initiatives that are important to the success of upcoming product launches and security initiatives. You will also work with large cross-functional teams to align expectations and validate the work you're doing.\n\n",
   "locations": [
@@ -14036,46 +14196,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200677293",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200677888-3715",
-  "jobSummary": "Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization.  IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.\n\nDo you love building solutions to handle global complexity and immense scale? Imagine what you could do here.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200677888",
-  "postingDate": "2026年8月18日",
-  "postingTitle": "Software Engineering Manager - eBusiness",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-18T03:26:42.332Z",
-  "transformedPostingTitle": "software-engineering-manager-ebusiness",
-  "reqId": "200677888-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200677888",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -17960,46 +18080,6 @@
   "postExternal": true
  },
  {
-  "id": "200663491-3715",
-  "jobSummary": "As part of our Mac/Input Devices Engineering team, you will help craft creative input devices solutions that facilitate people communicating with multiple devices. You will work across disciplines to transform improved hardware elements into a single, integrated design. You will help us innovate new technologies that continuously outperform the previous iterations. By collaborating with other product development groups across Apple, you will push the industry boundaries of what a Mac/input device can do and improve the product experience for our customers across the world.  The Mac/Input Devices Engineering team at Apple produces innovative and highly reliable systems for Apple product lines. Tightly integrated with Product Development, Operations, Industrial Design and Reliability Testing groups, you will help coordinate and execute the overall product designs from beginning to end.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200663491",
-  "postingDate": "2026年5月15日",
-  "postingTitle": "iPad Product Design Intern",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-05-15T06:55:27.994Z",
-  "transformedPostingTitle": "ipad-product-design-intern",
-  "reqId": "200663491-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Hardware",
-   "teamID": "teamsAndSubTeams-HRDWR",
-   "teamCode": "HRDWR"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200663491",
-  "isMultiLocation": true,
-  "postExternal": true
- },
- {
   "id": "200663484-3715",
   "jobSummary": "The people here at Apple don't just build products - they build the kind of wonder that's revolutionized entire industries. It's the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry- leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nThis position will give you the opportunity to bring our revolutionary products and amazing technology to the world by working closely with our global Apple teams to discover the root cause of product failures. You will be given every resource you need to push the boundaries of what is possible, to do the best work of your life.",
   "locations": [
@@ -18720,46 +18800,6 @@
   "postExternal": true
  },
  {
-  "id": "200643300-3715",
-  "jobSummary": "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.  Apple is looking for an experienced HR professional to support the corporate People team. This is an exciting opportunity to work as a trusted advisor to provide solutions and recommendations in the People space. We are looking for a People Business Partner, with strong HR skills who will exemplifies our culture and core values.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200643300",
-  "postingDate": "2026年1月28日",
-  "postingTitle": "People Business Partner ",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-01-28T02:37:23.968Z",
-  "transformedPostingTitle": "people-business-partner",
-  "reqId": "200643300-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200643300",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200643233-3715",
   "jobSummary": "At Apple, we don't just make products; we create magical experiences that have reshaped entire industries. Our innovation is fueled by the diverse and brilliant minds that come together to dream bigger, think differently, and push the boundaries of what's possible. Join us, and you'll be part of a community dedicated to leaving the world better than we found it.  \n\nThis position offers you an extraordinary opportunity to bring Apple's revolutionary products and astonishing technology to the world. You'll collaborate closely with our global teams to solve the most challenging issues by discovering the root causes of product problems. With access to unparalleled resources and a culture that nurtures creativity, you'll be empowered to redefine your limits and do the most transformative work of your life.",
   "locations": [
@@ -19057,14 +19097,14 @@
   ],
   "positionId": "200565793",
   "postingDate": "2024年8月30日",
-  "postingTitle": "Vision Pro Hardware System Engineer",
+  "postingTitle": "Vision Products Hardware System Engineer",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
   "postDateInGMT": "2024-08-30T05:23:13.927Z",
-  "transformedPostingTitle": "vision-pro-hardware-system-engineer",
+  "transformedPostingTitle": "vision-products-hardware-system-engineer",
   "reqId": "200565793-3715",
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,

@@ -1,5 +1,20 @@
 [
  {
+  "title": "Sensing Hardware Validation Engineer",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200692389",
+  "postingDate": "2026年10月29日",
+  "locations": [
+   "Shanghai Metro Area"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200692389/sensing-hardware-validation-engineer",
+  "minimumQualifications": "Bachelor’s or Master’s degree in Electrical Engineering, Testing Engineering, Mechatronics or related field.\nExperience in characterization and validation of hardware platforms and devices.\nProficiency in Python or other scripting languages for automating test procedures, data collection, analysis, and reporting.\nExperience in testing design, including architecture, methodology, SOPs.",
+  "preferredQualifications": "Background and experience in mechanical design of test fixtures and/or robots is preferred.\nExperience in sensor technology with strong fundamental knowledge in physics and electrical engineering is a plus. \nFamiliarity with manufacturing technologies and high volume mass production is also preferred.",
+  "description": "You will be responsible for characterizing, integrating, and validating capacitive touch sensors for new product applications from conception through product release. You will collaborate cross-functionally with product design, test, firmware, system engineering, and product operations teams."
+ },
+ {
   "title": "Hardware System Engineer - iPhone System Technologies - SI",
   "team": "Hardware",
   "teamCode": "HRDWR",
@@ -43,21 +58,6 @@
   "minimumQualifications": "Bachelors or Masters degree in Electrical Engineering or equivalent.\n2+ years relevant industry experience in designing electronics and/or embedded systems, or fresh graduate worked as key contributor on HW projects in university.\nStrong Electrical Engineering fundamentals (analog/digital design, signal/power integrity, etc.)\nHands-on experience in prototyping, bring-up, debug and validation.\nComfortable in a lab environment using oscilloscopes, spectrum analyzers, frequency counters, etc.",
   "preferredQualifications": "Experience with high volume products / consumer electronics from proof of concept to mass production; prior experience in working with contract manufacturers highly desirable.\nExpertise in board and flex designs including schematic and layout with strong abilities to implement to a timeline and deliver high quality designs.\nKnowledge in one or more of the following areas: CPU/SOC, power(DC-DC converters, battery, power management, low power design), inductive power, analog circuits, audio, RF integration and measurement, sensor design and integration, ESD safety.\nPython/scripting experience.\nDesign validation including bench analysis for proving performance to factory test for guaranteeing quality.\nExperience working with mechanical design, software, reliability, manufacturing, and operations organizations is desirable.\nExperience with challenging and multi-disciplinary failure analysis.\nExcellent written skills for clear reporting of data analysis and conclusions.",
   "description": "Seeking hardworking engineers who have passion on hardware, you will be responsible for owning aspects of system HW development from HW design to build in the factory, like PCB/flex design, crafting optimized system validation plans, owning manufacturing test requirements, prototype bringup and testing, data analysis and issue debug. \n\nKey parts of the responsibilities will be that work with manufacturing factory's EE team in the factory on tool design, testing, failure analysis, validation and other HW related cross team support. Travel to factories in other cities and countries might be needed. \n\nExperienced team members will get to influence future AirPods architectures based on learnings from successfully executing their programs."
- },
- {
-  "title": "Sensing Hardware Validation Engineer",
-  "team": "Hardware",
-  "teamCode": "HRDWR",
-  "category": "hw_sw",
-  "positionId": "200692389",
-  "postingDate": "2026年10月29日",
-  "locations": [
-   "Shenzhen Metro Area"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200692389/sensing-hardware-validation-engineer",
-  "minimumQualifications": "Bachelor’s or Master’s degree in Electrical Engineering, Mechatronics or related field.\nExperience in characterization and validation of hardware platforms and devices.\nBackground and experience in electrical and mechanical design of test fixtures and/or robots.\nProficiency in Python or other scripting languages for automating test procedures, data collection, analysis, and reporting.",
-  "preferredQualifications": "Experience in sensor technology with strong fundamental knowledge in physics and electrical engineering is a plus. \nFamiliarity with manufacturing technologies and high volume mass production is also preferred.",
-  "description": "You will be responsible for characterizing, integrating, and validating capacitive touch sensors for new product applications from conception through product release. You will collaborate cross-functionally with product design, test, firmware, system engineering, and product operations teams."
  },
  {
   "title": "Test Station DRI- Beats FATP",
@@ -568,6 +568,21 @@
   "minimumQualifications": "Bachelor’s or Master’s Degree in EE related majors\nMust have hands-on EE lab experience, be familiar with lab equipments like oscilloscope, power source, E-load, TDR etc., aware of EE lab activities such as board/system bring up or issue debug, and sensitive to circuit behaviors.\nProgramming or scripting skills (e.g., Python, Shell) to automate laboratory setups, program test instruments, parse engineering data, and streamline repetitive tasks.\nMust have a proven understanding of EE knowledge in at least one of below fields: power design, EMC, signal/power integrity, industry standard protocols (DP, USB, I2C/SPI, SDIO, SPMI etc.)\nOutstanding interpersonal skills in both English and Chinese.",
   "preferredQualifications": "Direct experience in high volume consumer electronics like smart phone, laptops, drones, wearable devices etc.\nFamiliarity with building and deploying web tools. Knowledge of databases (e.g., SQLite, PostgreSQL) and web frameworks (e.g., Django, Flask, React) is a strong plus.\nExperience leveraging AI tools and frameworks (e.g., LLMs, machine learning algorithms) to automate tasks, analyze engineering data, or enhance daily workflows.\nHighly proactive, with the ability to drive tasks independently and adapt quickly to fast-moving project schedules.\nStrong leadership and team collaboration spirit to drive test coverage enhancements and test method optimization.",
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
+ },
+ {
+  "title": "Senior Data Engineering Manager, Core Data & Intelligence",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200677825",
+  "postingDate": "2026年11月09日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200677825/senior-data-engineering-manager-core-data-intelligence",
+  "minimumQualifications": "10+ years of engineering experience, including 3+ years leading data or software engineering teams.\nTrack record of recruiting, developing leaders and building high-performing engineering cultures at scale.\nDeep architectural expertise in large-scale data systems, with strong instincts for technical excellence and software engineering best practices.\nAbility to move between hands-on technical detail and high-level strategy with equal fluency.\nExperience planning and executing large-scale platform modernization or migration programs.\nSolid grasp of the data lifecycle, including lineage, governance, privacy, retention and anonymity.\nStrong communication skills, with the ability to simplify complex topics and engage stakeholders at all levels, including senior engineering leadership and executive sponsors.\nStrong cross-functional collaboration skills, with a track record of influencing outcomes across diverse engineering organizations without direct authority.\nBachelor's degree in Computer Science or Engineering, or equivalent work experience.",
+  "preferredQualifications": "Hands-on experience with large-scale data processing and streaming technologies such as Spark, Flink, Kafka, Apache Iceberg and Snowflake.\nBackground in AI and machine learning applications within data engineering contexts, such as feature pipelines, model serving infrastructure, or ML platform development.\nExperience operating data platforms at consumer-internet scale, balancing data quality, privacy and user impact.\nBackground in Commerce, Payments, digital content or Subscriptions domains.\nFamiliarity with Apple's privacy principles or experience designing privacy-by-default data systems.\nHistory of driving cross-organizational data platform standards or governance programs adopted across multiple engineering teams.\nExperience hiring and building engineering teams in the China market.\nExperience leading geographically distributed teams across multiple time zones.\nMaster's degree or PhD in Computer Science, Engineering or a related field.",
+  "description": "As a Senior Data Engineering Manager within Apple Services Engineering, you will direct a team responsible for the design, development and operation of massive-scale data pipelines and services across multiple lines of business. Your team's work will support customer-facing features, internal reporting and analytics, and external partner integrations, all held to Apple's standards for reliability, quality and privacy.\n\nYou will work across Apple's engineering and business groups, influence platform strategy at the executive level, and build a culture where engineers grow their expertise and impact. This is a hands-on leadership role that demands both deep technical judgment and the ability to recruit, develop and retain top engineering talent in Shanghai.\n"
  },
  {
   "title": "RF System Integration Manager",
@@ -1620,7 +1635,7 @@
   "description": "Apple eBusiness Services team is seeking an outstanding B2B Integration Software Engineer to implement innovative and scalable integration solutions. This is an excellent opportunity for a self motivated, enthusiastic, result oriented person to provide solutions using various integration technology stacks. \n"
  },
  {
-  "title": "Site Reliability Engineer",
+  "title": "Site Reliability Engineer, eBusiness Services",
   "team": "Software and Services",
   "teamCode": "SFTWR",
   "category": "core",
@@ -1629,7 +1644,7 @@
   "locations": [
    "Shanghai"
   ],
-  "link": "https://jobs.apple.com/zh-cn/details/200684393/site-reliability-engineer",
+  "link": "https://jobs.apple.com/zh-cn/details/200684393/site-reliability-engineer-ebusiness-services",
   "minimumQualifications": "At least 3 years of prior demonstrated experience in a Site Reliability Engineering, DevOps, or an Infrastructure-focused role.\nProficiency in one or more programming languages (eg. Java, Python) \nSupport of internet-facing production services and distributed systems via deployments, onCall and Incident Management.\nProficiency in implementing and coordinating telemetry using monitoring and observability tools like Splunk, Grafana, and Prometheus, or similar.\nExperience in solving and resolving issues in Kubernetes from both an operating system and application perspective.\nExperience with multi-cloud or hybrid cloud environments\nBuilding and operating container orchestrating systems like Kubernetes or EKS.\nStrong programming experience in Java building web, middleware or backend applications. \nDeep understanding of Oracle or similar relational databases and NoSQL databases such as MongoDB. \nFirsthand experience in performance tuning of applications and databases. \nKnowledge of HTTP/S, TCP, DNS, web application load balancing. \nDeep understanding of basic security concepts and protocols - authentication, authorization, signing, encryption, SSL/TLS, SSH/SFTP, PKI, X509 certificates and PGP. \n",
   "preferredQualifications": "Knowledge of Webmethods Integration server or a middleware platform will be a plus.\n",
   "description": "As an SRE at Apple, you will be part of a team who will implement and maintain best-in-class devops practices, work on complex technical challenges related to scalability, reliability and performance of Apple B2B systems. You will be managing the lifecycle of machine learning models in production and non-production environment. You will be responsible for continuously assessing and improving system processes, detecting anomalies, identify the areas of optimization and implementing solutions to enhance system reliability and performance. You should have a passion for programming and a good conceptual understanding of the operating environment - JVM, Operating System, File Systems, Network Protocols. Technical expertise, strong communication skills and teamwork are essential requirements for this role as it involves working with both technical and non-technical groups within Apple and externally with our supply chain partners. "
@@ -2775,21 +2790,6 @@
   "description": "By combining deep technical expertise with strategic business insight, we help partners deliver personalized, data-driven experiences that build stronger relationships and drive measurable growth. Together, we empower our organization and partners to operate efficiently, adapt quickly, and thrive in an evolving landscape.  At our core, we’re innovators, problem solvers, and collaborators – focused on reliability, scalability, and continuous improvement. We’re always looking for curious problem-solvers who want to make a real impact in how technology drives business growth.  Will you join us in crafting solutions that do not yet exist?"
  },
  {
-  "title": "Software Engineering Manager - eBusiness",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200677888",
-  "postingDate": "2026年8月18日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200677888/software-engineering-manager-ebusiness",
-  "minimumQualifications": "More than 12 years experience, at least 5 of which are in managing engineering teams.\nStrong programming experience of 5+ years using Python or Java frameworks such as Spring.\nStrong Middleware experience building frameworks using tools like Mulesoft, webMethods or others. \nStrong object oriented design and analysis skills.\nExperience with micro-services architectures and container-based deployment (e.g. Docker, Kubernetes).\nStrong working level experience with Oracle, Postgres or similar relational databases and NoSQL databases such as MongoDB.",
-  "preferredQualifications": "Proficiency in designing and architecting large projects including performance, scalability, robustness, and resiliency.\nExpertise in infrastructure, dev-ops, SRE, support and QE processes.\nFamiliarity with additional programming languages, specifically Golang and Ruby on Rails.\nCommunicate effectively; vertically and horizontally throughout the organization.\nResult-oriented and demonstrates the high degree of ownership and accountability.\nPossess excellent problem-solving and analytical skills.",
-  "description": "Apple’s global eBusiness Services team seeks an outstanding Software Engineering Manager to lead the team of engineers to implement innovative and scalable solutions. This is an excellent opportunity for a self-driven, hardworking, result-oriented person to provide integration solutions using various technology stacks and platforms. Enjoy the benefits of working in a fast- growing business where you are encouraged to \"Think Different\" and where your efforts play a key role in the success of Apple's business.\n\nWe are looking to hire extraordinary individuals with a strong focus on entire application lifecycle including development, testing, operations and support with excellent communication and interpersonal skills, and the ability to work effectively across multiple business and technical teams. As a part of this team, you will build and manage groundbreaking software services\nusing innovative technology, one that is continually innovating and is proud of making a difference."
- },
- {
   "title": "Engineering Project Manager",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -3585,7 +3585,7 @@
   "description": "As a Machine Learning Engineer, you will be entrusted with the critical role of innovating and applying state-of-the-art research in foundation models to tackle complex problems. The solutions you develop will significantly impact future Apple products and the broader ML development ecosystem. You will work with a multidisciplinary team to actively participate in the data-model co-design and co-development practice. Your responsibilities will extend to the design and development of data processing pipeline, modeling methodology and effective evaluation metrics. Furthermore, you will have the opportunity to showcase your groundbreaking research work by publishing and presenting at premier academic venues."
  },
  {
-  "title": "Vision Pro Hardware System Engineer",
+  "title": "Vision Products Hardware System Engineer",
   "team": "Hardware",
   "teamCode": "HRDWR",
   "category": "hw_sw",
@@ -3594,7 +3594,7 @@
   "locations": [
    "Shanghai"
   ],
-  "link": "https://jobs.apple.com/zh-cn/details/200565793/vision-pro-hardware-system-engineer",
+  "link": "https://jobs.apple.com/zh-cn/details/200565793/vision-products-hardware-system-engineer",
   "minimumQualifications": "Bachelor’s degree or equivalent practical experience in Electrical Engineering.\nSolid EE fundamentals in analog/digital circuit design, signal and power integrity, and system-level troubleshooting.\nDesign and validation experience in one or more areas: SoC/MCU architectures, power systems (DC-DC, battery, PMIC, low-power design), analog circuits, sensors, or audio/camera/display/wireless integration.\nHands-on experience in prototype bring-up, debugging, and functional verification using standard lab equipment.\nExcellent communication skills in both English and Mandarin, with proven ability to collaborate across internal teams, CMs, and vendors.",
   "preferredQualifications": "Strong failure analysis capabilities in resolving complex system and component-level issues, utilizing advanced equipment (TDR, VNA, spectrum analyzers, X-ray/CT, EDX, SEM).\nProficiency in ECAD tools (Cadence Concept HDL & Allegro) and experience with advanced PCB/flex technologies and high-speed interfaces (LPDDR4/5, PCIe, USB4, DisplayPort/LPDP, MIPI).\nExperience taking high-volume consumer electronics from initial concept to mass production with contract manufacturers.\nProficiency in firmware debugging, scripting, and applying AI solutions—including AI deployment, MCP, Agent Skills, and automated workflows—to solve practical engineering problems.",
   "description": "This role involves partnering with R&D and manufacturing teams to design, validate, and optimize hardware circuits and systems from initial prototype bring-up through mass production. Success in this role requires proactive cross-functional collaboration with other EE teams, Firmware, Production Test, and Mechanical Engineering, as well as guiding contract manufacturer teams through engineering builds to ensure the highest bar of quality."
