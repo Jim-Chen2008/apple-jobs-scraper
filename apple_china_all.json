@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月09日",
+  "postingDate": "2026年11月10日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-09T07:44:57.860394156Z",
+  "postDateInGMT": "2026-11-10T08:06:40.078770470Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月09日",
+  "postingDate": "2026年11月10日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-09T07:44:57.860402623Z",
+  "postDateInGMT": "2026-11-10T08:06:40.078778848Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月09日",
+  "postingDate": "2026年11月10日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-09T07:44:57.860404199Z",
+  "postDateInGMT": "2026-11-10T08:06:40.078780324Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月09日",
+  "postingDate": "2026年11月10日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-09T07:44:57.860405585Z",
+  "postDateInGMT": "2026-11-10T08:06:40.078781703Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -676,6 +676,166 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200663743",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200675943-0351",
+  "jobSummary": "Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Do you love thinking analytically? Are you passionate about applying financial acumen to navigate complex commercial challenges? \n\nThe Greater China Sales Finance team is seeking a motivated and analytical Financial Analyst to support commercial investment decisions, evaluate go-to-market strategies, and modernize finance workflows through data analytics and technology.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-BJS",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Beijing",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200675943",
+  "postingDate": "2026年11月10日",
+  "postingTitle": "Financial Analyst – Greater China Sales Finance, Route-to-Market (RTM)",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-10T07:14:48.360Z",
+  "transformedPostingTitle": "financial-analyst-greater-china-sales-finance-route-to-market-rtm",
+  "reqId": "200675943-0351",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Corporate Functions",
+   "teamID": "teamsAndSubTeams-CORSV",
+   "teamCode": "CORSV"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200675943",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200693809-0351",
+  "jobSummary": "The Answers & Knowledge & Information team is creating groundbreaking technology for artificial intelligence, machine learning, and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. \n\nSiri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will be doing large scale machine learning and deep learning to improve Query Understanding and Ranking of Siri Search and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches. It also includes online learning to react quickly to change and natural language processing to understand queries. Taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs.\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-BJS",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Beijing",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200693809",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Machine Learning Engineer - AI, Search & Knowledge Platform",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T16:34:45.621Z",
+  "transformedPostingTitle": "machine-learning-engineer-ai-search-knowledge-platform",
+  "reqId": "200693809-0351",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Machine Learning and AI",
+   "teamID": "teamsAndSubTeams-MLAI",
+   "teamCode": "MLAI"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200693809",
+  "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200694029-0351",
+  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to develop a culture where everyone belongs and is inspired to do their best work.  \n\nPeople here at Apple don't just build products; we craft the kind of wonder that's revolutionized entire industries. It's the diversity of those people and their ideas that inspire the innovation that runs through everything we do, from extraordinary technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.  \n\nImagine a future where artificial intelligence doesn't just support our sales teams, but fundamentally rewires how they operate. We are looking for a visionary and decisive Organizational Design Lead to pioneer our transition into an \"AI-Native\" sales organization. In this role, you will dismantle traditional sales silos, re-architect the entire workflow around AI Agents, and design a modern network driven by empowered full-cycle experts.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-BJS",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Beijing",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694029",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Organizational Design Lead, AI-Native Sales Transformation",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T09:12:07.082Z",
+  "transformedPostingTitle": "organizational-design-lead-ai-native-sales-transformation",
+  "reqId": "200694029-0351",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Sales and Business Development",
+   "teamID": "teamsAndSubTeams-SLDEV",
+   "teamCode": "SLDEV"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200694029",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200694030-0351",
+  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to develop a culture where everyone belongs and is inspired to do their best work.  \n\nPeople here at Apple don't just build products; we craft the kind of wonder that's revolutionized entire industries. It's the diversity of those people and their ideas that inspire the innovation that runs through everything we do, from extraordinary technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.  \n\nIn this role, you will be the frontline architect and execution engine driving our transition to an AI-native sales organization. Working closely with the Organizational Design Lead, you will bridge strategic blueprints with daily commercial reality—translating human-AI collaboration frameworks into standardized, repeatable sales operations. You will spend time on the ground with sales teams, running agile pilots, designing practical SOPs, and enabling sales to become truly empowered, full-cycle experts.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-BJS",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Beijing",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694030",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Sales Process & AI Enablement Specialist",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T09:11:45.729Z",
+  "transformedPostingTitle": "sales-process-ai-enablement-specialist",
+  "reqId": "200694030-0351",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Sales and Business Development",
+   "teamID": "teamsAndSubTeams-SLDEV",
+   "teamCode": "SLDEV"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200694030",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -1360,46 +1520,6 @@
   "postExternal": true
  },
  {
-  "id": "200686264-0351",
-  "jobSummary": "The Answers & Knowledge & Information team is creating groundbreaking technology for artificial intelligence, machine learning, and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. \n\nSiri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup. As part of this group, you will be doing large scale machine learning and deep learning to improve Query Understanding and Ranking of Siri Search and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches. It also includes online learning to react quickly to change and natural language processing to understand queries. Taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-BJS",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Beijing",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200686264",
-  "postingDate": "2026年9月30日",
-  "postingTitle": "Machine Learning Engineer - AI, Search & Knowledge Platform",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-30T02:15:57.934Z",
-  "transformedPostingTitle": "machine-learning-engineer-ai-search-knowledge-platform",
-  "reqId": "200686264-0351",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Machine Learning and AI",
-   "teamID": "teamsAndSubTeams-MLAI",
-   "teamCode": "MLAI"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200686264",
-  "isMultiLocation": true,
-  "postExternal": true
- },
- {
   "id": "200684763-0351",
   "jobSummary": "At Apple, we work every day to create products that enrich people’s lives. We want to help people in every part of their lives that we can, including making the world’s best content easily and beautifully available to the hundreds of millions of people around the globe who use Apple products. \n\nOur Advertising Platform is a set of technologies that enable thriving ecosystems for Apple’s content partners; we help publishers and developers earn money for the work that they produce, and we help consumers discover amazing content that iOS developers are creating for their iPhone and iPad. Ads in the App Store is an easy, efficient and fast-growing platform for app discovery. With over 65% of all app downloads resulting directly from a search on the App Store, Apple Ads is quickly becoming the platform of choice for app promotion for iOS developers. \n\nThe Apple Ads team is looking for a strategic sales leader to manage a high-performing team of Client Partners in Greater China. In this role, you will lead the GCR Strategic Industry team, managing top-tier app developers across Entertainment, Finance, and Productivity & Utilities. You will be responsible for driving regional revenue across both Domestic and Export (Global expansion) businesses, coaching senior sales talent, and acting as an executive sponsor to C-level client leaders.",
   "locations": [
@@ -1556,46 +1676,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200680031",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200675943-0351",
-  "jobSummary": "At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Do you love problem solving and thinking beyond an obvious solution? Do you thrive in ambiguity and teams where little direction should fuel your creativity?\n\nThe Greater China Sales Finance PART (Finance Process, Analytics, Reporting, and Technology) team is looking for a passionate and highly motivated analyst to help shape the future of finance at Apple. We support Apple's growth by applying the same level of innovation toward financial matters as we do toward our products. In this role, you will work closely with business teams to understand commercial initiatives, and partner with data engineering and data science teams to ensure our finance organization is fully empowered to operate efficiently and make well-informed decisions.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-BJS",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Beijing",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200675943",
-  "postingDate": "2026年8月17日",
-  "postingTitle": "GC Sales Finance PART Analyst",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-17T02:20:18.677Z",
-  "transformedPostingTitle": "gc-sales-finance-part-analyst",
-  "reqId": "200675943-0351",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200675943",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -3197,6 +3277,166 @@
   "homeOffice": false,
   "jobPositionId": "PIPE-200628625",
   "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200694023-3715",
+  "jobSummary": "Apple is a place where extraordinary people gather to do their best work. Just be ready to dream big. \n\nThe people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nImaging what you could do here. At Apple, creative ideas have a way of becoming wonderful products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694023",
+  "postingDate": "2026年11月10日",
+  "postingTitle": "RFHW Systems Engineer Intern - Shanghai or Shenzhen",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-10T04:01:23.466Z",
+  "transformedPostingTitle": "rfhw-systems-engineer-intern-shanghai-or-shenzhen",
+  "reqId": "200694023-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Students",
+   "teamID": "teamsAndSubTeams-STDNT",
+   "teamCode": "STDNT"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200694023",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200691503-3715",
+  "jobSummary": "Apple is a place where extraordinary people gather to do their best work. Just be ready to dream big. \n\nThe people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nImaging what you could do here. At Apple, creative ideas have a way of becoming wonderful products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200691503",
+  "postingDate": "2026年11月10日",
+  "postingTitle": "Apple Travel China Intern - Shanghai",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-10T01:35:04.656Z",
+  "transformedPostingTitle": "apple-travel-china-intern-shanghai",
+  "reqId": "200691503-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Students",
+   "teamID": "teamsAndSubTeams-STDNT",
+   "teamCode": "STDNT"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200691503",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200694028-3715",
+  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.\n\nAs a System Engineering Program Manager for Mac, you will be responsible for managing engineering development for our future generations of Mac. You will use your program management skills, imagination, and creativity to lead a cross-functional team of skilled engineers and push these exciting programs forward!",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694028",
+  "postingDate": "2026年11月10日",
+  "postingTitle": "Mac System Engineering Program Manager",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-10T01:09:12.562Z",
+  "transformedPostingTitle": "mac-system-engineering-program-manager",
+  "reqId": "200694028-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200694028",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200694009-3715",
+  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nThe Apple Store Online team’s main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer, and our job is to set the bar for the experience they receive. To create such an extraordinary experience, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nOur livestream program brings together content, commerce, and technology to create compelling customer experiences. We’re looking for an experienced Program Operations Manager who can drive complex cross-functional initiatives, bring structure to ambiguity, and build the operational capabilities to support the program’s next stage of growth.\n\nThe ideal candidate combines strategic thinking with strong executional capabilities, demonstrates sound judgment and ownership, and thrives in a fast-paced, dynamic, highly collaborative environment.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694009",
+  "postingDate": "2026年11月10日",
+  "postingTitle": "Live Streaming Program Operations Manager",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-10T01:06:14.727Z",
+  "transformedPostingTitle": "live-streaming-program-operations-manager",
+  "reqId": "200694009-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Sales and Business Development",
+   "teamID": "teamsAndSubTeams-SLDEV",
+   "teamCode": "SLDEV"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200694009",
+  "isMultiLocation": false,
   "postExternal": true
  },
  {
@@ -9956,46 +10196,6 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200684562",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200684049-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.  \n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200684049",
-  "postingDate": "2026年9月17日",
-  "postingTitle": "Sr. Project Manager - Digital Commerce (ASO)",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-17T21:38:37.122Z",
-  "transformedPostingTitle": "sr-project-manager-digital-commerce-aso",
-  "reqId": "200684049-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Sales and Business Development",
-   "teamID": "teamsAndSubTeams-SLDEV",
-   "teamCode": "SLDEV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200684049",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -18280,46 +18480,6 @@
   "postExternal": true
  },
  {
-  "id": "200658510-3715",
-  "jobSummary": "Apple is seeking a visionary and highly strategic Director of Business Development and Regulatory Management to lead our market intelligence, strategic partner ecosystem, and regulatory response for AI features, data governance, and frontier technologies in Greater China. In this highly visible, dual-faceted role, you will be the commercial driving force behind bringing Apple’s next-generation services to life, while acting as the critical bridge between China’s regulatory bodies and Apple’s global business, privacy, and engineering teams.\n\nYou will identify cutting-edge technologies, negotiate complex strategic deals, drive the strategy for Cross Border Data Transfer (CBDT) and AI regulatory filings, and orchestrate cross-functional execution. The ideal candidate will bring deep expertise in cloud technologies and AI infrastructure, a proven leadership background within China's top-tier technology ecosystem, and practical, hands-on expertise navigating China’s evolving data and cybersecurity frameworks.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200658510",
-  "postingDate": "2026年5月08日",
-  "postingTitle": "Director, Business Development & Regulatory Management",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-05-08T13:36:06.004Z",
-  "transformedPostingTitle": "director-business-development-regulatory-management",
-  "reqId": "200658510-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Operations and Supply Chain",
-   "teamID": "teamsAndSubTeams-OPMFG",
-   "teamCode": "OPMFG"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200658510",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200660740-3715",
   "jobSummary": "Why Apple? We live in a mobile and device driven world where knowledge of the physical world around us is needed. We rely on this knowledge to get around, to learn about our environment and to enable spectacular new features for custom applications.   Apple is meeting those needs as robustly and as creatively as possible and is passionate about people who want to help meet that commitment. The success we are striving will be the result of very skilled people working in an environment which cultivates creativity, partnership, and thinking of old problems in new ways. If that sounds like the kind of environment that you find intriguing, then let's talk.",
   "locations": [
@@ -19236,6 +19396,86 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200401406",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200694071-3435",
+  "jobSummary": "Here at Apple, the development and integration of revolutionary materials into our products are essential to the mechanical and electrical integrity, aesthetics, and overall feel our customers have come to expect. Our Materials Engineering Product Design team is dedicated to creating and optimizing these materials, enabling innovative designs across all product lines.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SHZ",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shenzhen",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694071",
+  "postingDate": "2026年11月10日",
+  "postingTitle": "Greater China Anodizing Color Engineer",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-10T01:23:15.309Z",
+  "transformedPostingTitle": "greater-china-anodizing-color-engineer",
+  "reqId": "200694071-3435",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200694071",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200692173-3435",
+  "jobSummary": "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The people here at Apple don’t just build products — they craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it. \n\nIn this position, you will build up reliable OEMs for Apple to achieve business goals and strengthen our supply chain flexibility and capability. You are accountable for sustaining product supply from launch to end of production, and an important bridge between technical and supply chain team in order to establish the path from request to delivery\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SHZ",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shenzhen",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200692173",
+  "postingDate": "2026年11月09日",
+  "postingTitle": "Operations Program Manage",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-09T12:33:52.595Z",
+  "transformedPostingTitle": "operations-program-manage",
+  "reqId": "200692173-3435",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Operations and Supply Chain",
+   "teamID": "teamsAndSubTeams-OPMFG",
+   "teamCode": "OPMFG"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200692173",
   "isMultiLocation": false,
   "postExternal": true
  },
