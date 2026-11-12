@@ -1,26 +1,26 @@
 # Apple 中国区「计算机相关」岗位爬取与分析报告
 
 > 数据来源：https://jobs.apple.com/zh-cn/search?location=china-CHNC  
-> 抓取时间口径：2026-11-11  
-> 命中岗位数：**256** （从 560 条中国区在招岗位中筛选，已剔除销售/市场/职能/零售/制造质量工艺等非计算机类）
+> 抓取时间口径：2026-11-12  
+> 命中岗位数：**255** （从 552 条中国区在招岗位中筛选，已剔除销售/市场/职能/零售/制造质量工艺等非计算机类）
 
 ## 一、概览
 
-- 计算机相关岗位总数：**256**
-  - 软件 / 机器学习 / AI（SFTWR + MLAI）：192
+- 计算机相关岗位总数：**255**
+  - 软件 / 机器学习 / AI（SFTWR + MLAI）：190
   - 硬件系统 / 嵌入式 / 射频（HRDWR 软件相关）：51
   - 在校实习（软件 / AI 方向）：7
-  - 数据 / 算法（运营数据类）：6
+  - 数据 / 算法（运营数据类）：7
 
 - 团队分布：
-  - Software and Services：168
+  - Software and Services：166
   - Hardware：51
   - Machine Learning and AI：24
   - Students：7
-  - Operations and Supply Chain：6
+  - Operations and Supply Chain：7
 
 - 工作城市（Top）：
-  - Shanghai：202
+  - Shanghai：201
   - Beijing：28
   - Shenzhen：14
   - Shanghai Metro Area：4
@@ -28,44 +28,44 @@
   - Shenzhen Metro Area：2
   - Suzhou：2
 
-## 二、任职要求关键词频率（基于 256 个岗位的「最低要求+优先要求」文本）
+## 二、任职要求关键词频率（基于 255 个岗位的「最低要求+优先要求」文本）
 
 下表反映**跨岗位共性**——出现比例越高，越属于「通用要求」。
 
 | 要求维度 | 出现岗位数 | 占比 |
 |---|---:|---:|
 | 工作经验(年) | 249 | 97% |
-| 计算机科学 | 181 | 70% |
+| 计算机科学 | 180 | 70% |
 | 数据/大数据 | 177 | 69% |
-| 沟通协作 | 177 | 69% |
-| 电子/电气工程 | 170 | 66% |
-| 领导力/管理 | 165 | 64% |
-| 相关学位(本科/硕士) | 159 | 62% |
-| Python | 156 | 60% |
-| 云计算/分布式 | 145 | 56% |
-| C/C++ | 142 | 55% |
-| Java | 95 | 37% |
+| 沟通协作 | 176 | 69% |
+| 电子/电气工程 | 169 | 66% |
+| 领导力/管理 | 164 | 64% |
+| 相关学位(本科/硕士) | 158 | 61% |
+| Python | 156 | 61% |
+| 云计算/分布式 | 144 | 56% |
+| C/C++ | 143 | 56% |
+| Java | 94 | 36% |
 | SQL/数据库 | 94 | 36% |
-| 英语能力 | 90 | 35% |
-| 解决问题 | 69 | 26% |
+| 英语能力 | 89 | 34% |
+| 解决问题 | 69 | 27% |
 | 软件工程 | 68 | 26% |
-| 机器学习/深度学习 | 63 | 24% |
+| 机器学习/深度学习 | 62 | 24% |
 | 安全 | 59 | 23% |
+| 后端/服务 | 46 | 18% |
 | 测试/质量 | 44 | 17% |
-| 后端/服务 | 44 | 17% |
 | 前端/Web | 41 | 16% |
 | 嵌入式/固件 | 28 | 10% |
 | iOS/macOS | 28 | 10% |
-| 算法 | 28 | 10% |
-| 项目管理 | 22 | 8% |
-| Go | 21 | 8% |
+| 算法 | 27 | 10% |
+| 项目管理 | 21 | 8% |
+| Go | 20 | 7% |
 | Swift/Objective-C | 9 | 3% |
 
 ## 三、全部岗位清单（名称 + 链接）
 
 > 按类别分组。链接指向 Apple 官方招聘页（含完整 JD）。
 
-### 软件 / 机器学习 / AI（SFTWR + MLAI）（192）
+### 软件 / 机器学习 / AI（SFTWR + MLAI）（190）
 
 | # | 职位名称 | 团队 | 地点 | 发布日期 | 链接 |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | 26 | Cellular Protocol Stack Development Engineer-Beijing | Software and Services | Beijing | 2024年5月08日 | [查看](https://jobs.apple.com/zh-cn/details/200550604/cellular-protocol-stack-development-engineer-beijing) |
 | 27 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年11月11日 | [查看](https://jobs.apple.com/zh-cn/details/200675992/software-engineer-data-services-is-t-ai-data-platforms) |
 | 28 | Application Compliance Engineer | Software and Services | Shanghai | 2026年11月10日 | [查看](https://jobs.apple.com/zh-cn/details/200693386/application-compliance-engineer) |
-| 29 | Senior Data Engineering Manager, Core Data & Intelligence | Software and Services | Shanghai | 2026年11月09日 | [查看](https://jobs.apple.com/zh-cn/details/200677825/senior-data-engineering-manager-core-data-intelligence) |
+| 29 | Senior Engineering Manager, Core Data & Intelligence  | Software and Services | Shanghai | 2026年11月09日 | [查看](https://jobs.apple.com/zh-cn/details/200677825/senior-engineering-manager-core-data-intelligence) |
 | 30 | Senior Product Data Scientist, iCloud | Software and Services | Shanghai | 2026年11月06日 | [查看](https://jobs.apple.com/zh-cn/details/200682872/senior-product-data-scientist-icloud) |
 | 31 | Principal Software Engineer - Apple Data Platform | Software and Services | Shanghai | 2026年11月06日 | [查看](https://jobs.apple.com/zh-cn/details/200685578/principal-software-engineer-apple-data-platform) |
 | 32 | Forward Deployed Software Engineer - Platforms Engineering | Software and Services | Shanghai | 2026年11月05日 | [查看](https://jobs.apple.com/zh-cn/details/200690939/forward-deployed-software-engineer-platforms-engineering) |
@@ -128,7 +128,7 @@
 | 57 | AI Application Engineer | Software and Services | Shanghai | 2026年10月15日 | [查看](https://jobs.apple.com/zh-cn/details/200689017/ai-application-engineer) |
 | 58 | ASE Observability SRE - Shanghai - Tech Lead | Software and Services | Shanghai | 2026年10月15日 | [查看](https://jobs.apple.com/zh-cn/details/200685600/ase-observability-sre-shanghai-tech-lead) |
 | 59 | Senior SRE Software Engineer - ASE Compute | Software and Services | Shanghai | 2026年10月14日 | [查看](https://jobs.apple.com/zh-cn/details/200685607/senior-sre-software-engineer-ase-compute) |
-| 60 | Software Developement Engineer in Test  | Software and Services | Shanghai | 2026年10月14日 | [查看](https://jobs.apple.com/zh-cn/details/200686513/software-developement-engineer-in-test) |
+| 60 | Software Development Engineer in Test  | Software and Services | Shanghai | 2026年10月14日 | [查看](https://jobs.apple.com/zh-cn/details/200686513/software-development-engineer-in-test) |
 | 61 | Senior Site Reliability Engineer - ASE / iCloud | Software and Services | Shanghai | 2026年10月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677851/senior-site-reliability-engineer-ase-icloud) |
 | 62 | 2027 Apple Internship - Information Systems and Technology | Software and Services | Shanghai | 2026年10月12日 | [查看](https://jobs.apple.com/zh-cn/details/200681910/2027-apple-internship-information-systems-and-technology) |
 | 63 | 2027 Apple Internship - Information Systems and Technology | Software and Services | Shanghai | 2026年10月09日 | [查看](https://jobs.apple.com/zh-cn/details/200682299/2027-apple-internship-information-systems-and-technology) |
@@ -208,59 +208,57 @@
 | 137 | Manager, TechOps / Site Reliability Engineering | Software and Services | Shanghai | 2026年8月19日 | [查看](https://jobs.apple.com/zh-cn/details/200677278/manager-techops-site-reliability-engineering) |
 | 138 | Software Development Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月19日 | [查看](https://jobs.apple.com/zh-cn/details/200678354/software-development-engineer-is-t-ai-data-platforms) |
 | 139 | Software Engineer (Data Solutions), IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200678655/software-engineer-data-solutions-is-t-ai-data-platforms) |
-| 140 | Software Engineer (Data Solutions), IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200678654/software-engineer-data-solutions-is-t-ai-data-platforms) |
-| 141 | Software Development Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200678642/software-development-engineer-is-t-ai-data-platforms) |
-| 142 | Store Apps Engineering DevOPs Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677530/store-apps-engineering-devops-engineer) |
-| 143 | IS&T Retail Senior Manager, China | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677312/is-t-retail-senior-manager-china) |
-| 144 | Java Backend Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677292/java-backend-engineer) |
-| 145 | Store Apps Engineering DevOPs Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677537/store-apps-engineering-devops-engineer) |
-| 146 | Quality Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677293/quality-engineer) |
-| 147 | Engineering Project Manager | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677297/engineering-project-manager) |
-| 148 | Service Reliability Engineer, Edge Services  | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200677850/service-reliability-engineer-edge-services) |
-| 149 | SRE Engineer | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200677280/sre-engineer) |
-| 150 | Engineering Project Manager | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200677286/engineering-project-manager) |
-| 151 | AIML Data Operations - Team Lead | Machine Learning and AI | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200593444/aiml-data-operations-team-lead) |
-| 152 | Store Apps Engineering DevOPs Engineer | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200676247/store-apps-engineering-devops-engineer) |
-| 153 | Engineering Project Manager - SAP Operations and Service Management | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677812/engineering-project-manager-sap-operations-and-service-management) |
-| 154 | SAP BTP Full-Stack Engineer | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677811/sap-btp-full-stack-engineer) |
-| 155 | Software Engineer(Frontend) , Infrastructure Applications | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677849/software-engineer-frontend-infrastructure-applications) |
-| 156 | Full Stack Software Engineer, Infrastructure Services  | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677848/full-stack-software-engineer-infrastructure-services) |
-| 157 | Engineering Program Manager | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677862/engineering-program-manager) |
-| 158 | Senior Data and Applied AI Engineer, Core Data & Intelligence | Software and Services | Shanghai | 2026年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200677823/senior-data-and-applied-ai-engineer-core-data-intelligence) |
-| 159 | Site Reliability Engineer  | Software and Services | Shanghai | 2026年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200676925/site-reliability-engineer) |
-| 160 | Integration Engineering - Software Engineer  | Software and Services | Shanghai | 2026年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200676940/integration-engineering-software-engineer) |
-| 161 | Data Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月12日 | [查看](https://jobs.apple.com/zh-cn/details/200676311/data-engineer-is-t-ai-data-platforms) |
-| 162 | Engineering Manager Athena Platform Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月12日 | [查看](https://jobs.apple.com/zh-cn/details/200676294/engineering-manager-athena-platform-services-is-t-ai-data-platforms) |
-| 163 | 2027 Apple Internship - Information Systems and Technology | Software and Services | Shanghai | 2026年8月11日 | [查看](https://jobs.apple.com/zh-cn/details/200676942/2027-apple-internship-information-systems-and-technology) |
-| 164 | Software Engineer — Data Platforms, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676274/software-engineer-data-platforms-is-t-ai-data-platforms) |
-| 165 | Software Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676522/software-engineer-is-t-ai-data-platforms) |
-| 166 | Software Engineer — ETL Platform, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200676277/software-engineer-etl-platform-is-t-ai-data-platforms) |
-| 167 | Engineering Manager, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675978/engineering-manager-data-services-is-t-ai-data-platforms) |
-| 168 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675994/software-engineer-data-services-is-t-ai-data-platforms) |
-| 169 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675980/software-engineer-data-services-is-t-ai-data-platforms) |
-| 170 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675981/software-engineer-data-services-is-t-ai-data-platforms) |
-| 171 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675988/software-engineer-data-services-is-t-ai-data-platforms) |
-| 172 | Technical Operation Engineer | Software and Services | Shanghai | 2026年8月06日 | [查看](https://jobs.apple.com/zh-cn/details/200676249/technical-operation-engineer) |
-| 173 | Business Analytics Developer, People Analytics | Software and Services | Shanghai | 2026年8月05日 | [查看](https://jobs.apple.com/zh-cn/details/200675970/business-analytics-developer-people-analytics) |
-| 174 | Software Engineering Intern - AI Tools for Hardware Engineering PM | Software and Services | Shanghai | 2026年8月05日 | [查看](https://jobs.apple.com/zh-cn/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm) |
-| 175 | Engineering Project Manager - SAP Operations and Service Management | Software and Services | Shanghai | 2026年8月05日 | [查看](https://jobs.apple.com/zh-cn/details/200675601/engineering-project-manager-sap-operations-and-service-management) |
-| 176 | Software Engineer - Generative AI & ML | Software and Services | Shanghai | 2026年8月03日 | [查看](https://jobs.apple.com/zh-cn/details/200675445/software-engineer-generative-ai-ml) |
-| 177 | SAP BTP Full-Stack Engineer | Software and Services | Shanghai | 2026年8月01日 | [查看](https://jobs.apple.com/zh-cn/details/200675157/sap-btp-full-stack-engineer) |
-| 178 | Senior Site Reliability Engineer - ASE / iCloud | Software and Services | Shanghai | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674481/senior-site-reliability-engineer-ase-icloud) |
-| 179 | Voice Engineer | Software and Services | Shanghai | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674535/voice-engineer) |
-| 180 | SAP Java Full Stack Developer | Software and Services | Shanghai | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674498/sap-java-full-stack-developer) |
-| 181 | Backend Engineer - G&A Solutions Engineering | Software and Services | Shanghai | 2026年7月28日 | [查看](https://jobs.apple.com/zh-cn/details/200674312/backend-engineer-g-a-solutions-engineering) |
-| 182 | Senior ML Optimization Engineer, iCloud | Software and Services | Shanghai | 2026年7月28日 | [查看](https://jobs.apple.com/zh-cn/details/200674488/senior-ml-optimization-engineer-icloud) |
-| 183 | Software Engineer Intern(Core OS)-Shanghai | Software and Services | Shanghai | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494844/software-engineer-intern-core-os-shanghai) |
-| 184 | Engineering Project Manager | Software and Services | Shanghai | 2026年6月05日 | [查看](https://jobs.apple.com/zh-cn/details/200666752/engineering-project-manager) |
-| 185 | Network Engineer | Software and Services | Shanghai | 2026年6月04日 | [查看](https://jobs.apple.com/zh-cn/details/200666736/network-engineer) |
-| 186 | Supply Chain Solutions Analyst | Software and Services | Shanghai | 2026年6月04日 | [查看](https://jobs.apple.com/zh-cn/details/200666544/supply-chain-solutions-analyst) |
-| 187 | Strategic Partnerships Manager, APAC - Apple Vision Pro | Software and Services | Shanghai | 2026年3月29日 | [查看](https://jobs.apple.com/zh-cn/details/200654006/strategic-partnerships-manager-apac-apple-vision-pro) |
-| 188 | AIML - Data Operations Senior Team Lead (Shanghai) | Machine Learning and AI | Shanghai | 2026年2月10日 | [查看](https://jobs.apple.com/zh-cn/details/200613762/aiml-data-operations-senior-team-lead-shanghai) |
-| 189 | AIML - Machine Learning Engineer, Data & Machine Learning Innovation | Machine Learning and AI | Shanghai | 2025年7月03日 | [查看](https://jobs.apple.com/zh-cn/details/200595406/aiml-machine-learning-engineer-data-machine-learning-innovation) |
-| 190 | Computer Vision Algorithm Engineer | Machine Learning and AI | Shanghai | 2023年9月21日 | [查看](https://jobs.apple.com/zh-cn/details/200472645/computer-vision-algorithm-engineer) |
-| 191 | Field Security Technical Engineer | Software and Services | Shenzhen | 2026年10月30日 | [查看](https://jobs.apple.com/zh-cn/details/200692595/field-security-technical-engineer) |
-| 192 | Embedded Software Engineer | Software and Services | Shenzhen | 2025年10月28日 | [查看](https://jobs.apple.com/zh-cn/details/200615795/embedded-software-engineer) |
+| 140 | Software Development Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200678642/software-development-engineer-is-t-ai-data-platforms) |
+| 141 | Store Apps Engineering DevOPs Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677530/store-apps-engineering-devops-engineer) |
+| 142 | IS&T Retail Senior Manager, China | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677312/is-t-retail-senior-manager-china) |
+| 143 | Java Backend Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677292/java-backend-engineer) |
+| 144 | Store Apps Engineering DevOPs Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677537/store-apps-engineering-devops-engineer) |
+| 145 | Quality Engineer | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677293/quality-engineer) |
+| 146 | Engineering Project Manager | Software and Services | Shanghai | 2026年8月18日 | [查看](https://jobs.apple.com/zh-cn/details/200677297/engineering-project-manager) |
+| 147 | Service Reliability Engineer, Edge Services  | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200677850/service-reliability-engineer-edge-services) |
+| 148 | SRE Engineer | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200677280/sre-engineer) |
+| 149 | Engineering Project Manager | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200677286/engineering-project-manager) |
+| 150 | AIML Data Operations - Team Lead | Machine Learning and AI | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200593444/aiml-data-operations-team-lead) |
+| 151 | Store Apps Engineering DevOPs Engineer | Software and Services | Shanghai | 2026年8月17日 | [查看](https://jobs.apple.com/zh-cn/details/200676247/store-apps-engineering-devops-engineer) |
+| 152 | Engineering Project Manager - SAP Operations and Service Management | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677812/engineering-project-manager-sap-operations-and-service-management) |
+| 153 | SAP BTP Full-Stack Engineer | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677811/sap-btp-full-stack-engineer) |
+| 154 | Software Engineer(Frontend) , Infrastructure Applications | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677849/software-engineer-frontend-infrastructure-applications) |
+| 155 | Full Stack Software Engineer, Infrastructure Services  | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677848/full-stack-software-engineer-infrastructure-services) |
+| 156 | Engineering Program Manager | Software and Services | Shanghai | 2026年8月14日 | [查看](https://jobs.apple.com/zh-cn/details/200677862/engineering-program-manager) |
+| 157 | Senior Data and Applied AI Engineer, Core Data & Intelligence | Software and Services | Shanghai | 2026年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200677823/senior-data-and-applied-ai-engineer-core-data-intelligence) |
+| 158 | Site Reliability Engineer  | Software and Services | Shanghai | 2026年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200676925/site-reliability-engineer) |
+| 159 | Integration Engineering - Software Engineer  | Software and Services | Shanghai | 2026年8月13日 | [查看](https://jobs.apple.com/zh-cn/details/200676940/integration-engineering-software-engineer) |
+| 160 | Data Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月12日 | [查看](https://jobs.apple.com/zh-cn/details/200676311/data-engineer-is-t-ai-data-platforms) |
+| 161 | 2027 Apple Internship - Information Systems and Technology | Software and Services | Shanghai | 2026年8月11日 | [查看](https://jobs.apple.com/zh-cn/details/200676942/2027-apple-internship-information-systems-and-technology) |
+| 162 | Software Engineer — Data Platforms, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676274/software-engineer-data-platforms-is-t-ai-data-platforms) |
+| 163 | Software Engineer, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月10日 | [查看](https://jobs.apple.com/zh-cn/details/200676522/software-engineer-is-t-ai-data-platforms) |
+| 164 | Software Engineer — ETL Platform, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200676277/software-engineer-etl-platform-is-t-ai-data-platforms) |
+| 165 | Engineering Manager, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675978/engineering-manager-data-services-is-t-ai-data-platforms) |
+| 166 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675994/software-engineer-data-services-is-t-ai-data-platforms) |
+| 167 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675980/software-engineer-data-services-is-t-ai-data-platforms) |
+| 168 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675981/software-engineer-data-services-is-t-ai-data-platforms) |
+| 169 | Software Engineer, Data Services, IS&T Ai & Data Platforms | Software and Services | Shanghai | 2026年8月08日 | [查看](https://jobs.apple.com/zh-cn/details/200675988/software-engineer-data-services-is-t-ai-data-platforms) |
+| 170 | Technical Operation Engineer | Software and Services | Shanghai | 2026年8月06日 | [查看](https://jobs.apple.com/zh-cn/details/200676249/technical-operation-engineer) |
+| 171 | Business Analytics Developer, People Analytics | Software and Services | Shanghai | 2026年8月05日 | [查看](https://jobs.apple.com/zh-cn/details/200675970/business-analytics-developer-people-analytics) |
+| 172 | Software Engineering Intern - AI Tools for Hardware Engineering PM | Software and Services | Shanghai | 2026年8月05日 | [查看](https://jobs.apple.com/zh-cn/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm) |
+| 173 | Engineering Project Manager - SAP Operations and Service Management | Software and Services | Shanghai | 2026年8月05日 | [查看](https://jobs.apple.com/zh-cn/details/200675601/engineering-project-manager-sap-operations-and-service-management) |
+| 174 | Software Engineer - Generative AI & ML | Software and Services | Shanghai | 2026年8月03日 | [查看](https://jobs.apple.com/zh-cn/details/200675445/software-engineer-generative-ai-ml) |
+| 175 | SAP BTP Full-Stack Engineer | Software and Services | Shanghai | 2026年8月01日 | [查看](https://jobs.apple.com/zh-cn/details/200675157/sap-btp-full-stack-engineer) |
+| 176 | Senior Site Reliability Engineer - ASE / iCloud | Software and Services | Shanghai | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674481/senior-site-reliability-engineer-ase-icloud) |
+| 177 | Voice Engineer | Software and Services | Shanghai | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674535/voice-engineer) |
+| 178 | SAP Java Full Stack Developer | Software and Services | Shanghai | 2026年7月29日 | [查看](https://jobs.apple.com/zh-cn/details/200674498/sap-java-full-stack-developer) |
+| 179 | Backend Engineer - G&A Solutions Engineering | Software and Services | Shanghai | 2026年7月28日 | [查看](https://jobs.apple.com/zh-cn/details/200674312/backend-engineer-g-a-solutions-engineering) |
+| 180 | Senior ML Optimization Engineer, iCloud | Software and Services | Shanghai | 2026年7月28日 | [查看](https://jobs.apple.com/zh-cn/details/200674488/senior-ml-optimization-engineer-icloud) |
+| 181 | Software Engineer Intern(Core OS)-Shanghai | Software and Services | Shanghai | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494844/software-engineer-intern-core-os-shanghai) |
+| 182 | Engineering Project Manager | Software and Services | Shanghai | 2026年6月05日 | [查看](https://jobs.apple.com/zh-cn/details/200666752/engineering-project-manager) |
+| 183 | Network Engineer | Software and Services | Shanghai | 2026年6月04日 | [查看](https://jobs.apple.com/zh-cn/details/200666736/network-engineer) |
+| 184 | Supply Chain Solutions Analyst | Software and Services | Shanghai | 2026年6月04日 | [查看](https://jobs.apple.com/zh-cn/details/200666544/supply-chain-solutions-analyst) |
+| 185 | Strategic Partnerships Manager, APAC - Apple Vision Pro | Software and Services | Shanghai | 2026年3月29日 | [查看](https://jobs.apple.com/zh-cn/details/200654006/strategic-partnerships-manager-apac-apple-vision-pro) |
+| 186 | AIML - Data Operations Senior Team Lead (Shanghai) | Machine Learning and AI | Shanghai | 2026年2月10日 | [查看](https://jobs.apple.com/zh-cn/details/200613762/aiml-data-operations-senior-team-lead-shanghai) |
+| 187 | AIML - Machine Learning Engineer, Data & Machine Learning Innovation | Machine Learning and AI | Shanghai | 2025年7月03日 | [查看](https://jobs.apple.com/zh-cn/details/200595406/aiml-machine-learning-engineer-data-machine-learning-innovation) |
+| 188 | Computer Vision Algorithm Engineer | Machine Learning and AI | Shanghai | 2023年9月21日 | [查看](https://jobs.apple.com/zh-cn/details/200472645/computer-vision-algorithm-engineer) |
+| 189 | Field Security Technical Engineer | Software and Services | Shenzhen | 2026年10月30日 | [查看](https://jobs.apple.com/zh-cn/details/200692595/field-security-technical-engineer) |
+| 190 | Embedded Software Engineer | Software and Services | Shenzhen | 2025年10月28日 | [查看](https://jobs.apple.com/zh-cn/details/200615795/embedded-software-engineer) |
 ### 硬件系统 / 嵌入式 / 射频（HRDWR 软件相关）（51）
 
 | # | 职位名称 | 团队 | 地点 | 发布日期 | 链接 |
@@ -316,7 +314,7 @@
 | 49 | iPad Hardware Systems Integration Engineer | Hardware | Shenzhen | 2021年4月07日 | [查看](https://jobs.apple.com/zh-cn/details/200237136/ipad-hardware-systems-integration-engineer) |
 | 50 | Hardware System Integration Engineer - AirPods | Hardware | Suzhou | 2026年9月15日 | [查看](https://jobs.apple.com/zh-cn/details/200683452/hardware-system-integration-engineer-airpods) |
 | 51 | System EE - EE/HW Intern (Suzhou) | Hardware | Suzhou | 2026年7月21日 | [查看](https://jobs.apple.com/zh-cn/details/200494610/system-ee-ee-hw-intern-suzhou) |
-### 数据 / 算法（运营数据类）（6）
+### 数据 / 算法（运营数据类）（7）
 
 | # | 职位名称 | 团队 | 地点 | 发布日期 | 链接 |
 |---|---|---|---|---|---|
@@ -324,8 +322,9 @@
 | 2 | AI Product Manager - APO BPR | Operations and Supply Chain | Shanghai | 2026年11月04日 | [查看](https://jobs.apple.com/zh-cn/details/200692418/ai-product-manager-apo-bpr) |
 | 3 | Operations Program Manager - Operations & AI Innovation | Operations and Supply Chain | Shanghai | 2026年10月27日 | [查看](https://jobs.apple.com/zh-cn/details/200690348/operations-program-manager-operations-ai-innovation) |
 | 4 | AI Product Manager - APO BPR | Operations and Supply Chain | Shanghai | 2026年8月04日 | [查看](https://jobs.apple.com/zh-cn/details/200674770/ai-product-manager-apo-bpr) |
-| 5 | Subject Matter Expert - Data Science, Intern | Operations and Supply Chain | Shenzhen | 2026年10月29日 | [查看](https://jobs.apple.com/zh-cn/details/200689651/subject-matter-expert-data-science-intern) |
-| 6 | Operations Program Manager-Data/Python | Operations and Supply Chain | Shenzhen | 2026年10月27日 | [查看](https://jobs.apple.com/zh-cn/details/200667956/operations-program-manager-data-python) |
+| 5 | AI Engineer (Supply Demand Management) | Operations and Supply Chain | Shanghai | 2026年5月11日 | [查看](https://jobs.apple.com/zh-cn/details/200662309/ai-engineer-supply-demand-management) |
+| 6 | Subject Matter Expert - Data Science, Intern | Operations and Supply Chain | Shenzhen | 2026年10月29日 | [查看](https://jobs.apple.com/zh-cn/details/200689651/subject-matter-expert-data-science-intern) |
+| 7 | Operations Program Manager-Data/Python | Operations and Supply Chain | Shenzhen | 2026年10月27日 | [查看](https://jobs.apple.com/zh-cn/details/200667956/operations-program-manager-data-python) |
 ### 在校实习（软件 / AI 方向）（7）
 
 | # | 职位名称 | 团队 | 地点 | 发布日期 | 链接 |
@@ -342,7 +341,7 @@
 
 ### 4.1 共同要求（绝大多数岗位都具备）
 
-综合 256 份 JD，以下属于「计算机相关岗位的通用门槛」：
+综合 255 份 JD，以下属于「计算机相关岗位的通用门槛」：
 
 - **工作经验(年)**（约 97% 的岗位提及）
 - **计算机科学**（约 70% 的岗位提及）
@@ -350,13 +349,13 @@
 - **沟通协作**（约 69% 的岗位提及）
 - **电子/电气工程**（约 66% 的岗位提及）
 - **领导力/管理**（约 64% 的岗位提及）
-- **相关学位(本科/硕士)**（约 62% 的岗位提及）
-- **Python**（约 60% 的岗位提及）
+- **相关学位(本科/硕士)**（约 61% 的岗位提及）
+- **Python**（约 61% 的岗位提及）
 - **云计算/分布式**（约 56% 的岗位提及）
-- **C/C++**（约 55% 的岗位提及）
-- **Java**（约 37% 的岗位提及）
+- **C/C++**（约 56% 的岗位提及）
+- **Java**（约 36% 的岗位提及）
 - **SQL/数据库**（约 36% 的岗位提及）
-- **英语能力**（约 35% 的岗位提及）
+- **英语能力**（约 34% 的岗位提及）
 
 归纳起来，Apple 对中国区计算机岗位的「共同画像」是：
 - 具备**计算机科学 / 软件工程 / 电子工程**等相关专业的学士或更高学位；
