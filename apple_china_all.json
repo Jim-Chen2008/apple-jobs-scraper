@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月13日",
+  "postingDate": "2026年11月14日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-13T07:41:58.053333285Z",
+  "postDateInGMT": "2026-11-14T07:28:01.600369632Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月13日",
+  "postingDate": "2026年11月14日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-13T07:41:58.053341383Z",
+  "postDateInGMT": "2026-11-14T07:28:01.600378157Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月13日",
+  "postingDate": "2026年11月14日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-13T07:41:58.053342729Z",
+  "postDateInGMT": "2026-11-14T07:28:01.600379405Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月13日",
+  "postingDate": "2026年11月14日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-13T07:41:58.053344165Z",
+  "postDateInGMT": "2026-11-14T07:28:01.600380849Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -3117,6 +3117,46 @@
   "homeOffice": false,
   "jobPositionId": "PIPE-200628625",
   "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200694682-3715",
+  "jobSummary": "AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple.\n\nAt Apple, extraordinary ideas have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Would you like to work in a fast-paced environment where your technical abilities will be challenged on a day-to-day basis? If so, Apples Artificial Intelligence and Data Platforms (AiDP) team is seeking an experienced Software Engineering Manager to build high quality, scalable and resilient distributed systems that power Apple's cloud analytics platforms and data pipelines.\n\nApple's Enterprise Data Warehouse landscape caters to a wide variety of real-time, near real-time and batch analytical solutions. These solutions are an integral part of business functions like Sales, Operations, Finance, AppleCare, Marketing and Internet Services, enabling business drivers to make critical decisions. We utilize proprietary and open source technologies, Kafka, Spark, Iceberg, Airflow, Presto, etc. If you are looking to solve infrastructure problems at scale, both on-prem or in cloud, focusing on ease of use, ease of maintenance and most importantly implement solutions that are scalable, you will have fun in AiDP! \n\nIf you enjoy learning new technologies, solving challenges with little mentorship, and are comfortable proposing and implementing solutions, demonstrating Software Engineering standard methodologies, you will find it rewarding to work in AiDP! The ideal candidate for this position will be able to think outside of the box and should have passion for building engineering solutions to enable business in making time sensitive and critical decisions.\nThis position is based in Shanghai, China.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694682",
+  "postingDate": "2026年11月13日",
+  "postingTitle": "Software Engineer Manager, IS&T Ai & Data Platforms",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-13T23:39:37.663Z",
+  "transformedPostingTitle": "software-engineer-manager-is-t-ai-data-platforms",
+  "reqId": "200694682-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Software and Services",
+   "teamID": "teamsAndSubTeams-SFTWR",
+   "teamCode": "SFTWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200694682",
+  "isMultiLocation": false,
   "postExternal": true
  },
  {

@@ -555,6 +555,21 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "Software Engineer Manager, IS&T Ai & Data Platforms",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200694682",
+  "postingDate": "2026年11月13日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200694682/software-engineer-manager-is-t-ai-data-platforms",
+  "minimumQualifications": "7 or more years experience building enterprise level applications on large-scale distributed systems with a bachelor's degree in Computer Science or equivalent experience.\nKnowledge of BI concepts and implementation experience on Cloud with databases like SnowFlake or Big Query or Cloudera.\nProgramming experience in building high quality software. Proficiency in at-least one of the following programming languages - Python, Scala or Java. \nStrong hands-on experience in designing and development of cloud-based applications that include large scale compute services, database services, APIs to design RESTful services, ETL, queues and notification services.\nExperience in developing highly optimized SQLs, procedures & semantic process for distributed data applications. \nExperience in a leading software engineers, providing technical guidance and reviewing codes.\n",
+  "preferredQualifications": "Experience in Enterprise-ready Cloud Data-Warehousing platforms like Snowflake is highly valued\nHands-on knowledge of Spark cluster-computing framework & Kubernetes or similar containerization technologies.\nExperience developing Big Data applications using Java, Spark, Kafka is a huge plus\nUnderstanding of fundamentals of object-oriented design, data structures, algorithm design, and problem solving\nCloud technology experience on platforms like AWS, Microsoft Azure, Google Cloud\nData Visualization Tools: Proficient in data visualization, with experience in software such as Streamlit, Superset, Tableau, Business Objects, and Looker\nData Insights and KPIs: Working experience on generating and visualizing data insights, metrics, and KPIs. Usage of basic ML models in the space of anomaly detection, forecasting, GenAI. \nExperience in people development and/or mentoring technical engineers",
+  "description": "We engineer high-quality, scalable and resilient distributed systems on cloud that power data exploration, analytics, reporting and production models. Our core systems are diverse and come with an unusual intersection of high data volumes with systems distributed across cloud and on-premise infrastructure. \n\nOn our team you will build solutions that integrate open source software with Apple’s internal ecosystem. You will drive development of new components and features from concept to release: design, build, test, and ship at a regular cadence. You will work closely with internal customers to understand their requirements and workflows, and propose new features and ecosystem changes to streamline their experience of using the solutions on our platform.  \n\nThis is a hard-core software engineering role, where a large part of an engineer's time is spent in writing code and designing/developing applications on cloud, with the remainder being spent leading and providing technical guidance to engineers on tuning and debugging codebase, supporting production applications and supporting our application end users. This role requires in-depth knowledge of cutting-edge technologies and cloud data platform with an aptitude to independently learn new technologies and contribute to the success of various initiatives. \n\nWe are looking for a hardworking and passionate person to join this amazing team. If you feel this is you, we'd love to hear from you."
+ },
+ {
   "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
   "team": "Software and Services",
   "teamCode": "SFTWR",
