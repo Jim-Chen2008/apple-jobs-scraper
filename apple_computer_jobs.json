@@ -570,6 +570,36 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "Wireless System Integration Engineer",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200695407",
+  "postingDate": "2026年11月17日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200695407/wireless-system-integration-engineer",
+  "minimumQualifications": "BS and a minimum of 6 years relevant industry experience\nHands-on experience with chip (SoC) debug and/or tuning of transmitter and receiver chain performance, and familiarity with calibration algorithms.\nKnowledge of wireless communication protocols like 802.11a/b/g/n/ac/ax/bc, 802.11ad/ay or LTE.\nStrong understanding of communication theory, OFDM systems and radio systems, radio impairments and their measurement techniques.\nExperience with Python, Shell scripting and/or C/C++ implementation.\nHands-on experience using wireless test lab equipment (spectrum analyzer, signal generator, network analyzer, power meter), along with a solid understanding of the underlying theory for communication system debugging.",
+  "preferredQualifications": "Good understanding of communication theory and signal processing algorithms (such as timing recovery, signal estimation and detection, automatic gain control, RF impairment estimation and correction, channel estimation, equalization, coexistence, interference mitigation etc.)\nExperience debugging and/or tuning algorithms for calibration, pre-equalization, cancellation, and/or digital pre-distortion techniques.\nExcellent analytical and debug skills, with an ability to debug hardware issues within emulation environment.\nExperience building test automation and verification flow development with scripting languages such as Python",
+  "description": "Tune, debug, validate phy/radio system performance on silicon platforms to achieve optimal performance.\nCharacterize, tune, and debug on and off-chip calibration algorithms with HW/SW constraints for factory tuning and real time operation.\nDevelop and maintain Python validation and debug environments, including bench and handlers.\nWork alongside PHY, MAC, FW, RFIC and digital circuit designers on efficient implementation of DSP algorithms. \nProvide onsite factory support for the phy/radio system design as the SOC’s move from prototype through NPI.\nDevelop and implement test plans, collect and analyze test results, identify and debug issues."
+ },
+ {
+  "title": "iCloud Data Scientist",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200681668",
+  "postingDate": "2026年11月17日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200681668/icloud-data-scientist",
+  "minimumQualifications": "5+ years of professional experience in data science, machine learning, or digital product analytics\n3+ years of data engineering experience in data pipeline development, data model design, and aggregation strategies\nMastery in SQL-based languages and proficiency in large-scale data languages such as PySpark\nProven record measuring user experience behavior, customer engagement, and business impact using sophisticated and appropriate analytic tools\nStrong proponent of experimental test and design, and practical experience with interpreting observational results\nDemonstrated experience with data engineering tools and concepts with querying, manipulating, and analyzing internet-scale data structures and very large datasets specifically to address complex business or product challenges\nExcellent communication and presentation skills with meticulous attention to detail with the ability to communicate effectively between business and analytics teams\nStrong verbal and written communication and presentation skills across both technical and non-technical audiences\nFluent in both Mandarin and English\nBachelor's degree in Computer Science, Statistics, Mathematics, Engineering, Economics or a related field",
+  "preferredQualifications": "Experience in a digital subscription business or for an e-commerce platform\nMaster's degree or PhD in Computer Science, Statistics, Mathematics, Engineering, Economics or a related field",
+  "description": "As a data scientist on the Subscriptions & Commerce Data Science team, you’ll establish, enhance, and socialize top-line and operational metrics that accurately represent the business state of health; craft deep dives in large-scale data to identify key insights that inform business strategy and product improvements; and develop, improve, and execute on experimental measurement plans for new subscriptions and commerce products and features."
+ },
+ {
   "title": "Forward Deployed Software Engineer - Platforms Engineering",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -2145,21 +2175,6 @@
   "description": "You will drive the reliability, deployment, and scalability of compute platforms across on-premises and hybrid cloud environments. Collaborating closely with cross-functional technical and business partners, you will build Infrastructure as Code, optimize container orchestration, and streamline CI/CD delivery pipelines. You will champion automation and operational excellence, ensuring high availability, robust security standards, and proactive observability across large-scale distributed systems."
  },
  {
-  "title": "iCloud Data Scientist",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200681668",
-  "postingDate": "2026年9月10日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200681668/icloud-data-scientist",
-  "minimumQualifications": "5+ years of professional experience in data science, machine learning, or digital product analytics\n3+ years of data engineering experience in data pipeline development, data model design, and aggregation strategies\nMastery in SQL-based languages and proficiency in large-scale data languages such as PySpark\nProven record measuring user experience behavior, customer engagement, and business impact using sophisticated and appropriate analytic tools\nStrong proponent of experimental test and design, and practical experience with interpreting observational results\nDemonstrated experience with data engineering tools and concepts with querying, manipulating, and analyzing internet-scale data structures and very large datasets specifically to address complex business or product challenges\nExcellent communication and presentation skills with meticulous attention to detail with the ability to communicate effectively between business and analytics teams\nStrong verbal and written communication and presentation skills across both technical and non-technical audiences\nFluent in both Mandarin and English\nBachelor's degree in Computer Science, Statistics, Mathematics, Engineering, Economics or a related field",
-  "preferredQualifications": "Experience in a digital subscription business or for an e-commerce platform\nMaster's degree or PhD in Computer Science, Statistics, Mathematics, Engineering, Economics or a related field",
-  "description": "As a data scientist on the Subscriptions & Commerce Data Science team, you’ll establish, enhance, and socialize top-line and operational metrics that accurately represent the business state of health; craft deep dives in large-scale data to identify key insights that inform business strategy and product improvements; and develop, improve, and execute on experimental measurement plans for new subscriptions and commerce products and features."
- },
- {
   "title": "Bluetooth/Wi-Fi QA Engineer, Wireless Tech and Ecosystems",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -2910,21 +2925,6 @@
   "description": "In this role, you will design, develop, and implement large-scale enterprise business applications on the SAP Business Technology Platform (SAP BTP) using modern cloud-native architectures. You will collaborate closely with cross-functional teams to build secure, scalable microservices and rapid prototypes that solve critical operational challenges. Additionally, you will contribute to technical frameworks and engineering best practices to ensure the continuous delivery of high-quality SAP solutions."
  },
  {
-  "title": "Software Engineer(Frontend) , Infrastructure Applications",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200677849",
-  "postingDate": "2026年8月14日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200677849/software-engineer-frontend-infrastructure-applications",
-  "minimumQualifications": "B.S. in Computer Science, Computer Engineering, or equivalent practical work experience.\n5+ years of software development experience, with a strong focus on Java, Spring, and Spring Boot as a core backend framework.\nDemonstrated experience designing, building, and deploying microservices architectures.\nHands-on experience with React JS and related frontend technologies (JavaScript, HTML/CSS) for full-stack delivery.\nExperience with database modeling and entity design patterns using NoSQL MongoDB or similar.\nExperience designing and implementing AI agentic applications leveraging large language models (LLMs).\nPractical expertise in Full-Stack Web Development, including HTTP handling (RESTful APIs), routing, and web server configuration (e.g., Nginx, cloud load balancers).\nExcellent communication and presentation skills in both Mandarin and English",
-  "preferredQualifications": "Proficiency with MCP and function/tool calling patterns for autonomous agent behavior.\nStrong background in designing, building, and integrating high-performance RESTful APIs.\nAbility to write comprehensive test cases and debug complex issues to deliver quality products.\nStrong analytical skills and attention to detail for debugging, performance optimization, and scalable system design.\n",
-  "description": "We are currently seeking a highly motivated Infrastructure Software Engineer. The ideal  candidate should possess a strong background in Java Spring Boot backend development  and React JS frontend development, combined with experience leveraging AI-assisted development tools and LLMs to enhance engineering workflows. They should be passionate about creating modern, intelligent, user-friendly applications. In addition to technical expertise, excellent communication and interpersonal skills are crucial. The ideal candidate should be able to collaborate effectively with business partners from diverse backgrounds  and varying technical expertise levels.\n"
- },
- {
   "title": "Full Stack Software Engineer, Infrastructure Services ",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -3493,21 +3493,6 @@
   "minimumQualifications": "Expert-Level Python: 4+ years of professional software engineering experience, with deep expertise in Python. You should be highly proficient with modern Python paradigms, including async, type hinting, decorators, and advanced OOP/functional patterns. \n\nData Validation: Extensive experience using validation libraries to strictly define data models, parse inputs, and handle serialization/deserialization. \n\nLLM Function Calling Experience: Hands-on experience working with the function-calling or tool-use capabilities of modern LLMs (e.g., Gemini’s tools API, or open-source equivalents). \n\nAPI & Systems Integration: Deep experience integrating with third-party APIs (REST, GraphQL, gRPC) and handling edge cases like pagination, backoffs, and chaotic external state. \n\nBackend Best Practices: Strong fundamentals in API design (FastAPI/Starlette), version control, CI/CD, and writing comprehensive test suites (Pytest).",
   "preferredQualifications": "Experience with agentic frameworks (e.g., LangChain, LlamaIndex, AutoGen, CrewAI) and a strong opinion on when to use them versus when to write custom orchestration.\n\nFamiliarity with AST (Abstract Syntax Trees) or dynamic code execution/sandboxing (e.g., executing agent-generated Python code safely).\n\nExperience in designing UIUX product/solutions",
   "description": "We are looking for a strong AI Engineer to build the \"hands and eyes\" of our AI agents. While LLMs are great at reasoning, they cannot act in the real world without highly reliable, well-structured tools.\nIn this role, you will be the foundational engineer behind our AI Tool Foundry—a centralized platform of Python-based functions, APIs, and wrappers that our intelligent agents use to fetch data, interact with external systems, and execute complex workflows. You will design how tools are standardized, how they are described to LLMs (via schemas and docstrings), and how we ensure agents execute them safely and predictably.\nIf you love writing pristine, highly typed Python code and are fascinated by the intersection of traditional backend engineering and modern LLM function calling, this is the role for you."
- },
- {
-  "title": "Strategic Partnerships Manager, APAC - Apple Vision Pro",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200654006",
-  "postingDate": "2026年3月29日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200654006/strategic-partnerships-manager-apac-apple-vision-pro",
-  "minimumQualifications": "BS in Computer Science / Engineering or relevant industry experience.\n10+ years of experience in the enterprise and/or media sector, with strong technical proficiency and a deep understanding of corresponding ecosystems and businesses.\nProven ability to cultivate and maintain long-term business relationships, including a track record of successfully leading technology partnership from ideation to launch.\nOutstanding project management and organisational skills with the ability to handle multiple projects, stakeholders and work streams simultaneously.\nSelf-motivated with proven ability to effectively prioritize and deliver tasks on schedule.\nStellar communication and presentation skills: ability to communicate verbally and in writing to a variety of audience including senior external and internal leadership.\nFluency in Chinese (Mandarin) and English.",
-  "preferredQualifications": "Experience with head-mounted devices and interest in the spatial computing space.\nBusiness Development and/or management consulting experience.\nStrong experience and knowledge of the Chinese market with existing network and connection among major Chinese corporations. Experience in other APAC markets a plus.\nExperience working for an international group a plus.",
-  "description": "Apple's Vision Products Group (VPG) is looking for a savvy individual to drive partnership initiatives in the APAC region (with a strong focus on China) to develop the spatial computing ecosystem and deliver new and cutting edge experiences for Apple Vision Pro. You’ll play a major role in identifying the appropriate use cases, applications and partners leveraging the full potential of spatial computing in both the enterprise and entertainment sectors. Specifically you’ll be in charge of driving adoption of the Apple Immersive Video format across studios, broadcasters, video platforms and video production companies. You’ll also support the adoption of spatial computing across professional industries such as healthcare, automotive, and aviation with a diverse pool of partners, applications and clients. You'll work closely with cross-functional teams to support partners in adopting new technologies, tools, concepts and ways of working. Your success will be measured by your capacity to drive project from ideation to delivery to real customers and by enabling powerful adoption of spatial computing and Apple Vision Pro in APAC across industry leaders and innovators. \nIf you are a dynamic and strategic thinker with strong technical proficiency and a passion for forging meaningful partnerships, we invite you to join our team."
  },
  {
   "title": "AIML - Data Operations Senior Team Lead (Shanghai)",

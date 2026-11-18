@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月17日",
+  "postingDate": "2026年11月18日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-17T08:55:10.876927362Z",
+  "postDateInGMT": "2026-11-18T08:20:28.193960356Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月17日",
+  "postingDate": "2026年11月18日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-17T08:55:10.876934041Z",
+  "postDateInGMT": "2026-11-18T08:20:28.193968446Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月17日",
+  "postingDate": "2026年11月18日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-17T08:55:10.876935723Z",
+  "postDateInGMT": "2026-11-18T08:20:28.193969776Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月17日",
+  "postingDate": "2026年11月18日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-17T08:55:10.876937216Z",
+  "postDateInGMT": "2026-11-18T08:20:28.193971318Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -3160,6 +3160,246 @@
   "postExternal": true
  },
  {
+  "id": "200695628-3715",
+  "jobSummary": "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your work, and there is no telling what you can accomplish.\n\nThe success we strive for stems from highly skilled people working in an environment that cultivates creativity, partnership, and fresh approaches to complex technical challenges. The mission of the Optical Sensing Integration System Engineering team is to enable the world’s best user experiences by inventing and delivering state-of-the-art sensing technologies that are central to Apple’s signature products, including iPhone, iPad, Mac, and Apple Watch.\n\nWe are seeking an Optical Sensing Integration Electrical Engineer to bridge the gap between design and high-volume  manufacturing. In this role, you will lead the integration of advanced sensing module   technologies into final products, collaborating closely with factory teams and cross-functional partners across Architecture, System EE, Product Design (PD), HW Test, Firmware, Software, Reliability, and Operations. If you bring strong hands-on experience in optical instrumentation, bench-level electrical debugging, and data-driven problem solving, join us in crafting solutions the world has yet to experience.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200695628",
+  "postingDate": "2026年11月18日",
+  "postingTitle": "Optical Sensing Integration System (HWEE)",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-18T08:06:44.691Z",
+  "transformedPostingTitle": "optical-sensing-integration-system-hwee",
+  "reqId": "200695628-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200695628",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200608835-3715",
+  "jobSummary": "At Apple, we believe our products begin with our people. By hiring a team with varied strengths, we drive creative thought. By giving that team everything they need, we drive innovation. By hiring incredible engineers, we drive precision. And through our collaborative process, we build memorable experiences for our customers.\nThese elements come together to make Apple an amazing environment for motivated people to do the greatest work of their lives. You will become part of a hands-on development team that sets the standard in cultivating excellence, creativity and innovation. Will you help us design the next generation of revolutionary Apple products?\n\nThe Vision Products Group (VPG) is looking for mechanical product design (PD) engineer to join our team in Shenzhen, China or Shanghai, China. VPG designed the Apple Vision Pro, and we’re looking to expand our in-region team to support exciting new products.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200608835",
+  "postingDate": "2026年11月18日",
+  "postingTitle": "Product Design Engineer - Vision Pro",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-18T02:09:10.924Z",
+  "transformedPostingTitle": "product-design-engineer-vision-pro",
+  "reqId": "200608835-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200608835",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200674278-3715",
+  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to develop a culture where everyone belongs and is inspired to do their best work. \n\nHere in the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magnificent, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things. \n\nThe Retail Customer Care (RCC) organization is a direct channel for Apple passionate about driving pre and post sales customer interactions and managing order support related activities globally. RCC supports Apple shoppers who buy from and are fulfilled by the Apple Store Online, Apple Retail Stores, and third-party marketplaces. The Sales Team Manager is responsible for daily supervision and administrative activities, leading others, driving performance, and developing specialists in your team to deliver the only-at-Apple experience to our customers. Teams either provide pre-sales support to Consumer, Education and Business customers through chat and/or phone contacts, or they help customers learn more about our amazing products and services through the Personal Setup program.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200674278",
+  "postingDate": "2026年11月18日",
+  "postingTitle": "Sales Team Manager, Retail Customer Care",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-18T01:39:20.044Z",
+  "transformedPostingTitle": "sales-team-manager-retail-customer-care",
+  "reqId": "200674278-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Support and Service",
+   "teamID": "teamsAndSubTeams-CUST",
+   "teamCode": "CUST"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200674278",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200695407-3715",
+  "jobSummary": "At Apple, we work every single day to craft products that enrich people’s lives. Do you love working on challenges that no one has solved yet? Do you like changing the game? We have an opportunity for a forward-thinking and unusually hardworking Wireless System Integration Engineer. As a member of our multi-faceted group, you will have the rare and extraordinary opportunity to craft upcoming products that will delight and encourage millions of Apple’s customers every single day.\n\nIn this technical role, you will be part of a silicon design group responsible for Phy and radio system integration, characterization, and NPI Support for state-of-the-art wireless SoC products from early silicon to production.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200695407",
+  "postingDate": "2026年11月17日",
+  "postingTitle": "Wireless System Integration Engineer",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-17T16:10:36.834Z",
+  "transformedPostingTitle": "wireless-system-integration-engineer",
+  "reqId": "200695407-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200695407",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200681668-3715",
+  "jobSummary": "At Apple, we have phenomenal ideas that have a way of becoming great products, services, and customer experiences. We are seeking an iCloud Data Scientist to join a team passionate about Data Science & Analytics for Apple Services to support transaction and subscription businesses across App Store, iCloud, Apple Music, Apple TV, Apple Arcade, Apple One, and other services.\n\nYou will play a key role in understanding and optimizing the businesses under Apple Services as a part of the Subscriptions & Commerce Data Science team with a focus on the iCloud business in China. As a member of this team, you will help us to grow the financial, transaction, and subscription health of iCloud by sizing, measuring, and recommending impactful initiatives. Responsibilities will include understanding the impact across acquisition, subscription renewals, tier upgrades, payment authorizations, user behavior, and operational costs.\n",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200681668",
+  "postingDate": "2026年11月17日",
+  "postingTitle": "iCloud Data Scientist",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-17T09:47:57.389Z",
+  "transformedPostingTitle": "icloud-data-scientist",
+  "reqId": "200681668-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Software and Services",
+   "teamID": "teamsAndSubTeams-SFTWR",
+   "teamCode": "SFTWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200681668",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200695395-3715",
+  "jobSummary": "Passion thrives here\nApple is a place where extraordinary people come together to do their best work. Imagine what you could achieve here. At Apple, creative ideas quickly transform into exceptional products, services, and customer experiences. Bring passion and dedication to your work, and there’s no limit to what you can accomplish.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200695395",
+  "postingDate": "2026年11月17日",
+  "postingTitle": "Global Sourcing and Supply Manager",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-17T09:27:00.632Z",
+  "transformedPostingTitle": "global-sourcing-and-supply-manager",
+  "reqId": "200695395-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Operations and Supply Chain",
+   "teamID": "teamsAndSubTeams-OPMFG",
+   "teamCode": "OPMFG"
+  },
+  "type": "PIPE",
+  "homeOffice": false,
+  "jobPositionId": "PIPE-200695395",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
   "id": "200695114-3715",
   "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nThe Apple Store Online team’s main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Our job is to set the bar for the experience they receive. To create such an extraordinary experience, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.",
   "locations": [
@@ -3189,9 +3429,9 @@
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,
   "team": {
-   "teamName": "Sales and Business Development",
-   "teamID": "teamsAndSubTeams-SLDEV",
-   "teamCode": "SLDEV"
+   "teamName": "Corporate Functions",
+   "teamID": "teamsAndSubTeams-CORSV",
+   "teamCode": "CORSV"
   },
   "type": "PIPE",
   "homeOffice": false,
@@ -10560,46 +10800,6 @@
   "postExternal": true
  },
  {
-  "id": "200608835-3715",
-  "jobSummary": "At Apple, we believe our products begin with our people. By hiring a team with varied strengths, we drive creative thought. By giving that team everything they need, we drive innovation. By hiring incredible engineers, we drive precision. And through our collaborative process, we build memorable experiences for our customers.\nThese elements come together to make Apple an amazing environment for motivated people to do the greatest work of their lives. You will become part of a hands-on development team that sets the standard in cultivating excellence, creativity and innovation. Will you help us design the next generation of revolutionary Apple products?\nThe Vision Products Group is looking for highly-motivated mechanical product design engineer to join our team in Shenzhen, China or Shanghai, China. This is a highly collaborative and creative role that will be critical to the design of the next generation of Vision products. As an emerging product field, this role offers unique and interesting engineering challenges fit for the most inquisitive and clever candidates.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200608835",
-  "postingDate": "2026年9月17日",
-  "postingTitle": "Product Design Engineer - Vision Pro",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-17T09:05:56.401Z",
-  "transformedPostingTitle": "product-design-engineer-vision-pro",
-  "reqId": "200608835-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Hardware",
-   "teamID": "teamsAndSubTeams-HRDWR",
-   "teamCode": "HRDWR"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200608835",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200683730-3715",
   "jobSummary": "Apple's Services Engineering organization (ASE) is seeking an experienced data systems engineering manager to join our Databases SRE organization. The organization is expanding its footprint into Shanghai and is seeking an experienced engineering manager to build out and lead this site.\n\nThe Databases SRE organization is responsible for the full portfolio of database and data service technologies that Apple's internet services are built on, Apache Cassandra, Apache Kafka, Apache Solr, Redis/Valkey, etcd and other coordination services, and the platforms that run them. This is a cross-service role from day one: you will build and lead a team accountable for the reliability, scalability, and performance of all of these technologies as operated from the Shanghai site, and act as the site lead for the Databases SRE organization there.",
   "locations": [
@@ -11476,46 +11676,6 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200682668",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200681668-3715",
-  "jobSummary": "At Apple, we have phenomenal ideas that have a way of becoming great products, services, and customer experiences. We are seeking an iCloud Data Scientist to join a team passionate about Data Science & Analytics for Apple Services to support transaction and subscription businesses across App Store, iCloud, Apple Music, Apple TV, Apple Arcade, Apple One, and other services.\n\nYou will play a key role in understanding and optimizing the businesses under Apple Services as a part of the Subscriptions & Commerce Data Science team with a focus on the iCloud business in China. As a member of this team, you will help us to grow the financial, transaction, and subscription health of iCloud by sizing, measuring, and recommending impactful initiatives. Responsibilities will include understanding the impact across acquisition, subscription renewals, tier upgrades, payment authorizations, user behavior, and operational costs.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200681668",
-  "postingDate": "2026年9月10日",
-  "postingTitle": "iCloud Data Scientist",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-10T06:30:46.825Z",
-  "transformedPostingTitle": "icloud-data-scientist",
-  "reqId": "200681668-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200681668",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -12436,46 +12596,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200635298",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200674278-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to develop a culture where everyone belongs and is inspired to do their best work. \n\nHere in the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magnificent, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things. \n\nThe Retail Customer Care (RCC) organization is a direct channel for Apple passionate about driving pre and post sales customer interactions and managing order support related activities globally. RCC supports Apple shoppers who buy from and are fulfilled by the Apple Store Online, Apple Retail Stores, and third-party marketplaces. The Sales Team Manager is responsible for daily supervision and administrative activities, leading others, driving performance, and developing specialists in your team to deliver the only-at-Apple experience to our customers. Teams either provide pre-sales support to Consumer, Education and Business customers through chat and/or phone contacts, or they help customers learn more about our amazing products and services through the Personal Setup program.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200674278",
-  "postingDate": "2026年9月02日",
-  "postingTitle": "Sales Team Manager, Retail Customer Care",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-02T02:56:23.251Z",
-  "transformedPostingTitle": "sales-team-manager-retail-customer-care",
-  "reqId": "200674278-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Support and Service",
-   "teamID": "teamsAndSubTeams-CUST",
-   "teamCode": "CUST"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200674278",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -14756,46 +14876,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200677811",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200677849-3715",
-  "jobSummary": "Working with amazing people  and awesome products not only makes your work meaningful, it drives you to make our world a better place. Great ideas have a way of becoming great products, services and customer experiences very quickly at Apple. The Infrastructure Software Development team is looking  for a passionate, self-motivated  and hard-working engineer to be part of a diverse, fast paced  and high-energy team. Bring passion  and dedication to your job  and there's no telling what you could accomplish.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200677849",
-  "postingDate": "2026年8月14日",
-  "postingTitle": "Software Engineer(Frontend) , Infrastructure Applications",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-14T17:01:59.808Z",
-  "transformedPostingTitle": "software-engineer-frontend-infrastructure-applications",
-  "reqId": "200677849-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200677849",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -17160,46 +17240,6 @@
   "postExternal": true
  },
  {
-  "id": "200621805-3715",
-  "jobSummary": "At Apple, we focus deeply on our customers’ experience. Apple Ads brings this same approach to advertising, helping people find exactly what they’re looking for and helping advertisers grow their businesses.\n\nOur technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, Apple Maps, and sports on Apple TV. Everything we do is designed for trust, connection, and impact: We respect user privacy, integrate advertising thoughtfully into the experience, and deliver value for advertisers of all sizes—from small app developers to big, global brands. Because when advertising is done right, it benefits everyone.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200621805",
-  "postingDate": "2026年6月16日",
-  "postingTitle": "GCR Strategic Accounts Field Marketer, Gaming, Apple Ads",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-06-16T02:48:04.013Z",
-  "transformedPostingTitle": "gcr-strategic-accounts-field-marketer-gaming-apple-ads",
-  "reqId": "200621805-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Marketing",
-   "teamID": "teamsAndSubTeams-MKTG",
-   "teamCode": "MKTG"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200621805",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200668364-3715",
   "jobSummary": "Why Apple? Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives.   Why Softgoods? Apple’s Softgoods Engineering team is relatively new to Apple. We work with textiles, silicone and polymers of various hardnesses. Our mission is to use these materials to enhance Apple’s existing product lines and to enable new technologies. Delivering extraordinary Apple products made of soft materials is an exciting challenge and requires a creative and forward-thinking approach. We have a hardworking team of people from a wide variety of backgrounds. We work together in appealing, customized labs where we design, engineer and develop the best Softgoods products in the world. If this sounds like an exciting challenge, we hope you will consider a place in our team!\n",
   "locations": [
@@ -18280,46 +18320,6 @@
   "postExternal": true
  },
  {
-  "id": "200654006-3715",
-  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.\nApple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200654006",
-  "postingDate": "2026年3月29日",
-  "postingTitle": "Strategic Partnerships Manager, APAC - Apple Vision Pro",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-03-29T14:56:37.881Z",
-  "transformedPostingTitle": "strategic-partnerships-manager-apac-apple-vision-pro",
-  "reqId": "200654006-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "PIPE",
-  "homeOffice": false,
-  "jobPositionId": "PIPE-200654006",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200613762-3715",
   "jobSummary": "Join Apple’s AIML (Artificial Intelligence and Machine Learning) Data Operations team at the forefront of advancing technology, within one of the world’s most diverse and inclusive environments. Here, visionary minds from varied backgrounds collaborate to transform groundbreaking ideas into revolutionary products and services that are redefining industries; such as the iconic Siri, which continues to innovate the interaction between people and machines.  \n\nThe AIML Data Operations team focuses on delivering high quality annotated data that contributes directly to the development of Apple’s products and services. Our team is comprised of individuals who are fueled by creativity, thrive on diverse perspectives and have a passion for delivering results. If you’re passionate about AIML and enjoy working within a fast-paced, nimble environment as part of a larger team, then imagine the impact you could make in AIML where new insights and ideas become extraordinary realities, enriching lives and leaving the world better than we found it!  \n\nAs a Senior Team Lead, you will manage the daily operations of the Annotation team. You will coach, mentor and guide a group of Team Leads to ensure quality, innovation and strong performance from their team of language Annotation Analysts. You will use your analytical mindset, collaborative approach, and personal drive to achieve team performance goals through coaching, support, and driving results.  This role is an office based position. Additionally, some specific supervisor shifts require certain hours to be present on campus, and can span any hours of operations.",
   "locations": [
@@ -18836,6 +18836,46 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200401406",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200694710-3435",
+  "jobSummary": "Apple is a place where extraordinary people gather to do their best work. Just be ready to dream big.  \n\nThe people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.  \n\nImaging what you could do here. At Apple, creative ideas have a way of becoming wonderful products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish.   \n\nOur enclosure global supply management team is responsible for the sourcing, manufacturing development, execution and production of Apple's differentiated and unique mechanical enclosure parts.   \n\nPart of Apple's core business is the creation and development of our world-class mechanical / industrial designs and as such, the management of the supply chains is required to be equally unique, innovative and specialized.  \n\nDue to the importance of this discipline in the definition of Apple's brand, this business group must innovate not only our products, but also the very business processes by which we accomplish our objectives. The complicated balance between the need to achieve ground breaking mechanical developments and business execution creates challenges that drive processes that require a bridge from engineering risk to manufacturing capability to business needs.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SHZ",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shenzhen",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694710",
+  "postingDate": "2026年11月17日",
+  "postingTitle": "Enclosure Global Supply Manager, Watch",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-17T22:40:06.011Z",
+  "transformedPostingTitle": "enclosure-global-supply-manager-watch",
+  "reqId": "200694710-3435",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Operations and Supply Chain",
+   "teamID": "teamsAndSubTeams-OPMFG",
+   "teamCode": "OPMFG"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200694710",
   "isMultiLocation": false,
   "postExternal": true
  },
