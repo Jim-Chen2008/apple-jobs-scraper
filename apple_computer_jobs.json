@@ -570,6 +570,51 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "Data Scientist",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200695088",
+  "postingDate": "2026年11月19日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200695088/data-scientist",
+  "minimumQualifications": "Bachelor’s degree in Computer Science, MIS, Engineering, Mathematics, or a related quantitative discipline.\n3+ years of hands-on, combined experience in Data Science, Machine Learning, and Data/Backend Engineering.\nStrong programming proficiency in Python, Scala, or Java for building analytical pipelines and applications.\nPractical experience deploying and managing production-grade ML models.\nStructured thinking with the ability to easily break down ambiguous problems and adapt quickly to complex systems.",
+  "preferredQualifications": "Advanced Data Stack: Deep expertise in Snowflake and 2+ years of experience with Big Data technologies (Spark, Lakehouse, Trino).\nAdvanced AI/LLMs: Familiarity with modern multi-agent orchestration frameworks, and data preprocessing/tokenization.\nGenAI Architectures: Strong experience with RAG techniques working in conjunction with LLMs, as well as creating and consuming Model Context Protocol (MCP) services.\nCloud Infrastructure: Experience deploying to cloud environments (AWS, GCP, or on-prem/hybrid architectures).\nDomain Knowledge: Prior experience working with financial data, enterprise planning & reporting systems, or FinTech.",
+  "description": "We are seeking a highly technical Data Scientist who brings strong Data Engineering capabilities to our Finance organization. In this role, you will not only build advanced machine learning and Generative AI models, but also architect the scalable data pipelines and distributed platforms required to deploy them into production."
+ },
+ {
+  "title": "PLC Automation Engineer (Programmable Logic Controller)",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200695647",
+  "postingDate": "2026年11月18日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200695647/plc-automation-engineer-programmable-logic-controller",
+  "minimumQualifications": "BS or MS in Electrical Engineering, Mechatronics, Computer Science, Automation, or a related field.\nMinimum of 3 years of hands-on experience in PLC programming and industrial automation.\nCore PLC & Architecture: Proficient in IEC 61131-3 languages with a strong emphasis on Structured Text (ST).\nProven, hands-on experience applying Object-Oriented.\nProgramming (OOP) principles within a PLC environment.\nPlatform Experience: Strong experience programming sophisticated automation systems. Note: Experience with Beckhoff TwinCAT 3 or CODESYS is highly preferred, but strong candidates with other platforms who are eager to transition to PC-based controls will be actively considered.\nMotion & Integration: Deep experience with motion control (servo systems, stepper motors, motion controllers), including tuning and commissioning drives.\nElectrical & Safety: Solid understanding of electrical schematics, wiring diagrams, and control panel design. Knowledge of machine functional safety standards (e.g., ISO 13849, IEC 62061).\nIndustrial Networking: Proficiency in configuring and troubleshooting industrial protocols (EtherCAT, EtherNet/IP, PROFINET, Modbus, etc.).\nCommunication & Soft Skills: Exceptional analytical problem-solving skills. Outstanding XF communication skills to collaborate effectively with mechanical, electrical, and software teams.\nFlexibility: Adaptable and willing to travel for field work, commissioning, and troubleshooting during critical project build phases.",
+  "preferredQualifications": "Advanced Frameworks: Practical experience implementing ISA-88 batch control standards and PackML machine state models.\nSafety Integration: Experience designing, implementing, and validating functional safety systems, particularly configuring safe I/O and programming safe logic within the TwinCAT Safety environment.\nSoftware Engineering Tools: Proficiency with version control systems (e.g., Git) for PLC code management.\nHMI/SCADA: Experience designing and programming Human-Machine Interfaces (HMI) and SCADA systems.\nHigh-Level Languages: Experience with high-level languages in an industrial context (e.g., Python, C#) and basic knowledge of databases.\nContinuous Learning: A demonstrated willingness to learn new programming environments and keep pace with emerging automation technologies (Industry 4.0, IIoT).",
+  "description": "As a PLC Automation Engineer in HWTE, you will own the software architecture, control logic, and integration of complex automated test fixtures. You will not be working in a silo: this role operates in a highly dynamic, cross-functional (XF) environment where you will partner daily with mechanical engineers, software engineers (macOS/iOS), test instrumentation specialists, and operations teams.\nWe need a technical leader who bridges the gap between traditional automation and modern software engineering.You will translate complex test requirements into robust, modular PLC code using Object- Oriented Programming (OOP) principles, while governing the automation standards used by our global vendors. If you have a deep passion for machine state modeling, excel at diagnosing electromechanical systems in the field, and want to lead the charge on \"Future Factory\" initiatives, we want to hear from you."
+ },
+ {
+  "title": "Software Engineering Intern (Full-Stack & AI Integration) - Shanghai",
+  "team": "Students",
+  "teamCode": "STDNT",
+  "category": "intern",
+  "positionId": "200695373",
+  "postingDate": "2026年11月18日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai",
+  "minimumQualifications": "Currently pursuing a Master’s degree in Computer Science, Software Engineering, Data Science, or a related field.\nAvailable for a full-time internship in Shanghai for 6–12 months.\nStrong programming skills and software design fundamentals, with hands-on experience building applications.\nFamiliarity with AI/LLM integration, with the ability to use AI tools efficiently and responsibly.\nSelf-driven, goal-oriented, and responsive, with strong problem-solving skills.\nGood written and spoken communication skills in both English and Chinese.",
+  "preferredQualifications": "Strong architectural knowledge, with understanding of different tech stacks, platforms, and system designs.\nProject experience in full-stack development(frontend, backend, and database).\nGood UI/UX sense with attention to clean, intuitive user experiences.\nStrong collaborative mindset, eagerness to learn, and the ability to work in a fast-paced environment.",
+  "description": "Our Business Operations team within Apple Hardware Engineering drives operational excellence through process improvement and tool development. \nWe are looking for an intern passionate about AI and software engineering to help us design and build AI integrated tools.\nThis role offers a unique opportunity to work at the intersection of AI, software, and hardware engineering, learning how modern tools transform productivity at scale.\n\nYou will be involved into AI-powered tool definition/development, and perform those as part of the exciting Apple Hardware Engineering Program Planning/Execution. You will work together with a team of highly skilled EPM, EPS and Engineers.\n"
+ },
+ {
   "title": "Wireless System Integration Engineer",
   "team": "Hardware",
   "teamCode": "HRDWR",
@@ -660,7 +705,7 @@
   "description": "In this position, you will have the opportunity to work collaboratively with a group of “A” player soft-ware engineers from related but different backgrounds to make Apple Retail truly innovative. To be successful in this role, the candidate must be hands-on, proactive, talented at problem solving, have the mindset to challenge the norm and have a strong desire to learn and work towards excellence.Apple is looking for an individual that takes pride in crafting solutions to enhance product delivery by architecting and leading distributed compute platforms and application services. This engineer needs to work closely with cross-functional teams to identify potential solutions and go on to work with the engineering teams to properly test and deploy changes. Critical thinking, writing solid and clean code, planning, documenting, and communicating within the team and cross-functionally is critical to the success of the role."
  },
  {
-  "title": "Software Engineer Manager",
+  "title": "Software Engineer (Data), AI & Data Platforms",
   "team": "Software and Services",
   "teamCode": "SFTWR",
   "category": "core",
@@ -669,10 +714,10 @@
   "locations": [
    "Shanghai"
   ],
-  "link": "https://jobs.apple.com/zh-cn/details/200694682/software-engineer-manager",
-  "minimumQualifications": "7 or more years experience building enterprise level applications on large-scale distributed systems with a bachelor's degree in Computer Science or equivalent experience.\nKnowledge of BI concepts and implementation experience on Cloud with databases like SnowFlake or Big Query or Cloudera.\nProgramming experience in building high quality software. Proficiency in at-least one of the following programming languages - Python, Scala or Java. \nStrong hands-on experience in designing and development of cloud-based applications that include large scale compute services, database services, APIs to design RESTful services, ETL, queues and notification services.\nExperience in developing highly optimized SQLs, procedures & semantic process for distributed data applications. \nExperience in a leading software engineers, providing technical guidance and reviewing codes.\n",
-  "preferredQualifications": "Experience in Enterprise-ready Cloud Data-Warehousing platforms like Snowflake is highly valued\nHands-on knowledge of Spark cluster-computing framework & Kubernetes or similar containerization technologies.\nExperience developing Big Data applications using Java, Spark, Kafka is a huge plus\nUnderstanding of fundamentals of object-oriented design, data structures, algorithm design, and problem solving\nCloud technology experience on platforms like AWS, Microsoft Azure, Google Cloud\nData Visualization Tools: Proficient in data visualization, with experience in software such as Streamlit, Superset, Tableau, Business Objects, and Looker\nData Insights and KPIs: Working experience on generating and visualizing data insights, metrics, and KPIs. Usage of basic ML models in the space of anomaly detection, forecasting, GenAI. \nExperience in people development and/or mentoring technical engineers",
-  "description": "We engineer high-quality, scalable and resilient distributed systems on cloud that power data exploration, analytics, reporting and production models. Our core systems are diverse and come with an unusual intersection of high data volumes with systems distributed across cloud and on-premise infrastructure. \n\nOn our team you will build solutions that integrate open source software with Apple’s internal ecosystem. You will drive development of new components and features from concept to release: design, build, test, and ship at a regular cadence. You will work closely with internal customers to understand their requirements and workflows, and propose new features and ecosystem changes to streamline their experience of using the solutions on our platform.  \n\nThis is a hard-core software engineering role, where a large part of an engineer's time is spent in writing code and designing/developing applications on cloud, with the remainder being spent leading and providing technical guidance to engineers on tuning and debugging codebase, supporting production applications and supporting our application end users. This role requires in-depth knowledge of cutting-edge technologies and cloud data platform with an aptitude to independently learn new technologies and contribute to the success of various initiatives. \n\nWe are looking for a hardworking and passionate person to join this amazing team. If you feel this is you, we'd love to hear from you."
+  "link": "https://jobs.apple.com/zh-cn/details/200694682/software-engineer-data-ai-data-platforms",
+  "minimumQualifications": "Knowledge of BI concepts and Implementation experience on Cloud with databases like SnowFlake or Big Query\nProgramming experience with Python, Scala or Java\nHands-on experience in designing and development of cloud-based applications that include compute services, database services, APIs to design RESTful services, ETL, queues and notification services.\nExperience in developing highly optimized SQLs, procedures & semantic process for distributed data applications\nBachelor’s degree in Computer Science or equivalent experience",
+  "preferredQualifications": "7 or more years of experience building enterprise-level data applications on distributed systems\nExperience in cloud data warehousing platforms like Snowflake is highly valued\nHands-on knowledge of Spark cluster-computing framework & Kubernetes or similar containerization technologies.\nExperience developing Big Data applications using Java, Spark, Kafka is a huge plus\nUnderstanding of fundamentals of object-oriented design, data structures, algorithm design, and problem solving\nCloud technology experience on platforms like AWS, Microsoft Azure, Google Cloud.\nData Visualization Tools: experience in software such as Streamlit, Superset, Tableau, Business Objects, and Looker.\nData Insights and KPIs: Working experience on generating and visualizing data insights, metrics, and KPIs. Usage of basic ML models in the space of anomaly detection, forecasting, GenAI.",
+  "description": "We engineer high-quality, scalable and resilient distributed systems on cloud that power data exploration, analytics, reporting and production models. Our core systems are diverse and come with an unusual intersection of high data volumes with systems distributed across cloud and on-premise infrastructure.\n\nThis role will build solutions that integrate open source software with Apple’s internal ecosystem. You will drive development of new components and features from concept to release: design, build, test, and ship at a regular cadence. You will work closely with internal customers to understand their requirements and workflows, and propose new features and ecosystem changes to streamline their experience of using the solutions on our platform.\n\nThis is a challenging software engineering role, where a large part of an engineer's time is spent in writing code and designing/developing applications on cloud, with the remainder being spent on tuning and debugging codebase, supporting production applications and supporting our application end users. This role requires in-depth knowledge of innovative technologies and cloud data platform with the ability to independently learn new technologies and contribute to the success of various initiatives."
  },
  {
   "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
@@ -2220,21 +2265,6 @@
   "description": "As a Senior Software Engineer on our team, you will play a pivotal role in shaping and delivering high-impact AI/ML solutions that redefine how Apple designs, manufactures, and tests hardware products. The software you build will power data-driven decisions, uncover new insights, and enable breakthrough capabilities across Hardware Engineering and beyond.  \n\nWe operate in a fast-paced, collaborative environment, working closely with cross-functional teams to quickly iterate, validate, and deploy practical AI/ML solutions at scale."
  },
  {
-  "title": "Embedded Software Engineer",
-  "team": "Hardware",
-  "teamCode": "HRDWR",
-  "category": "hw_sw",
-  "positionId": "200644032",
-  "postingDate": "2026年9月08日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200644032/embedded-software-engineer",
-  "minimumQualifications": "BS or MS in Computer Engineering, Computer Science, Electrical Engineering or equivalent.\nExcellent communication skills, both verbally and written (In both Chinese and English).\n",
-  "preferredQualifications": "Proficiency in C/C++, some embedded software experience is preferred.\n﻿Understanding and experience with ARM platform and architecture/instruction set.\nExperience developing low level drivers\nExperience with debuggers such as gdb, lldb, etc. \nFamiliarity with scopes and logic analyzers. \nAble to comprehend hardware specs and schematics. \nFamiliarity with standard hardware protocols (USB, UART, SPI, I2C, PCIe, MIPI, HDMI, DDR)\nFamiliarity with some form of scripting (lua, python). ",
-  "description": "In this role you will implement software and drivers for common firmware interfaces, chipsets, communications protocols and various SoC IPs. You will also implement features to support hardware testing and diagnosis of unreleased Apple's handheld devices. This is a highly cross functional role and you'll work closely with various teams, like EE, Systems Engineering, Software Engineering, Hardware Testing, QA, Factory, Manufacturing and Operations. The environment is dynamic, fast-paced and requires a go-getter attitude. \n"
- },
- {
   "title": "SRE Software Engineering Manager - ASE Compute",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -3480,21 +3510,6 @@
   "description": "We are looking for a Hardware Engineer that can help close the gap between design and manufacturing by working closely with the various factory teams to lead the integration of the inductive technology into products. This is done in partnership with multiple discipline teams including, but not limited to factory, architecture, FW, system EE, silicon, noise and vibration, safety, thermal, reliability, operations, regulatory teams and more."
  },
  {
-  "title": "AI Engineer (Supply Demand Management)",
-  "team": "Operations and Supply Chain",
-  "teamCode": "OPMFG",
-  "category": "data",
-  "positionId": "200662309",
-  "postingDate": "2026年5月11日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200662309/ai-engineer-supply-demand-management",
-  "minimumQualifications": "Expert-Level Python: 4+ years of professional software engineering experience, with deep expertise in Python. You should be highly proficient with modern Python paradigms, including async, type hinting, decorators, and advanced OOP/functional patterns. \n\nData Validation: Extensive experience using validation libraries to strictly define data models, parse inputs, and handle serialization/deserialization. \n\nLLM Function Calling Experience: Hands-on experience working with the function-calling or tool-use capabilities of modern LLMs (e.g., Gemini’s tools API, or open-source equivalents). \n\nAPI & Systems Integration: Deep experience integrating with third-party APIs (REST, GraphQL, gRPC) and handling edge cases like pagination, backoffs, and chaotic external state. \n\nBackend Best Practices: Strong fundamentals in API design (FastAPI/Starlette), version control, CI/CD, and writing comprehensive test suites (Pytest).",
-  "preferredQualifications": "Experience with agentic frameworks (e.g., LangChain, LlamaIndex, AutoGen, CrewAI) and a strong opinion on when to use them versus when to write custom orchestration.\n\nFamiliarity with AST (Abstract Syntax Trees) or dynamic code execution/sandboxing (e.g., executing agent-generated Python code safely).\n\nExperience in designing UIUX product/solutions",
-  "description": "We are looking for a strong AI Engineer to build the \"hands and eyes\" of our AI agents. While LLMs are great at reasoning, they cannot act in the real world without highly reliable, well-structured tools.\nIn this role, you will be the foundational engineer behind our AI Tool Foundry—a centralized platform of Python-based functions, APIs, and wrappers that our intelligent agents use to fetch data, interact with external systems, and execute complex workflows. You will design how tools are standardized, how they are described to LLMs (via schemas and docstrings), and how we ensure agents execute them safely and predictably.\nIf you love writing pristine, highly typed Python code and are fascinated by the intersection of traditional backend engineering and modern LLM function calling, this is the role for you."
- },
- {
   "title": "AIML - Data Operations Senior Team Lead (Shanghai)",
   "team": "Machine Learning and AI",
   "teamCode": "MLAI",
@@ -3600,19 +3615,19 @@
   "description": "-  Design, develop, test and maintain data collection and workflow systems maintained by the Battery Data Systems team, as well integrations and interactions of such systems, locally and abroad\n\n-  Assist in all phases of software implementations, including requirements gathering, development, commissioning, documentation and user training\n\n-  Coordinate development of scope with users and manage vendors to design, implement and deliver overall system integration solutions\n\n-  Provide timely production support for MES custom and out of the box solutions, locally and abroad\n\n-  Responsible for the change management process of the existing applications, ensuring standardization and version control\n\n-  Responsible for working with the customers to understand data output requirements and provide reports as needed\n\n-  Individual will also need to be capable of mentoring others on the suite of applications, in addition to performing projects execution tasks\n\n-  Train engineers, operators, and technicians on the new systems"
  },
  {
-  "title": "Field Security Technical Engineer",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200692595",
-  "postingDate": "2026年10月30日",
+  "title": "Camera Calibration and Instrumentation Engineer",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200695648",
+  "postingDate": "2026年11月18日",
   "locations": [
    "Shenzhen"
   ],
-  "link": "https://jobs.apple.com/zh-cn/details/200692595/field-security-technical-engineer",
-  "minimumQualifications": "Minimum of 5 years relevant work experience in a MNC or major national company.\nSolid knowledge on computer network and common protocols, TCP/IP and OSI model, UDP, DNS,  SSH, SSL/TLS, HTTPS and various security technologies such as network and application firewalls, host intrusion prevention and anti-virus etc. \nHands-on experience with analysis of network traffic, packet sniffer and usage of Deep Packet Inspection tools.\nProgramming proficiency, sufficient to write and execute scripts from the command line such as Python/Go etc. Experience on automation tools such as Ansible/Saltstack and Puppet.\nExperience in installing, configuring & troubleshooting network routers, switches and firewall/ VPN devices.\nDeep knowledge in operating system mechanism such as Darwin/Free BSD/WinNT/CE, experience in Unix-like Sys.\nExcellent communication and influencing skills including verbal and written English. \nExemplary paperwork and documentation skills ,strong ability to translate complex ideas into simple solutions on paper.\nAble to travel extensively.",
-  "preferredQualifications": "Thorough understanding of Content Delivery Networks and the integration applications.Knowledge & experience in networking technologies such as IPv6,Ethernet, VPLS, MPLS, ISDN, IPSec, VxLANs, HSRP, TCP/IP, OSPF, EIGRP, BGP, QoS, Multicast, ACLs, VPNs, IP Tel, VoIP, Structured Cabling etc. \nExperience in using network management tools for performance, tuning, troubleshooting and capacity planning (E.g. Cisco PRIME, Concord eHealth, EtherPeek, InterMapper, MRTG, Cacti etc.).\nPersonal Effectiveness: Leadership, Creative Thinking, Learning Agility, Flexible and shows initiative.\nAble to work as part of a virtual global/regional team with cultural, language, and time zone differences.\nTeam management experience desirable. Able to deal with ambiguity and work independently with minimal supervision/guidance, solid vendor management and negotiation skills. With Project management, process management, problem-solving & presentation skills.\nPreferred certification like CISSP, CCSP, CCIE Sec etc.\nBachelor degree or above in Computer Science or Information Security related major.",
-  "description": "This role is for an ambitious Apple security initiative which aims to improve Apple internal and supply chain’s network. The main responsibility will be for the delivery of the latest network security system in a complicated environment, with combined technical skill and driving cross functional teams to achieve the goal."
+  "link": "https://jobs.apple.com/zh-cn/details/200695648/camera-calibration-and-instrumentation-engineer",
+  "minimumQualifications": "MS in STEM majors\nDeep knowledge in one of the following: camera calibration, lidar or other depth sensor, computer vision, image processing, AI/ML, optical instrumentation\nProficient experience in programming with hardware and software systems\nExcellent written and verbal interpersonal skills, with native fluency in Mandarin-Chinese and proficiency in English.\nStrong problem-solving capability\nEstimated travel: up to 20% regional travel.\nAbility to work well in a collaborative, highly multi-functional and fast-paced environment.",
+  "preferredQualifications": "PhD in STEM majors\nDeep knowledge in two or more of the following: camera calibration, lidar or other depth sensor, computer vision, image processing, AI/ML, optical instrumentation\nProficient in algorithm skills in either Python or C++ languages\nMetrology system development experience\nLarge quantity data processing & analysis capability",
+  "description": "Design, specification, development and deployment of camera metrology systems for Apple products. These systems calibrate and verify performance for use during Apple's new product introduction (NPI).\n"
  },
  {
   "title": "Subject Matter Expert - Data Science, Intern",
@@ -3703,6 +3718,21 @@
   "minimumQualifications": "B.S. (or M.S.) in Electrical Engineering, Computer Science, or equivalent industry experience\nUnderstand basic HW designs including schematics, data sheet, inter-comm protocols\nGood coding skills in C/C++, Python, Shell, etc.\nExcellent communication skills in both English and Chinese\nUnderstand best practices for HW test setup, measurement and execution",
   "preferredQualifications": "Strong fundamentals in electrical engineering, experienced in designing embedded microcontroller systems, analog instrumentation, DC power supplies etc.\nProficiency in data post-processing and visualization\nDirect experience in high-volume computers, mobile devices, or consumer electronics\nA naturally curious mind paired with both intuitive and rigorous problem-solving skills\nKnowledge of algorithms, machine learning, or artificial intelligence (AI) is a strong plus\nExperience with OS services, specifically in kernel or driver development and debugging; familiarity with BSD/Mach-like kernels is a plus\n3-5 years of relevant working experience",
   "description": "As an iPhone Hardware Test Engineer, you will be responsible for the electrical and functional testing for iPhone main logic boards and form factors. Your role will involve designing and defining specifications for test hardware and software.\nApple's custom test solutions are sophisticated embedded systems that optimize for space efficiency, energy consumption, reliability, scalability, and cost. These systems integrate the latest embedded SOCs, custom analog and digital instruments, power systems, mechatronics, and real-time operating systems.\nThis position uniquely requires hardware and software expertise. For every new feature added to the iPhone, you will develop and implement new tests in collaboration with our third-party test vendor partners, system engineers, and factory teams. Your creativity in finding better ways to accomplish tasks is highly valued. You will work closely with the iPhone Hardware Engineering team to influence design for testability and develop innovative testing methods with minimal test access. You will be challenged to achieve more with fewer resources."
+ },
+ {
+  "title": "Embedded Software Engineer",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200644032",
+  "postingDate": "2026年9月08日",
+  "locations": [
+   "Shenzhen"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200644032/embedded-software-engineer",
+  "minimumQualifications": "BS or MS in Computer Engineering, Computer Science, Electrical Engineering or equivalent.\nExcellent communication skills, both verbally and written (In both Chinese and English).\n",
+  "preferredQualifications": "Proficiency in C/C++, some embedded software experience is preferred.\n﻿Understanding and experience with ARM platform and architecture/instruction set.\nExperience developing low level drivers\nExperience with debuggers such as gdb, lldb, etc. \nFamiliarity with scopes and logic analyzers. \nAble to comprehend hardware specs and schematics. \nFamiliarity with standard hardware protocols (USB, UART, SPI, I2C, PCIe, MIPI, HDMI, DDR)\nFamiliarity with some form of scripting (lua, python). ",
+  "description": "In this role you will implement software and drivers for common firmware interfaces, chipsets, communications protocols and various SoC IPs. You will also implement features to support hardware testing and diagnosis of unreleased Apple's handheld devices. This is a highly cross functional role and you'll work closely with various teams, like EE, Systems Engineering, Software Engineering, Hardware Testing, QA, Factory, Manufacturing and Operations. The environment is dynamic, fast-paced and requires a go-getter attitude. \n"
  },
  {
   "title": "iPad Hardware System EE",
