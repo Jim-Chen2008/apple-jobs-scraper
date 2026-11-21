@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月20日",
+  "postingDate": "2026年11月21日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-20T08:14:21.870900913Z",
+  "postDateInGMT": "2026-11-21T08:06:16.115326838Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月20日",
+  "postingDate": "2026年11月21日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-20T08:14:21.870907362Z",
+  "postDateInGMT": "2026-11-21T08:06:16.115334247Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月20日",
+  "postingDate": "2026年11月21日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-20T08:14:21.870908568Z",
+  "postDateInGMT": "2026-11-21T08:06:16.115335650Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月20日",
+  "postingDate": "2026年11月21日",
   "postingTitle": "CN-Specialist: Seasonal, Full-Time or Part-Time or Intern ",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-20T08:14:21.870909520Z",
+  "postDateInGMT": "2026-11-21T08:06:16.115337028Z",
   "transformedPostingTitle": "cn-specialist-seasonal-full-time-or-part-time-or-intern",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -12356,46 +12356,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200681924",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200680652-3715",
-  "jobSummary": "At Apple, we believe our most important resource is our people. We're looking for a skilled Product Manager to help shape the future of the technology that brings extraordinary people to Apple. This role will partner with business and engineering teams to design, build, and continuously improve tools that power how we attract, evaluate, and hire talent.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200680652",
-  "postingDate": "2026年9月06日",
-  "postingTitle": "Product Solutions Analyst",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-06T12:15:35.938Z",
-  "transformedPostingTitle": "product-solutions-analyst",
-  "reqId": "200680652-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Corporate Functions",
-   "teamID": "teamsAndSubTeams-CORSV",
-   "teamCode": "CORSV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200680652",
   "isMultiLocation": false,
   "postExternal": true
  },
