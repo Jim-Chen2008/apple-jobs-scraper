@@ -105,6 +105,21 @@
   "description": "As an intern on our team, you will contribute to research and prototyping efforts that shape the future of Apple's camera capabilities."
  },
  {
+  "title": "Software Engineer (Data), AI & Data Platforms",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200694682",
+  "postingDate": "2026年11月13日",
+  "locations": [
+   "Beijing"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200694682/software-engineer-data-ai-data-platforms",
+  "minimumQualifications": "Knowledge of BI concepts and Implementation experience on Cloud with databases like SnowFlake or Big Query\nProgramming experience with Python, Scala or Java\nHands-on experience in designing and development of cloud-based applications that include compute services, database services, APIs to design RESTful services, ETL, queues and notification services.\nExperience in developing highly optimized SQLs, procedures & semantic process for distributed data applications\nBachelor’s degree in Computer Science or equivalent experience",
+  "preferredQualifications": "7 or more years of experience building enterprise-level data applications on distributed systems\nExperience in cloud data warehousing platforms like Snowflake is highly valued\nHands-on knowledge of Spark cluster-computing framework & Kubernetes or similar containerization technologies.\nExperience developing Big Data applications using Java, Spark, Kafka is a huge plus\nUnderstanding of fundamentals of object-oriented design, data structures, algorithm design, and problem solving\nCloud technology experience on platforms like AWS, Microsoft Azure, Google Cloud.\nData Visualization Tools: experience in software such as Streamlit, Superset, Tableau, Business Objects, and Looker.\nData Insights and KPIs: Working experience on generating and visualizing data insights, metrics, and KPIs. Usage of basic ML models in the space of anomaly detection, forecasting, GenAI.",
+  "description": "We engineer high-quality, scalable and resilient distributed systems on cloud that power data exploration, analytics, reporting and production models. Our core systems are diverse and come with an unusual intersection of high data volumes with systems distributed across cloud and on-premise infrastructure.\n\nThis role will build solutions that integrate open source software with Apple’s internal ecosystem. You will drive development of new components and features from concept to release: design, build, test, and ship at a regular cadence. You will work closely with internal customers to understand their requirements and workflows, and propose new features and ecosystem changes to streamline their experience of using the solutions on our platform.\n\nThis is a challenging software engineering role, where a large part of an engineer's time is spent in writing code and designing/developing applications on cloud, with the remainder being spent on tuning and debugging codebase, supporting production applications and supporting our application end users. This role requires in-depth knowledge of innovative technologies and cloud data platform with the ability to independently learn new technologies and contribute to the success of various initiatives."
+ },
+ {
   "title": "Machine Learning Engineer - AI, Search & Knowledge Platform",
   "team": "Machine Learning and AI",
   "teamCode": "MLAI",
@@ -555,6 +570,21 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "Software Engineer (Data Solutions), IS&T Ai & Data Platforms",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200696469",
+  "postingDate": "2026年11月23日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200696469/software-engineer-data-solutions-is-t-ai-data-platforms",
+  "minimumQualifications": "3 or more years experience building enterprise level applications on large-scale distributed systems with a bachelor's degree in Computer Science or equivalent experience.\nKnowledge of BI concepts and implementation experience on Cloud with databases like SnowFlake or Big Query or Cloudera.\nProgramming experience in building high quality software. Proficiency in at-least one of the following programming languages - Python, Scala or Java.\nStrong hands-on experience in designing and development of cloud-based applications that include large scale compute services, database services, APIs to design RESTful services, ETL, queues and notification services.\nExperience in developing highly optimized SQLs, procedures & semantic process for distributed data applications.",
+  "preferredQualifications": "Experience in Enterprise-ready Cloud Data-Warehousing platforms like Snowflake is highly valued.\nHands-on knowledge of Spark cluster-computing framework & Kubernetes or similar containerization technologies.\nExperience developing Big Data applications using Java, Spark, Kafka is a huge plus.\nHands-on knowledge and experience in Apache Iceberg, Data Lakehouse architecture and implementation is a plus.\nExperience in Apache Doris or similar real-time high concurrency analytics platform.\nUnderstanding of fundamentals of object-oriented design, data structures, algorithm design, and problem solving.\nCloud technology experience on platforms like AWS, Microsoft Azure, Google Cloud.\nData Visualization Tools: Proficient in data visualization, with experience in software such as Streamlit, Superset, Tableau, Business Objects, and Looker.\nData Insights and KPIs: Working experience on generating and visualizing data insights, metrics, and KPIs. Usage of basic ML models in the space of anomaly detection, forecasting, GenAI.",
+  "description": "We engineer high-quality, scalable and resilient distributed systems on cloud that power data exploration, analytics, reporting and production models. Our core systems are diverse and come with an unusual intersection of high data volumes with systems distributed across cloud and on-premise infrastructure.\n\nOn our team you will build solutions that integrate open source software with Apple’s internal ecosystem. You will drive development of new components and features from concept to release: design, build, test, and ship at a regular cadence. You will work closely with internal customers to understand their requirements and workflows, and propose new features and ecosystem changes to streamline their experience of using the solutions on our platform.\nThis is a hard-core software engineering role, where a large part of an engineer's time is spent in writing code and designing/developing applications on cloud, with the remainder being spent on tuning and debugging codebase, supporting production applications and supporting our application end users. This role requires in-depth knowledge of innovative technologies and cloud data platform with the ability to independently learn new technologies and contribute to the success of various initiatives.\n\nWe are looking for a hardworking and passionate person to join this amazing team. If you feel this is you, we'd love to hear from you."
+ },
+ {
   "title": "Data Scientist",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -688,21 +718,6 @@
   "minimumQualifications": "Conversational and written English proficiency\nDemonstrated a strong proficiency in software development using Python, Rust, and/or Java programming languages\nExperience working with cloud compute environments like OpenStack, AliCloud, AWS, GCP orAzure\nExperience with infrastructure as code (IaC), configuration management, CI/CD, and automation\nExcellent troubleshooting, problem solving, and debugging skills\nComfortable with on-call rotation.",
   "preferredQualifications": "BA/BS degree in Computer Science and 3 years of relevant experience\nProficiency in implementing and correlating telemetry using monitoring and observability tools such as Splunk, Grafana and Prometheus\nBuilding and operating container orchestrating systems (Docker, Kubernetes and micro-services)\nExperience in Site Reliability Engineering / DevOps\nExcellent written and verbal communication skills\nExperience in UNIX/Linux Operating Systems",
   "description": "In this position, you will have the opportunity to work collaboratively with a group of “A” player soft-ware engineers from related but different backgrounds to make Apple Retail truly innovative. To be successful in this role, the candidate must be hands-on, proactive, talented at problem solving, have the mindset to challenge the norm and have a strong desire to learn and work towards excellence.Apple is looking for an individual that takes pride in crafting solutions to enhance product delivery by architecting and leading distributed compute platforms and application services. This engineer needs to work closely with cross-functional teams to identify potential solutions and go on to work with the engineering teams to properly test and deploy changes. Critical thinking, writing solid and clean code, planning, documenting, and communicating within the team and cross-functionally is critical to the success of the role."
- },
- {
-  "title": "Software Engineer (Data), AI & Data Platforms",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200694682",
-  "postingDate": "2026年11月13日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200694682/software-engineer-data-ai-data-platforms",
-  "minimumQualifications": "Knowledge of BI concepts and Implementation experience on Cloud with databases like SnowFlake or Big Query\nProgramming experience with Python, Scala or Java\nHands-on experience in designing and development of cloud-based applications that include compute services, database services, APIs to design RESTful services, ETL, queues and notification services.\nExperience in developing highly optimized SQLs, procedures & semantic process for distributed data applications\nBachelor’s degree in Computer Science or equivalent experience",
-  "preferredQualifications": "7 or more years of experience building enterprise-level data applications on distributed systems\nExperience in cloud data warehousing platforms like Snowflake is highly valued\nHands-on knowledge of Spark cluster-computing framework & Kubernetes or similar containerization technologies.\nExperience developing Big Data applications using Java, Spark, Kafka is a huge plus\nUnderstanding of fundamentals of object-oriented design, data structures, algorithm design, and problem solving\nCloud technology experience on platforms like AWS, Microsoft Azure, Google Cloud.\nData Visualization Tools: experience in software such as Streamlit, Superset, Tableau, Business Objects, and Looker.\nData Insights and KPIs: Working experience on generating and visualizing data insights, metrics, and KPIs. Usage of basic ML models in the space of anomaly detection, forecasting, GenAI.",
-  "description": "We engineer high-quality, scalable and resilient distributed systems on cloud that power data exploration, analytics, reporting and production models. Our core systems are diverse and come with an unusual intersection of high data volumes with systems distributed across cloud and on-premise infrastructure.\n\nThis role will build solutions that integrate open source software with Apple’s internal ecosystem. You will drive development of new components and features from concept to release: design, build, test, and ship at a regular cadence. You will work closely with internal customers to understand their requirements and workflows, and propose new features and ecosystem changes to streamline their experience of using the solutions on our platform.\n\nThis is a challenging software engineering role, where a large part of an engineer's time is spent in writing code and designing/developing applications on cloud, with the remainder being spent on tuning and debugging codebase, supporting production applications and supporting our application end users. This role requires in-depth knowledge of innovative technologies and cloud data platform with the ability to independently learn new technologies and contribute to the success of various initiatives."
  },
  {
   "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
