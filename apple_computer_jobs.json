@@ -570,6 +570,36 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200696582",
+  "postingDate": "2026年11月24日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200696582/software-engineer-data-services-is-t-ai-data-platforms",
+  "minimumQualifications": "BS or MS in Computer Science / related fields or equivalent work experience, with 3–5 years in a Site Reliability Engineering / Infrastructure focused role.\nHands-on production experience with at least one of Oracle, PostgreSQL, MongoDB, or CockroachDB, including exposure to On Call and Incident Management.\nExposure to running infrastructure with reliance on automation tooling, across Datacenter and Cloud architectures (including Alibaba Cloud/Ali Cloud and/or AWS).\nSolid troubleshooting skills, a resourceful first-principles approach to problem solving, and good technical writing habits.\nGood understanding in one or more of the following programming languages: Python, Go.",
+  "preferredQualifications": "Some operational experience with stateful services on Kubernetes (operators, StatefulSets, CSI storage).\nExposure to database-as-a-service control planes, provisioning APIs, or self-service tooling.\nExperience assisting with cross-cloud / hybrid-cloud data migrations for transactional systems.\nFamiliarity with observability concepts (SLIs/SLOs), backup, and DR practices for OLTP/distributed-SQL engines.\nProficiency in Mandarin (spoken and written), to support coordination with local Ali Cloud teams and regional vendors/partners.\nContributions to open-source database projects or internal data-platform tooling.",
+  "description": "The AiDP Data Services SRE team builds engine-agnostic platform capabilities — provisioning, backup/restore, observability, and self-service — spanning Oracle, PostgreSQL, MongoDB, and CockroachDB. This role involves supporting data migration efforts across hybrid-cloud environments with minimal downtime and guaranteed data integrity, following established runbooks and adhering to local data residency and regulatory requirements. This role requires good communication and collaboration with Core Storage teams and colleagues across a distributed team."
+ },
+ {
+  "title": "Software Engineer (Reliability Engineering), IS&T Ai & Data Platforms",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200678901",
+  "postingDate": "2026年11月24日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200678901/software-engineer-reliability-engineering-is-t-ai-data-platforms",
+  "minimumQualifications": "BS/MS in computer science or equivalent experience.\n2+ years experience programming skills in one of the following areas: Python, Java, or Go.\n2+ years experience in Kubernetes, Docker or other container orchestration framework.",
+  "preferredQualifications": "Ability to read and explain open source codebase.\nExperience deploying and managing CI/CD pipelines.\nStrong expertise in troubleshooting complex production issues.\nShould be able to understand complex architectures and be comfortable working with multiple teams.\nAbility to conduct performance analysis and troubleshoot large scale distributed systems.\nShould be highly proactive with a keen focus on improving uptime/availability of our mission-critical services.\nExperience with big data technologies - Spark, Flink, Iceberg or emerging GenAI/ML like Ray/MLflow/model serving) technologies.\nExperience of Linux, database and security concepts.",
+  "description": "We are looking for a talented engineer to join our team and bring passion for building and operating large scale platform and distributed systems leveraging cutting edge open source technologies across hybrid cloud environments.As a software engineer in AiDP reliability engineering you will work on one or many projects related to GenAI, ML, Inference and Big data platform."
+ },
+ {
   "title": "Software Engineer (Data Solutions), IS&T Ai & Data Platforms",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -763,21 +793,6 @@
   "minimumQualifications": "Good understanding of RF fundamentals, including matching networks, passive/active components, and RF system integration.\nDemonstrated ability to develop tools and agentic workflows to automate design and validation processes.\nStrong written and verbal English communication skills for effective cross-functional collaboration.\nAvailable for a 4–6 months internship, with a minimum commitment of 24 working hours per week. Full-time employment opportunities may be considered upon successful completion of the internship. \nPursuing a Master’s degree with a combination of Wireless Communication/Electrical Engineering background and AI/Data Science skills, demonstrated through university coursework or personal projects.",
   "preferredQualifications": "Proficiency with AI tools to synthesize engineering data - such as parsing test logs, conducting commonality studies, and archiving/retrieving scattered domain knowledge to accelerate troubleshooting.\nFamiliarity with standard RF bench equipment (e.g., spectrum analyzers, VNAs, oscilloscopes, power sensors) for lab testing and characterization.\nHands-on exposure to or coursework in Wi-Fi, Bluetooth, UWB, or NFC subsystems.\n",
   "description": "The RFHW Systems Engineer Intern will support RF hardware development and NPI builds across Apple’s innovative product lineup (iPhone, iPad, Mac, Apple Watch, etc.), focusing on wireless connectivity technologies. As part of a world-class RF design team, you will participate in technical execution both at Apple premises and manufacturing sites in China, with the opportunity to contribute to engineering workflow innovation by bringing an open, forward-thinking mindset to how AI is transforming modern RF engineering."
- },
- {
-  "title": "Mac System Engineering Program Manager",
-  "team": "Hardware",
-  "teamCode": "HRDWR",
-  "category": "hw_sw",
-  "positionId": "200694028",
-  "postingDate": "2026年11月10日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200694028/mac-system-engineering-program-manager",
-  "minimumQualifications": "5+ years of project management experience.\nMechanical/Electrical/Electronics/Process Manufacturing background is preferred.\nFluent in both written and spoken English and Mandarin.\nStrong leadership skills and the ability to inspire cross-functional team members.\nImpeccable organizational, multitasking, and detail-oriented program management skills.\nFlexibility and willingness to travel domestically and internationally.",
-  "preferredQualifications": "Relevant NPI or engineering development experience, especially with Apple, is a plus.\nSelf-motivated and proactive individual with demonstrated creativity and critical-thinking capabilities.\nAble to collaborate with cross-functional team to achieve project goals.\nExcellent consolidation, communication and organizational skills.\nAbility to thrive in a fast-paced, high-pressure environment to meet tight schedules.\nAbility to leverage AI tools to streamline engineering documentation (such as reports, issue logs, and executive summaries) while supporting proactive scenario planning and contingency assessments.",
-  "description": "This individual contributor role will have significant responsibilities in making decisions, collaborating with cross-functional teams, vendors and suppliers around the globe during the entire product development cycle. This includes planning and executing build events from readiness to on time delivery, assessing and communicating cross-functional risks and issues, driving cross-functional teams to resolve critical build blockers, and serving as the primary point of contact for US EPMs and CM partners to align on build objectives."
  },
  {
   "title": "Senior Engineering Manager, Core Data & Intelligence ",
@@ -1692,7 +1707,7 @@
   "link": "https://jobs.apple.com/zh-cn/details/200684403/sap-test-lead",
   "minimumQualifications": "Bachelor's degree.\n5+ years of experience in project management or test lead positions within the software lifecycle.\nProficiency with operations and various Supply Chain functions, such as Quote to Cash, Procure to Pay, Make to Deliver, Inventory Management, and Reverse Logistics.\nFamiliarity with software test automation tools and frameworks, including UFT, Selenium, and Playwright.\nBackground in data management methodologies for data identification, validation, and maintenance.\nSolid understanding of project management approaches, tools, and phases of the project lifecycle, including Agile/Scrum, Waterfall, and Iterative methodologies.\nProficient communication skills in both English and Mandarin\n",
   "preferredQualifications": "PMI/PMP certification.\nCertified Scrum Master (CSM) credential.\nTrack record of testing with transformations.\nSupply chain technical and application competencies as a techno-functional testing professional.\nProven ability to work on projects for globally distributed teams in a matrixed, fast-paced environment.\nStrong communication and presentation skills, with a demonstrated ability to influence and collaborate horizontally and vertically.\nDedication to delivering great software and releasing it quickly, efficiently, and with increased quality.",
-  "description": "\nWe are looking for an SAP Test Lead to join our Business Process Re-engineering (BPR) group. In this role, you will support planning, creating, scheduling, coordinating, and executing tests for projects within the WW SOS Operations organization. You will partner with project managers and development teams to ensure high-quality products for our business and customers while continuously improving our testing practices. Description: You will manage end-to-end test activities, including test strategy, planning, execution, team coordination, and communication. By driving the successful release of system enhancements and new functionalities through effective user acceptance testing, you will play a critical role in our operations.\n"
+  "description": "You will manage end-to-end test activities, including test strategy, planning, execution, team coordination, and communication. By driving the successful release of system enhancements and new functionalities through effective user acceptance testing, you will play a critical role in our operations.\n"
  },
  {
   "title": "Test Lead",
@@ -2685,21 +2700,6 @@
   "description": "This is a team of software/systems/network engineers directly responsible for traffic globally for Wallets, Payments and Commerce. This includes services such as Apple Pay, Apple Card, Apple Cash, Identity, Transit and more. \n"
  },
  {
-  "title": "SDET - Apple Pay Quality Engineer",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200678634",
-  "postingDate": "2026年8月19日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200678634/sdet-apple-pay-quality-engineer",
-  "minimumQualifications": "5+ years of experience with object-oriented programming\nBS/MS in Computer Science, or equivalent experience\nExcellent knowledge of the software development lifecycle, testing methodology, and testing tools\nProficient in Java or Kotlin\nExperience in developing test plans, assessing risk, filing appropriate defects, and providing relevant data for test reporting\nAble to work independently, raise issues, and take corrective action\nExperience developing and maintaining automation systems that scale\nExperience testing applications built for mobile devices\nExperience developing and maintaining CI/CD pipelines\nExperience validating microservices (unit, component, contract, integration tests, etc)\nPassionate about clean code and OO design patterns\nWorks well with tight timelines and under pressure\nStrong communication skills in both English and Mandarin, with the ability to collaborate effectively with global teams",
-  "preferredQualifications": "Knowledge of operating systems and networks\nExperience with AI-assisted development tools\nExperience with contract testing tools (Pact, Spring Cloud Contract, or similar)\nExperience with canary and blue-green deploys\nExperience with service virtualization (WireMock, Mountebank, Hoverfly, or similar)\nExperience with Kubernetes, AWS a bonus\nProficient in understanding code to look into client side of the automation stack - Swift preferred\nExperience managing the build & release process for iOS/MacOS projects is a bonus\nEnthusiastic about Apple\nTeam player, able to disagree and find paths forward\nPassionate about the customer experience\nAble to cut through ambiguity and deliver results on time",
-  "description": "As a member of the Apple Pay Quality Team, you'll establish, implement, and continuously refine the formal QA processes to ensure that our group adheres to industry-accepted best practices. Additionally, you'll integrate the testing infrastructure with our continuous integration and continuous deployment systems to ensure that all the tools and services we develop undergo thorough testing and meet our quality standards.\n\nYou will be part of a team that is responsible for driving Apple Pay and Wallet products all the way to production. The automation code you write will be critical to ensuring our products in China meet the uncompromising high bar for security, performance, and reliability that our customers expect. From everyday seamless experiences to integrating with diverse local ecosystems, features you work on will be used by millions of people across the country. You will work cross-functionally with global development, product, and project management teams to deliver on aggressive timelines and ship features that surprise and delight our customers. Come join our team and help us build the future of Apple Pay!"
- },
- {
   "title": "Wireless RF Hardware Engineer",
   "team": "Hardware",
   "teamCode": "HRDWR",
@@ -3118,21 +3118,6 @@
   "minimumQualifications": "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Electrical/Computer Engineering, or related fields.\nProficiency in Python with type hints and TypeScript (comfortable reading and writing code).\nBasic knowledge of web development (HTTP, REST APIs, frontend frameworks).\nFamiliarity with databases (SQL queries, schema design).\nStrong problem-solving skills and curiosity to learn.\nAble to commit to a minimum 4 months full-time internship (preference for 6 months).\nGood written and spoken English communication skills.",
   "preferredQualifications": "Experience with AI/ML frameworks (e.g., Hugging Face, LangChain, TensorFlow/PyTorch, or LLM APIs).\nFamiliarity with at least one of FastAPI, Flask, Django or Node.js for web backend development.\nHands-on knowledge of React/Next.js for web frontend development.\nExperience with PostgreSQL, Redis, or vector databases (e.g., Qdrant, Pinecone, FAISS).\nInterest in system hardware engineering workflows (test automation, data analysis, hardware validation).\nEnthusiastic, self-driven, and comfortable working in a collaborative engineering environment.",
   "description": "As an intern, you will: \n- Design and prototype AI-driven tools that support hardware engineers in data analysis, test automation, and debugging workflows. \n- Implement backend services in Python and frontend interfaces in TypeScript (React/Next.js). \n- Integrate databases (SQL, vector databases) for data storage, search, and retrieval. \n- Explore AI/ML workflows (embeddings, retrieval, summarization, code assistance). \n- Collaborate with hardware and software engineers to translate requirements into working tools. \n- Write clear documentation, tests, and deployment scripts."
- },
- {
-  "title": "Hardware System Integration Engineer Intern - AirPods",
-  "team": "Hardware",
-  "teamCode": "HRDWR",
-  "category": "hw_sw",
-  "positionId": "200676914",
-  "postingDate": "2026年8月10日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200676914/hardware-system-integration-engineer-intern-airpods",
-  "minimumQualifications": "Currently pursuing a Bachelor’s or Master’s degree in Electronics Engineering, Electrical Engineering, Computer Engineering, or a related field\nSolid electrical engineering fundamentals (analog/digital circuits, signal processing, communication techniques etc.)\nHands-on experience in HW prototyping, bring-up, debug and validation with proficiency in using electrical equipments including oscilloscopes, spectrum analyzers etc.\nAt least 4 months internship commitment",
-  "preferredQualifications": "Experience with embedded systems programming (C, C++) and hardware programming (CPLD, FPGA etc.)\nScripting skills (Python/Unix shell/Lua) and experience in software from automation to machine learning\nAdequate technical writing and presentation capabilities and communication skills\nEagerness and nimbleness to learn with board interest in engineering topics\nStrong problem-solving mindset and ability to work in a team\n6 months internship commitment is preferred",
-  "description": "Seeking a motivated and talented hardware (HW) engineer intern who have passion on HW and will be responsible for owning aspects of system HW development from HW design to build in the factory. This internship offers opportunities in crafting electrical designs, developing HW validation tools, prototype bringup and testing, data analysis and issue debug while receiving mentorship from experienced engineers."
  },
  {
   "title": "DRAM Design Validation Engineer",
