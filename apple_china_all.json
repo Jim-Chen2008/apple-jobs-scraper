@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月24日",
+  "postingDate": "2026年11月25日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-24T10:44:41.775495585Z",
+  "postDateInGMT": "2026-11-25T09:40:35.408914443Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月24日",
+  "postingDate": "2026年11月25日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-24T10:44:41.775502518Z",
+  "postDateInGMT": "2026-11-25T09:40:35.408923041Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月24日",
+  "postingDate": "2026年11月25日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-24T10:44:41.775504143Z",
+  "postDateInGMT": "2026-11-25T09:40:35.408924428Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月24日",
+  "postingDate": "2026年11月25日",
   "postingTitle": "CN-Specialist",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-24T10:44:41.775505431Z",
+  "postDateInGMT": "2026-11-25T09:40:35.408925708Z",
   "transformedPostingTitle": "cn-specialist",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -916,46 +916,6 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200694030",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200691801-0351",
-  "jobSummary": "We are seeking a talented Generative AI Research Intern to work on image-to-video (I2V) diffusion models. This role focuses on building next-generation generative systems that transform still images into high-quality, temporally consistent videos. You will work closely with researchers and engineers to explore cutting-edge diffusion and transformer-based architectures for video generation, motion modeling, and temporal representation learning.\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-BJS",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Beijing",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200691801",
-  "postingDate": "2026年11月02日",
-  "postingTitle": "Generative AI Research Intern - Image-to-Video Diffusion",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-11-02T02:15:53.802Z",
-  "transformedPostingTitle": "generative-ai-research-intern-image-to-video-diffusion",
-  "reqId": "200691801-0351",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Machine Learning and AI",
-   "teamID": "teamsAndSubTeams-MLAI",
-   "teamCode": "MLAI"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200691801",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -2840,46 +2800,6 @@
   "postExternal": true
  },
  {
-  "id": "200690108-1199",
-  "jobSummary": "Imagine what you could do here! At Apple, new insights have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The people here at Apple don’t just build products — they craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple and help us leave the world better than we found it. ",
-  "locations": [
-   {
-    "postLocationId": "postLocation-CHD",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Chengdu",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200690108",
-  "postingDate": "2026年10月21日",
-  "postingTitle": "MDS TPM Intern - Data",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-21T07:36:48.498Z",
-  "transformedPostingTitle": "mds-tpm-intern-data",
-  "reqId": "200690108-1199",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Operations and Supply Chain",
-   "teamID": "teamsAndSubTeams-OPMFG",
-   "teamCode": "OPMFG"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200690108",
-  "isMultiLocation": true,
-  "postExternal": true
- },
- {
   "id": "200581775-1199",
   "jobSummary": "Imagine what you could do here! At Apple, creative ideas have a way of becoming wonderful products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.\nWe are looking for a Product Design Engineer to join the Mac team. As a Macintosh Product Design Engineer you will be responsible for designing the next generation of Apple computers, both portable and desktop. You will drive the development of the product in a dynamic and fast-paced engineering environment by partnering with cross-functional groups such as industrial designers and product marketing, as well as a slew of hardware engineering teams. We have a firm dedication to fairness and diversity, recognizing that our culture is strengthened through the wealth of perspectives contributed by each employee; we seek to tap into this extraordinary resource and incorporate it into how we do business. Come join us and be empowered to do the best and most impactful work of your life.",
   "locations": [
@@ -3157,6 +3077,46 @@
   "homeOffice": false,
   "jobPositionId": "PIPE-200628625",
   "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200695874-3715",
+  "jobSummary": "At Apple, we believe our products begin with our people. By hiring a diverse team we drive creative thought. By giving that team everything they need we drive innovation. By hiring incredible engineers we drive precision. And through our collaborative process we create memorable experiences for our customers. These elements come together to make Apple an amazing environment for motivated people to do the greatest work of their lives. Apple is a place where extraordinary people capture to do their best work. Just be ready to dream big. As a crucial function under Apple Hardware Engineering, Engineering Program Management (EPM) and Engineering Project Specialist (EPS) team manage the development of Apple Hardware Products with both strategic and execution-focus. EPx are expected to lead with clarity, influence cross-functional teams and deliver results in a fast-paced, complex environment. To do this effectively, we need solid data process and analysis. The China EPx organization, covering most of the Line-of-Businesses and being the driver for critical Hardware Builds, is proactively looking for a Software Engineering Intern to join the team and help on deliver those amazing AI/ML tools. You will be involved into AI-powered tool definition/development, and perform those as part of the exciting Apple Hardware Engineering Program Planning/Execution. You will work together with a team of highly skilled EPM, EPS and Engineers.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200695874",
+  "postingDate": "2026年11月25日",
+  "postingTitle": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-25T05:07:34.724Z",
+  "transformedPostingTitle": "software-engineering-intern-ai-tools-for-hardware-engineering-pm",
+  "reqId": "200695874-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200695874",
+  "isMultiLocation": false,
   "postExternal": true
  },
  {
@@ -4156,46 +4116,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200683365",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200677858-3715",
-  "jobSummary": "People at Apple don’t just build products — they craft experiences our customers love and depend on. Apple Services Engineering (ASE) builds and supports the systems that make many of these daily experiences possible. If you’ve used Apple products, you’ve likely interacted with us. Apple Services Site Reliability Engineering (SRE) teams are responsible for the systems and services that directly support those customers and their experiences. We are looking for an SRE with experience in building and supporting highly available customer-facing services.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200677858",
-  "postingDate": "2026年11月16日",
-  "postingTitle": "Senior Site Reliability Engineer - ASE / iCloud",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-11-16T03:37:50.385Z",
-  "transformedPostingTitle": "senior-site-reliability-engineer-ase-icloud",
-  "reqId": "200677858-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200677858",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -6160,46 +6080,6 @@
   "postExternal": true
  },
  {
-  "id": "200685623-3715",
-  "jobSummary": "Join Apple’s innovative team to shape the future of traffic and service development. In this role, you will drive the design, development, and maintenance of network services, proxies, meshes, libraries, and other critical infrastructure components that ensure secure, scalable, and transparent connectivity across Apple cloud environments.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200685623",
-  "postingDate": "2026年10月29日",
-  "postingTitle": "Software Engineer - Traffic (ASE)",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-29T06:21:05.208Z",
-  "transformedPostingTitle": "software-engineer-traffic-ase",
-  "reqId": "200685623-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200685623",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200686517-3715",
   "jobSummary": "Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.  Do you love building solutions to handle global complexity and immense scale? Imagine what you could do here.  Retail and Marcom Engineering, an IS&T team, builds and operates the systems and experiences that connect Apple's products with its customers. The team owns the technology behind both Apple's online and physical stores and drives the interactive marketing experiences and tools that keep creative operations moving. Together, those functions deliver the technology behind every product story Apple tells and every purchase a customer makes.\n",
   "locations": [
@@ -7156,46 +7036,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200688701",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200685616-3715",
-  "jobSummary": "Join ASE Data Services and help build and evolve the databases that power Apple's services at massive scale. We build and run high-performance, distributed datastores, relying heavily on open source technologies and contributing back to the projects we depend on.\n\nIn this role, you will lead a talented group of engineers based in China who are matrix-embedded (dotted line) into various global Data Services teams. You will play a pivotal role in bridging local operations with our broader Data Services leadership outside of China, ensuring your team delivers world-class distributed datastores and database proxy solutions. If you are an exceptional communicator with a deep background in software engineering, database technologies, and impactful people management, this is your opportunity to shine!",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200685616",
-  "postingDate": "2026年10月22日",
-  "postingTitle": "Engineering Manager - ASE Data Services",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-10-22T03:19:22.037Z",
-  "transformedPostingTitle": "engineering-manager-ase-data-services",
-  "reqId": "200685616-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200685616",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -9760,46 +9600,6 @@
   "postExternal": true
  },
  {
-  "id": "200684387-3715",
-  "jobSummary": "Imagine what we could do together. At Apple, new ideas have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The people here at Apple don’t just build products — they craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts.\n\nApple's B2B team manages critical integrations with Apple's supply chain partners such as manufacturers, logistics providers, banks, resellers and business customers. We are seeking a technically hands on individual with a real passion for programming and automation.\n\nJoin our dynamic team as a Software Reliability Engineer (SRE) and dive into innovative work culture fueled by machine learning, anomaly detection and threat detection. Collaborate with a highly motivated team of professionals who push boundaries and delivering exceptional results. This position offers an exciting opportunity to build your career as an SRE in a supportive environment, where continuous learning and professional development are prioritized. \n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200684387",
-  "postingDate": "2026年9月28日",
-  "postingTitle": "Site Reliability Engineer - eBusiness Services",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-28T02:47:09.043Z",
-  "transformedPostingTitle": "site-reliability-engineer-ebusiness-services",
-  "reqId": "200684387-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200684387",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200685026-3715",
   "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.",
   "locations": [
@@ -10236,46 +10036,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200685351",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200685369-3715",
-  "jobSummary": "Are you an individual with an eye for details, brimming with curiosity, energized, and hungry to\nmake your mark? We're looking for driven individuals who are excited to learn, unafraid to take\non new challenges, and passionate about exploring the ever-evolving world of technology. At our\ncompany, you'll have the opportunity to work on real-world projects, gain hands-on experience\nacross various domains, and grow under the guidance of seasoned professionals. If you're ready\nto step outside your comfort zone, continuously develop your skills, and contribute fresh ideas,\nwe want to hear from you!\nWe are the organization that supports, build and enhance the central nervous system of Apple,\nconnecting and streamlining all core business functions, extending to external customers,\nsuppliers and partners. We embrace complex and unique challenges, delivering innovative\nsolutions to transform our business functions or even drive more revenue for the company.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200685369",
-  "postingDate": "2026年9月24日",
-  "postingTitle": "IS&T Engineering Project Manager AppleCare SCE",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-24T02:45:14.510Z",
-  "transformedPostingTitle": "is-t-engineering-project-manager-applecare-sce",
-  "reqId": "200685369-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200685369",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -11817,14 +11577,14 @@
   ],
   "positionId": "200683378",
   "postingDate": "2026年9月12日",
-  "postingTitle": "Genius Bar Program Manager (hybrid)",
+  "postingTitle": "Genius Bar Program Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
   "postDateInGMT": "2026-09-12T13:40:48.652Z",
-  "transformedPostingTitle": "genius-bar-program-manager-hybrid",
+  "transformedPostingTitle": "genius-bar-program-manager",
   "reqId": "200683378-3715",
   "managedPipelineRole": false,
   "standardWeeklyHours": 40,
@@ -11876,46 +11636,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200681409",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200681917-3715",
-  "jobSummary": "Apple is a place where extraordinary people gather to do their best work. Just be ready to dream big. The people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.\n\nWe are searching for self driven, hardworking electrical engineers to provide design, validation, failure analysis and manufacturing support of Vision Pro related products. You will collaborate with multiple teams in this internship, join the most complex build and take a lead role to guide Contract Manufacturer’s EEs of their daily work. The position is based in the Shanghai/Kunshan/Suzhou.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200681917",
-  "postingDate": "2026年9月11日",
-  "postingTitle": "Apple Vision Pro Hardware System EE Intern",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-11T17:46:18.230Z",
-  "transformedPostingTitle": "apple-vision-pro-hardware-system-ee-intern",
-  "reqId": "200681917-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Hardware",
-   "teamID": "teamsAndSubTeams-HRDWR",
-   "teamCode": "HRDWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200681917",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -13640,46 +13360,6 @@
   "postExternal": true
  },
  {
-  "id": "200679117-3715",
-  "jobSummary": "Imagine what we could do together. At Apple, new ideas have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish! The people here at Apple don’t just build products - they craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that encourages the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts.\nAt ETS Team, we take pride in developing groundbreaking, world-changing platforms and services. Our ETS applications play a crucial role in supporting the Apple ecosystem by offering identity management, factory and device support, infrastructure support, platform support, and collaboration tools. Whether you're logging into Apple, making a purchase, or enabling Apple devices, our applications are there every step of the way, ensuring a flawless and secure experience.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200679117",
-  "postingDate": "2026年8月24日",
-  "postingTitle": "Site Reliability Engineer, Enterprise Technology Services",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-24T19:10:31.783Z",
-  "transformedPostingTitle": "site-reliability-engineer-enterprise-technology-services",
-  "reqId": "200679117-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200679117",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200679584-3715",
   "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nThe ASO Greater China Commercial Management team is responsible to drive business growth of Apple products, programs and segments across all Retail routes-to-market. Our team develops deep commercial understanding, strategic plans, and go-to-market strategy for GC markets.\n\nThe Program Manager leads the commercial programs, including compliance project in the Geo. You will play a pivotal role in managing through programs strategy, building roadmap, enabling new capabilities and driving commercial performance.",
   "locations": [
@@ -15160,46 +14840,6 @@
   "postExternal": true
  },
  {
-  "id": "200676311-3715",
-  "jobSummary": "AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple.\n\nThis position is required for working on the data migration and ongoing support for data platform for Applied Machine Learning enterprise systems at Apple China. The main deliverables will be: \n• Work with SRE on setting up and testing/validating new cluster, pipelines, applications, frameworks, connectivity and privacy and governance \n• Identify China specific datasets, migrate the datasets to China cluster \n• Modify and enhance existing applications and frameworks for China cluster",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200676311",
-  "postingDate": "2026年8月12日",
-  "postingTitle": "Data Engineer, IS&T Ai & Data Platforms",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-12T11:33:56.352Z",
-  "transformedPostingTitle": "data-engineer-is-t-ai-data-platforms",
-  "reqId": "200676311-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200676311",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200676251-3715",
   "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.\n\nApple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical space. It will allow us to do the things we love in ways never before possible — all while staying connected to the people around us.\n",
   "locations": [
@@ -15480,46 +15120,6 @@
   "postExternal": true
  },
  {
-  "id": "200676277-3715",
-  "jobSummary": "AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple.\n\nWe are hiring an SRE to own reliability, performance, data freshness, and operational readiness for our production ETL platform. The platform supports data ingestion, transformation, and loading workflows across Kubernetes-based environments — including Airflow-based loader jobs and Spark-on-EKS jobs that load data into a Datalake/Lakehouse.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200676277",
-  "postingDate": "2026年8月08日",
-  "postingTitle": "Software Engineer — ETL Platform, IS&T Ai & Data Platforms",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-08T00:24:49.613Z",
-  "transformedPostingTitle": "software-engineer-etl-platform-is-t-ai-data-platforms",
-  "reqId": "200676277-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200676277",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200675978-3715",
   "jobSummary": "AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple.\n\nApple's AI & Data Platform (AiDP) Data Services organization is seeking an experienced, versatile engineering leader to head our Data Services SRE organization. This leader will manage a group of engineering managers and technical leads responsible for cross-cutting software and platform tooling that manages a fleet of relational, distributed-SQL, document, search, and analytics engines powering some of Apple's most critical internet services, deployed at massive scale across data centers worldwide. In AiDP, your leadership will directly shape the reliability and scalability of platforms benefiting hundreds of millions of users, and will be critical to the success of some of the most visible current and future Apple features.\n",
   "locations": [
@@ -15596,46 +15196,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200675994",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200675980-3715",
-  "jobSummary": "AI & Data Platforms (AiDP) is IS&T's engine for AI-powered innovation. The team brings together data, application development, and machine learning — including generative AI — along with data services and customer success functions, to help IS&T build solutions more efficiently and streamline the adoption and embedding of generative AI across Apple.\n\nApple's AI & Data Platform (AiDP) Data Services organization is seeking an experienced, versatile database systems engineer to join our Data Services SRE team. Engineers on this team develop and contribute to cross-cutting software and platform tooling that manages a fleet of relational, distributed-SQL, document, search, and analytics engines powering some of Apple's most critical internet services, deployed at massive scale across data-centers worldwide. In AiDP, your work will benefit hundreds of millions of users and is critical to the success of some of the most visible current and future Apple features.\n\n",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200675980",
-  "postingDate": "2026年8月08日",
-  "postingTitle": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-08T00:22:08.558Z",
-  "transformedPostingTitle": "software-engineer-data-services-is-t-ai-data-platforms",
-  "reqId": "200675980-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200675980",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -19881,7 +19441,7 @@
  },
  {
   "id": "200683731-3435",
-  "jobSummary": "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. \n\nThe people here at Apple don’t just build products — they craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it! \n\nWe are seeking a highly versatile and motivated Manufacturing Design Engineer (MDE) to lead the development of manufacturing processes and equipment for precision brittle products (e.g., glass, ceramics, crystals).\n\nWe are open to candidates who specialize in custom equipment development (automation, CNC, processing). In this role, you will bridge the gap between product design and mass production, acting as a deep technical expert to ensure our complex components can be manufactured at scale with exceptional yield, performance, and quality.",
+  "jobSummary": "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. \n\nThe people here at Apple don’t just build products — they craft the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it! \n\nApple Manufacturing Design Engineers (MDE’s) are extraordinary engineers that provide end to end manufacturing and process solutions for key design features. This includes manufacturing process development and capability (includes incorporating all aspects of equipment, consumables, key parameters, process setup, and qualification), selection and/or design of manufacturing equipment, automation, and strategic R&D.",
   "locations": [
    {
     "postLocationId": "postLocation-SHZ",

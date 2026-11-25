@@ -135,21 +135,6 @@
   "description": "Design and build infrastructures to support features that empowers billions of Siri, Spotlight, and Safari users. Perform language processing, statistical analysis, and user intent analysis to support your hypothesis for how to improve product-outcomes. Leverage proprietary parallel data processing platform to process web scale data to deliver product features and improvements. Design & run/deploy various metrics and evaluations of features/improvements using a variety of tools like grading, logs processing, pre-launch and holdback A/Bs. Present results of analysis to team and leadership across Apple.\n"
  },
  {
-  "title": "Generative AI Research Intern - Image-to-Video Diffusion",
-  "team": "Machine Learning and AI",
-  "teamCode": "MLAI",
-  "category": "core",
-  "positionId": "200691801",
-  "postingDate": "2026年11月02日",
-  "locations": [
-   "Beijing"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200691801/generative-ai-research-intern-image-to-video-diffusion",
-  "minimumQualifications": "Currently pursuing a Master’s or Ph.D. degree in Computer Science, Electrical Engineering, Applied Mathematics, or a related field.\nStrong background in computer vision and deep learning, with research or project experience in diffusion models, flow-matching, or transformer-based generative models applied to video generation or spatiotemporal tasks.\nExperience or solid understanding of image-to-video models, video generation, temporal modeling, or video representation.\nProficiency in Python and PyTorch, with the ability to implement research code independently.\nFamiliarity with model training workflows, ablation studies, and experimental result analysis.\nFamiliarity with generative video evaluation metrics such as LPIPS, FVD, and perceptual assessment methods.\nStrong motivation for independent research and the ability to drive projects with minimal supervision.\nAbility to read, reproduce, and critically analyze recent research papers.",
-  "preferredQualifications": "Understanding of video fundamentals such as motion estimation, optical flow, temporal consistency, or alignment techniques.\nPrior experience with large-scale training, multimodal models, or video datasets.\nPublications in top-tier conferences or journals (e.g., CVPR, ICCV, ECCV, NeurIPS, ICLR, etc.).\nStrong curiosity and motivation for independent research in generative video modeling.",
-  "description": "You will: \n- Lead experimental studies on image-to-video diffusion techniques and temporal generative modeling.\n- Design, implement, and evaluate model variants for motion modeling and temporal consistency.\n- Build experimental pipelines and run ablation studies and benchmarking experiments.\n- Analyze results and summarize findings in internal research reports or presentations.\n- Study and reproduce recent work in video diffusion and I2V generation.\n- Participate in research discussions and proposal of new ideas."
- },
- {
   "title": "Machine Learning and AI Safety Research Intern",
   "team": "Machine Learning and AI",
   "teamCode": "MLAI",
@@ -525,21 +510,6 @@
   "description": "-  This role requires critical expertise in multiple layers in cellular protocols, experience with UE and/or NW protocols development for various 3GPP technologies is essential. The candidate must demonstrate solid understanding of relevant protocol procedures and network interactions.\n\n-  The duties of this position will design, develop, debug cellular protocol software in various layers. \n\n-  Perform architecture, design, code reviews with different engineers/teams.\n\n-  The position also involves identifying and solving everyday problems for customers using iPhone, iPad, Watch and other wireless product lines."
  },
  {
-  "title": "MDS TPM Intern - Data",
-  "team": "Operations and Supply Chain",
-  "teamCode": "OPMFG",
-  "category": "data",
-  "positionId": "200690108",
-  "postingDate": "2026年10月21日",
-  "locations": [
-   "Chengdu"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200690108/mds-tpm-intern-data",
-  "minimumQualifications": "Bachelors Engineering/Computer Science/AI/Machine Learning or equivalent practical experience in industry software consulting or implementation\nProven skills in project management, with the ability to guide and coordinate diverse teams and external partners\nData analysis experience in data extracting, cleaning and mining\nFluent communication skills in English, Mandarin, and Vietnamese",
-  "preferredQualifications": "IT experience: software/hardware/network experience or MES/ERP experience\nOperations knowledge: broad quality/supply chain/operations management knowledge. \nPractical experience with AI in manufacturing \nSQL and Python, PMP/6 Sigma certification preferred, MBA preferred\nExcellent written and oral communication skills\nProven cross-functional leadership\nWilling to travel",
-  "description": "The Manufacturing Design team enables the mass production of Apple's entire product line you can think of. Part of the magic that makes all this possible is a robust set of applications and systems designed and developed by Apple that support a product’s journey from prototype to launch and beyond. As a member of MDS (Manufacturing Design Systems), the system you will work on is a critical part of manufacturing at Apple. \nYour work will have a significant impact on Apple’s products. This role is responsible for the implementation of software system and solution using within the enclosure manufacturing process and the broader Manufacturing Design organization. Your contribution will ensure that our operational needs are met, boosting greater efficiency, simplicity, cost savings, quality, standardization, and scalability."
- },
- {
   "title": "Mac System Engineering Program Manager",
   "team": "Hardware",
   "teamCode": "HRDWR",
@@ -568,6 +538,21 @@
   "minimumQualifications": "Bachelor’s or Master’s Degree in EE related majors\nMust have hands-on EE lab experience, be familiar with lab equipments like oscilloscope, power source, E-load, TDR etc., aware of EE lab activities such as board/system bring up or issue debug, and sensitive to circuit behaviors.\nProgramming or scripting skills (e.g., Python, Shell) to automate laboratory setups, program test instruments, parse engineering data, and streamline repetitive tasks.\nMust have a proven understanding of EE knowledge in at least one of below fields: power design, EMC, signal/power integrity, industry standard protocols (DP, USB, I2C/SPI, SDIO, SPMI etc.)\nOutstanding interpersonal skills in both English and Chinese.",
   "preferredQualifications": "Direct experience in high volume consumer electronics like smart phone, laptops, drones, wearable devices etc.\nFamiliarity with building and deploying web tools. Knowledge of databases (e.g., SQLite, PostgreSQL) and web frameworks (e.g., Django, Flask, React) is a strong plus.\nExperience leveraging AI tools and frameworks (e.g., LLMs, machine learning algorithms) to automate tasks, analyze engineering data, or enhance daily workflows.\nHighly proactive, with the ability to drive tasks independently and adapt quickly to fast-moving project schedules.\nStrong leadership and team collaboration spirit to drive test coverage enhancements and test method optimization.",
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
+ },
+ {
+  "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200695874",
+  "postingDate": "2026年11月25日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200695874/software-engineering-intern-ai-tools-for-hardware-engineering-pm",
+  "minimumQualifications": "Pursuing a BS, MS in Computer Science or Data Science, Electrical Engineering, or other relevant areas.\nAvailable to join internship for 6-12 months full-time.\nKnowledge of AI/ML and LLM.\nBasic knowledge of front-end technologies (e.g., HTML, CSS, JavaScript) and back-end development principles.\nBasic data processing and analysis skills, with an ability to work with structured/unstructured data.\nExperience in AI LLM API integration, and understanding of prompt engineering are required.",
+  "preferredQualifications": "Familiarity with web development frameworks and tools is a plus. (e.g.,Kubenet)\nProficiency in Python programming (data manipulation libraries like Pandas/ =Numpy are preferred).\nStrong problem-solving mindset, eagerness to learn, and ability to work in a fast-paced environment.\nExcellent communication skills, both verbally and written (In both Chinese and English).",
+  "description": "As an intern, you will: - Perform definition and development of LLM based tool based on the input from Apple Hardware Engineering EPx (EPM/EPS) organization and transfer those into working tools. - Design and prototype AI-powered tools that enable Hardware EPx(EPM/EPS) to perform more effective data analysis. - Implement backend service and front-end interface. Certain familiarity with the required language is a must (Backend - Python; Front-end - React/Next.js). - Explore EPx faced business and convert those to AI/ML workflows."
  },
  {
   "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
@@ -718,21 +703,6 @@
   "minimumQualifications": "Expert-Level Python: 4+ years of professional software engineering experience, with deep expertise in Python. You should be highly proficient with modern Python paradigms, including async, type hinting, decorators, and advanced OOP/functional patterns. \n\nData Validation: Extensive experience using validation libraries to strictly define data models, parse inputs, and handle serialization/deserialization. \n\nLLM Function Calling Experience: Hands-on experience working with the function-calling or tool-use capabilities of modern LLMs (e.g., Gemini’s tools API, or open-source equivalents). \n\nAPI & Systems Integration: Deep experience integrating with third-party APIs (REST, GraphQL, gRPC) and handling edge cases like pagination, backoffs, and chaotic external state. \n\nBackend Best Practices: Strong fundamentals in API design (FastAPI/Starlette), version control, CI/CD, and writing comprehensive test suites (Pytest).",
   "preferredQualifications": "Experience with agentic frameworks (e.g., LangChain, LlamaIndex, AutoGen, CrewAI) and a strong opinion on when to use them versus when to write custom orchestration.\n\nFamiliarity with AST (Abstract Syntax Trees) or dynamic code execution/sandboxing (e.g., executing agent-generated Python code safely).\n\nExperience in designing UIUX product/solutions.",
   "description": "We are looking for a strong AI Engineer to build the \"hands and eyes\" of our AI agents. While LLMs are great at reasoning, they cannot act in the real world without highly reliable, well-structured tools.\nIn this role, you will be the foundational engineer behind our AI Tool Foundry—a centralized platform of Python-based functions, APIs, and wrappers that our intelligent agents use to fetch data, interact with external systems, and execute complex workflows. You will design how tools are standardized, how they are described to LLMs (via schemas and docstrings), and how we ensure agents execute them safely and predictably.\nIf you love writing pristine, highly typed Python code and are fascinated by the intersection of traditional backend engineering and modern LLM function calling, this is the role for you."
- },
- {
-  "title": "Senior Site Reliability Engineer - ASE / iCloud",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200677858",
-  "postingDate": "2026年11月16日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200677858/senior-site-reliability-engineer-ase-icloud",
-  "minimumQualifications": "5+ years in a Infrastructure Ops, Site Reliability Engineering, or DevOps focused role.\nBS degree in computer science or equivalent field with 5+ years of experience.\nKnowledge of Linux operating system principles, networking fundamentals, and systems management.\nDemonstrable fluency in at least one of the following languages: Java, Python, or Go.\nExperience in managing and scaling distributed systems in a public, private, or hybrid cloud environment.\nFamiliarity with micro-services architecture and container orchestration with Kubernetes.\nAwareness of key security principles including encryption, keys (types and exchange protocols).\nUnderstanding of SRE principals including monitoring, alerting, error budgets, fault analysis, and automation.\nStrong sense of ownership, with a desire to communicate and collaborate with other engineers and teams.\nAbility to identify and communicate technical and architectural problems, while working with partners and their team to iteratively find solutions.",
-  "preferredQualifications": "Experience implementing automation\nScripting experience in Python\nEnjoy building partnerships",
-  "description": "Apple Services’ scale is BIG. Operating at our scale, across multiple geographies and servicing hundreds of millions of users presents unique challenges. As a Software Developer in SRE at Apple, you'll need to solve these problems using data, teamwork, and your own expertise. ASE Products Site Reliability teams are responsible for the reliability and performance of the server software stack that powers products like iCloud Photos, Mail, Drive, Backup and many more. We do that by focusing on reliability best practices from service inception to production, collaborating deeply with product development teams to deliver a superlative product and shared vision while leveraging data and automation as first principles. We run a mix of open source, vendor licensed, and internally developed tools to manage the end to end SDLC of our products. You'll learn these tools and have opportunities to improve them."
  },
  {
   "title": "DevOps/SRE Engineer",
@@ -1125,21 +1095,6 @@
   "description": "As a Software Engineering Manager within the Apple Services Engineering Traffic team, you will lead a group of skilled engineers in designing and delivering best in class traffic solutions. Your team will be responsible for building, deploying, and operating the next generation of traffic mesh, ingress proxy, egress proxy, and border proxy.  \n\nHere you will find that we:  \n- Have a collaborative work environment where you can choose when to socialize and when to focus \n- Provide technical guidance and mentorship \n- Have an encouraging and growth-focused workplace culture \n- Encourage you to use accrued vacation time and maintain a healthy work-life balance"
  },
  {
-  "title": "Software Engineer - Traffic (ASE)",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200685623",
-  "postingDate": "2026年10月29日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200685623/software-engineer-traffic-ase",
-  "minimumQualifications": "Bachelors degree in Computer Science or related field\n4+ years of experience in software engineering\nSkilled with one or more advanced programming language such as Go, Java, Rust, C or C++\nExperience building large scale distributed systems\nFull product lifecycle ownership mindset (design → implementation → production)\nPassionate about improving the team and partners you work with\nA growth mindset",
-  "preferredQualifications": "Traffic and Edge: Professional expertise in Traffic/Edge Engineering or Cloud Networking\nExpertise with Open Source such as Envoy, Istio, or DPDK: Experience developing and deploying components for Envoy, including but not limited to EnvoyGateway and other proxy-related services. Experience working with packet processing tools.\nProficiency in Kubernetes: Experience with Kubernetes for orchestrating microservices, with knowledge of deployments, services, network policy, ingress and custom controllers.\nExperience with Cloud Platforms: Experience with one or more major public cloud providers, including provisioning, networking, load balancing, and managed infrastructure services.\nInfrastructure Traffic Experience: Familiarity with traffic management patterns, including mesh, service discovery, load balancing, observability, and security in modern distributed systems.\nAPI Design: Ability to design RESTful APIs and gRPC services for integration with internal and external systems.\nCollaborative Mindset: Strong communication skills with an ability to collaborate effectively with remote teams.\nExperience with Large-Scale Distributed Systems: Experience in designing and maintaining large-scale systems that handle significant volumes of traffic across complex infrastructure setups. This includes knowledge of performance tuning, resource management, and the ability to scale systems efficiently.",
-  "description": "As a Traffic Engineer, you will orchestrate the design and development of cutting-edge traffic components. Our work ranges from network proxying and load balancing to security, routing, and quality of service. These components power Apple services at an unprecedented scale for hundreds of millions of users worldwide. In this role, you'll be instrumental in enhancing our network stack for improved secure service networking and fo ingress and egress functionality, helping architect the backbone of Apple.\n\nThis position goes beyond coding. It's about pushing the boundaries of what's possible in software development by addressing challenges at an extraordinary scale and driving innovation in traffic management. You will be empowered to make the right choices for our customers. If you're passionate about shaping the future of network engineering and influencing the direction of an industry giant, this is your opportunity to shine.\n\nHere you will find that we: \n\n- Have a collaborative work environment where you can choose when to socialize and when to focus\n- Provide technical guidance and mentorship\n- Have an encouraging and growth-focused workplace culture\n- Encourage you to use accrued vacation time and maintain a healthy work-life balance"
- },
- {
   "title": "Java Backend Engineer - Retail ",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -1303,21 +1258,6 @@
   "minimumQualifications": "6+ years building and operating production backend or infrastructure systems.\nStrong programming ability in Go (GoLang) with solid fundamentals in API design, concurrency and error handling.\nA real testing practice. You write tests that would catch a regression rather than tests that restate the implementation.\nDistributed systems experience covering idempotency, eventual consistency, retries and partial failure, plus practical performance work where you profiled something and measured the fix.\nWorking knowledge of Kubernetes and extensive cloud experience with at least one of the major cloud providers.\nExcellent written and verbal communication, including design documents and incident write-ups that other engineers can act on.",
   "preferredQualifications": "Experience writing Kubernetes controllers or operators in production, including custom resource design and schema versioning.\nExperience with declarative configuration and templating systems such as Pkl, CUE, Jsonnet, Kustomize or Helm, or with infrastructure as code such as Terraform.\nExtended experience in at least one of: GitOps and progressive delivery, developer platforms and internal tooling, multi-region and disaster recovery, observability, or regulated environments such as PCI.\nFluency with coding agents and LLM-based development tooling, and judgment about when to trust their output.\nAbility to coach and mentor other ICs, and to lead a design review to a decision.",
   "description": "This is a software engineering role on the team that builds the platform itself. The primary output is design and code. You will design the APIs, write the production code behind them, and own the performance and correctness of systems that engineering teams across the organization depend on daily."
- },
- {
-  "title": "Engineering Manager - ASE Data Services",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200685616",
-  "postingDate": "2026年10月22日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200685616/engineering-manager-ase-data-services",
-  "minimumQualifications": "Bachelors degree in Computer Science or a related field.\n5+ years of experience in software engineering with a proven track record of technical impact.\n3+ years of engineering management experience, successfully leading high-performing software development teams.\nStrong understanding of databases, data services, and distributed systems fundamentals (e.g., relational, NoSQL, data replication, caching).\nExceptional communication skills, with a demonstrated ability to work effectively across time zones, bridging local teams with global, cross-functional leadership.\nDeep expertise in people management, with an understanding of local HR compliances, regulations, and team advocacy.",
-  "preferredQualifications": "Experience managing engineers in a matrixed or embedded model (dotted line reporting) across multiple global workstreams.\n8+ years of total experience in software engineering, specifically within highly scalable distributed services.\nHands-on experience building and operating distributed databases or storage systems at scale (e.g., Cassandra, Kafka, Redis, Zookeeper).\nFamiliarity with capacity planning, observability, and performance tuning for massive-scale stateful workloads.\nFull product lifecycle ownership mindset (design → implementation → production) with experience navigating ambiguity in complex environments.\nA history of driving initiatives that optimize developer experience, operational reliability, and large-scale data delivery.",
-  "description": "As a leader in this organization, you will lead and empower a team of skilled engineers designing, building, and operating cutting-edge features for large-scale distributed database systems, to support Apple’s operations in China. Your team members will be embedded across multiple Data Services squads, working on everything from client libraries and high-performance proxy services to core database engines and control planes."
  },
  {
   "title": "SAP Security Administrator",
@@ -1815,21 +1755,6 @@
   "description": "As an SRE at Apple, you will be part of a team who will implement and maintain best-in-class devops practices, work on complex technical challenges related to scalability, reliability and performance of Apple B2B systems. You will be managing the lifecycle of machine learning models in production and non-production environment. You will be responsible for continuously assessing and improving system processes, detecting anomalies, identify the areas of optimization and implementing solutions to enhance system reliability and performance. You should have a passion for programming and a good conceptual understanding of the operating environment - JVM, Operating System, File Systems, Network Protocols. Technical expertise, strong communication skills and teamwork are essential requirements for this role as it involves working with both technical and non-technical groups within Apple and externally with our supply chain partners. "
  },
  {
-  "title": "Site Reliability Engineer - eBusiness Services",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200684387",
-  "postingDate": "2026年9月28日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200684387/site-reliability-engineer-ebusiness-services",
-  "minimumQualifications": "At least 8 years of prior demonstrated experience in a Site Reliability Engineering, DevOps(Must), or an Infrastructure-focused role.\nDesigning and Building DevOps platforms end-to-end alongwith SRE/Platform Engineering.\nProven experience in building DevOps platforms from scratch.\nApplied Experience on GitOps-based deployment models (ArgoCD / Flux)\nEstablish Infrastructure as Code (IaC) practices.\nBuild and operate Kubernetes platforms (EKS / AKS / GKE / OpenShift)\nExperience working in large-scale, distributed systems\nStrong problem-solving and architectural skills\nProficiency in one or more programming languages (eg. Python) \nSupport of internet-facing production services and distributed systems via deployments, onCall and Incident Management. Lead incident response, RCA, and reliability improvements.\nProficiency in implementing and coordinating telemetry using monitoring and observability tools like Splunk, Grafana, and Prometheus, or similar.\nExperience in solving and resolving issues in Kubernetes from both an operating system and application perspective.\nBuilding and operating container orchestrating systems like Kubernetes or EKS.\nStrong programming experience in Java building web, middleware or backend applications. \nDeep understanding of Oracle or similar relational databases and NoSQL databases such as MongoDB. \nFirsthand experience in performance tuning of applications and databases. \nKnowledge of HTTP/S, TCP, DNS, web application load balancing. \nDeep understanding of basic security concepts and protocols - authentication, authorization, signing, encryption, SSL/TLS, SSH/SFTP, PKI, X509 certificates and PGP. \n",
-  "preferredQualifications": "Strong programming experience in Java for backend, middleware, or web applications\nExperience with NoSQL databases (MongoDB, Cassandra, DynamoDB, etc.)\nDeep understanding of relational databases (Oracle, PostgreSQL, MySQL, etc.)\nHands-on experience in performance tuning of applications and databases\nExperience with advanced observability practices: 1) Distributed tracing ;2) SLO/SLI design; 3)Error budgets\nPrior experience in large-scale, highly distributed production environments\nExperience with container orchestration internals (scheduler, CNI, CSI, etc.)\nKnowledge of middleware platforms such as WebMethods Integration Server or similar.\nExperience with multi-cloud or hybrid cloud environments\nFamiliarity with service mesh technologies (Istio, Linkerd, etc.)",
-  "description": "As an SRE at Apple, you will be part of a team who will implement and maintain best-in-class devops practices, work on complex technical challenges related to scalability, reliability and performance of Apple B2B systems. You will be managing the lifecycle of machine learning models in production and non-production environment. You will be responsible for continuously assessing and improving system processes, detecting anomalies, identify the areas of optimization and implementing solutions to enhance system reliability and performance. You should have a passion for programming and a good conceptual understanding of the operating environment - JVM, Operating System, File Systems, Network Protocols. Technical expertise, strong communication skills and teamwork are essential requirements for this role as it involves working with both technical and non-technical groups within Apple and externally with our supply chain partners. \n\nWe are looking for a Senior DevOps Engineer who can design, build, and scale a modern DevOps and SRE ecosystem from scratch. \nThis role requires deep hands-on expertise, strong architectural thinking, and the ability to establish GitOps-driven, cloud-native CI/CD platforms using the latest technologies.\nThe ideal candidate will act as a foundational engineer and technical leader, defining standards, tooling, automation, and reliability practices across the organization.\n"
- },
- {
   "title": "Software Engineer - Cloud Services Engineering",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -1963,21 +1888,6 @@
   "minimumQualifications": "Experience as a Cloud/DevOps Engineer or in a similar role with 5+ years of exposure.\nKnowledge of working with public cloud providers such as AliCloud or AWS or equivalent\nUnderstanding of networking concepts on Cloud, like VPCs/Subnets, Firewalls and LoadBalancers.\nKnowledge of CI/CD and configuration management systems.\nKnowledge of working with OS environments and good programming skills in Python and scripting\nUnderstanding of monitoring, logging, and alerting solutions to continuously assess and improve system reliability, and performance\nHave passion to drive automation to streamline manual processes and enhance productivity across the organization.\nMS/BS in Computer Science or equivalent experience.",
   "preferredQualifications": "Hands on experience with containerization and orchestration technologies such as Docker, Kubernetes or equivalent\nAnalytical & problem solving skills, ability to communicate ideas clearly\nExcellent communication and collaboration abilities, with a strong focus on teamwork.\nExperience with emerging technologies such as Generative AI in a cloud platform context.\nCertifications like Alibaba Cloud Associate or Alibaba Cloud Professional is a plus.",
   "description": "Collaborate and contribute to designing scalable, reliable, and secure enterprise solutions.\nContribute to the design and implement robust cloud native solutions\nUnderstanding of containerization and orchestration concepts for designing and building scalable and resilient modern event and micro-services based systems\nStay at the forefront of exploring and learning new technologies/frameworks to continuously enhance expertise.\nDemonstrate the ability to learn quickly and apply knowledge to solve complex problems.\nExhibit strong problem-solving skills and proactively drive issue resolution across teams.\nBe self-motivated, detail-oriented, and mindful of established schedules and scopes, ensuring effective project delivery.\nCommunicate clearly and collaborate effectively with team members and stakeholders, fostering positive and open interpersonal relationships.\nAdapt to working with multi-regional teams across different time zones.\n"
- },
- {
-  "title": "IS&T Engineering Project Manager AppleCare SCE",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200685369",
-  "postingDate": "2026年9月24日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200685369/is-t-engineering-project-manager-applecare-sce",
-  "minimumQualifications": "Bachelor's Degree from accredited university in Computer Science/Information\nTechnology.\n0 to 3 years of working experience.\nProficient programming knowledge in at least one of the following areas: Server side\ndevelopment (Java or Python), Web development (JavaScript, HTML, CSS3) or iOS\ndevelopment (Objective-C, Swift) or knowledge in at least one scripting language.\nTeam oriented and team player.\nPossess creativity, ingenuity, and willingness to challenge status quo.\nExcellent quantitative and interpersonal skills.",
-  "preferredQualifications": " Knowledge of foundational services in AWS,GCP or AliCloud.\nPrior internship experience.\nHeld leadership role in one or more club or society.\nFoundation knowledge in Business fundamentals/processes/concepts",
-  "description": "Within Information & Systems Technology (IS&T), we have various open positions, focusing on\nsolving targeted business systems, such as, Retail, Operations, Services, AppleCare, and, Finance.\nThese Domains require individual to :\n• Comprehend business domain requirements and eAectively communicates with our\nBusiness partners (internal and external), written and verbally.\n• Collaborate with stakeholders, while being coached by internal mentors, to deliver and\ndevelop a well thought out system solutions.\n• Ensures quality deliverables while adhering to Software Project Life Cycle.\n• Execute technical projects, setting project deliverables priorities, monitoring, reporting\non the process, progress, risk, and result.\n• Develop Technical Specifications and/or user stories to communicate with DevSecOps\nteam."
  },
  {
   "title": "Engineering Project Manager - SAP Operations and Service Management",
@@ -2218,21 +2128,6 @@
   "minimumQualifications": "5 years of hands-on experience in infrastructure engineering, DevOps, or Site Reliability engineering.\n\nProficiency in at least one scripting or programming language such as Python, Go or Java.\n\nExperience operating and supporting applications across cloud infrastructure ( eg, AliCoud, AWS and GCP).\n\nExperience with Infrastructure as Code tools such as Terraform, Pulumi, and Helm.\n\nExperience building and maintaining CI/CD pipelines.\n\nGood command on Linux, networking concepts (TLS/SSL, DNS, Load Balancers, etc.,) and troubleshooting skills in large scale environments\n\nExposure to AI-assisted or AI-infused automation in DevOps workflows (e.g., using LLM-based tools, copilots, or intelligent agents for scripting, incident triage, or pipeline optimization).\n\nHands on experience in one or more databases (Relational / NoSQL like Oracle, MongoDB). Experience managing large Databases with very high transaction rates. Knowledge of Oracle Database architecture and replication.\n\nHands-on experience with Splunk, Prometheus, and Grafana.\n\nBS or MS in Engineering, Computer Science, or equivalent education/experience.\n",
   "preferredQualifications": "8 years of hands-on experience in infrastructure, DevOps, or software engineering, with a proven track record of independently owning complex systems or initiatives from start to finish.\n\nExtensive experience architecting and operating multi-region, high-availability infrastructure across AliCloud, AWS and GCP, with ownership of cloud cost, resilience, and scaling strategy.\n\nProven ownership of build/release systems and CI/CD pipelines at scale, including designing pipeline architecture, improving reliability, and reducing release friction.\n\nProven experience in Terraform, Pulumi, and Helm, including designing reusable modules and adopting organizational-level IaC standards.\n\nProven ability to operate with minimal direction: scoping ambiguous problems, proposing architecture, executing, and being accountable for outcomes.\n\nHands-on experience designing and building AI-powered automation for DevOps, including LLM-powered runbooks, autonomous remediation agents, anomaly detection pipelines, and AI-assisted code/infra review tools, with a proven track record of team adoption.",
   "description": "This role requires your to operate, monitor, and triage applications in the production and non-production environments, ensuring reliability, scalability and performance across its low-latency, active/active cloud infrastructure.\n\nThe role will requires you to architect, build, and own robust CI/CD pipelines and automation systems, from design through long-term maintenance.\n"
- },
- {
-  "title": "Apple Vision Pro Hardware System EE Intern",
-  "team": "Hardware",
-  "teamCode": "HRDWR",
-  "category": "hw_sw",
-  "positionId": "200681917",
-  "postingDate": "2026年9月11日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200681917/apple-vision-pro-hardware-system-ee-intern",
-  "minimumQualifications": "Bachelor or master degree in Electrical Engineering \n\nGood EE fundamentals. This means you have a deep understanding of why our team works the way it does; you've developed an intuition and can apply it to new topics because you understand the basics. (Analog/digital/interface design, signal/power integrity, testing etc.)\n\nVery good failure analysis or debugging capability\n\nClear communication (written & verbal) in both English and Mandarin.",
-  "preferredQualifications": "Hands-on experience on PCB/Schematic design\n\nHave a good understanding of general EE equipment including oscilloscopes, DMM’s, logic analyzer, VI tracer etc. \n\nHave a good understanding of low frequency interface likes I2C, SPI, UART, RS485 etc.\n\nHave a good understanding of LDO and buck circuit \n\nHave a good understanding of SOC boot sequence",
-  "description": "Learn EE design, test flow/coverage of Vision Pro. \n\nSupport NPI build on failure analysis, validation and test coverage improvement."
  },
  {
   "title": "Site Reliability Engineer / Devops — Retail Engineering",
@@ -2620,21 +2515,6 @@
    "Shanghai"
   ],
   "link": "https://jobs.apple.com/zh-cn/details/200679116/site-reliability-engineer-enterprise-technology-services",
-  "minimumQualifications": "3+ years of experience in Site Reliability Engineering, DevOps, Software Engineering, or a related field\nStrong foundation in programming language (Java) or scripting (Python / Bash / LUA)\nHands on experience in one or more databases (Relational / NoSQL like Oracle, MongoDB)\nEducation: Bachelor’s or Master’s degree in Computer Science or a related field (equivalent practical experience)",
-  "preferredQualifications": "Hands on experience with monitoring and logging tools (e.g., Prometheus, Splunk, Grafana, CloudWatch)\nProficient in Linux, Networking concepts (TLS/SSL, DNS, Load Balancers, etc..) and troubleshooting skills in large scale environments\nSource control management such as Git / Understanding of CI/CD, Release Engineering and DevOps\nUnderstanding of security standards, policies, and cryptography\nExperience with Incident / Problem management and RCA\nStrong Network, Load Balancing (Nginx, Envoy, NetScaler) experience is a huge plus\nGood solid understanding using Kubernetes concepts such as networking, Storage, Secrets, Deployments & Containerization.\nHands-on experience with AliCloud, AWS, or GCP is preferred.\nStrong analytical skills",
-  "description": "As Site Reliability and Operations Engineer (SRE), you’ll be part of the action—working closely with application teams to automate operations, optimize infrastructure, and solve issues in an exciting, fast-paced environment. You’ll play a vital role in ensuring that our systems are reliable, scalable, and high-performing.\nThis role is designed for driven individuals who:\nLove learning new technologies and thrive in solving sophisticated challenges.\nAre independent, motivated, and excited to take on ambitious projects.\nExcel at collaborating with engineering teams and can stay calm under pressure.\nHave a passion for delivering quality, reliable solutions in a dynamic, high-energy workplace\nWe are seeking dedicated Site Reliability Engineers (SREs) at all levels of experience, from junior to senior, to join our teams."
- },
- {
-  "title": "Site Reliability Engineer, Enterprise Technology Services",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200679117",
-  "postingDate": "2026年8月24日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200679117/site-reliability-engineer-enterprise-technology-services",
   "minimumQualifications": "3+ years of experience in Site Reliability Engineering, DevOps, Software Engineering, or a related field\nStrong foundation in programming language (Java) or scripting (Python / Bash / LUA)\nHands on experience in one or more databases (Relational / NoSQL like Oracle, MongoDB)\nEducation: Bachelor’s or Master’s degree in Computer Science or a related field (equivalent practical experience)",
   "preferredQualifications": "Hands on experience with monitoring and logging tools (e.g., Prometheus, Splunk, Grafana, CloudWatch)\nProficient in Linux, Networking concepts (TLS/SSL, DNS, Load Balancers, etc..) and troubleshooting skills in large scale environments\nSource control management such as Git / Understanding of CI/CD, Release Engineering and DevOps\nUnderstanding of security standards, policies, and cryptography\nExperience with Incident / Problem management and RCA\nStrong Network, Load Balancing (Nginx, Envoy, NetScaler) experience is a huge plus\nGood solid understanding using Kubernetes concepts such as networking, Storage, Secrets, Deployments & Containerization.\nHands-on experience with AliCloud, AWS, or GCP is preferred.\nStrong analytical skills",
   "description": "As Site Reliability and Operations Engineer (SRE), you’ll be part of the action—working closely with application teams to automate operations, optimize infrastructure, and solve issues in an exciting, fast-paced environment. You’ll play a vital role in ensuring that our systems are reliable, scalable, and high-performing.\nThis role is designed for driven individuals who:\nLove learning new technologies and thrive in solving sophisticated challenges.\nAre independent, motivated, and excited to take on ambitious projects.\nExcel at collaborating with engineering teams and can stay calm under pressure.\nHave a passion for delivering quality, reliable solutions in a dynamic, high-energy workplace\nWe are seeking dedicated Site Reliability Engineers (SREs) at all levels of experience, from junior to senior, to join our teams."
@@ -3045,21 +2925,6 @@
   "description": "Apple E-Business Services team is seeking an outstanding hands on Integration Software Engineer with passion for developing highly scalable integration platforms. This is an excellent opportunity for a self motivated, enthusiastic, result oriented person to design and build Java based B2B ‘infrastructure as code’ components using technologies like object storage and no sql databases. Enjoy the benefits of working in a fast growing business where you are encouraged to \"Think Different\" and where your efforts play a key role in the success of Apple's business."
  },
  {
-  "title": "Data Engineer, IS&T Ai & Data Platforms",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200676311",
-  "postingDate": "2026年8月12日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200676311/data-engineer-is-t-ai-data-platforms",
-  "minimumQualifications": "The offered position requires at least a bachelor's degree or equivalent in Computer Science, Information Systems, or a related field.\nThe beneficiary has at least 5 years of subsequent data engineering experience across the required skills.\nArchitecting scalable data processing systems for real-time, near-real-time, and batch data pipelines.\nDevelop data engineering solutions in Python and advanced SQL.\nDevelop self service data engineering applications for business users.\nDesign complex Python, PySpark, SQL and data processing for large-scale data platforms including Snowflake and Apache Spark with SparkSQL.",
-  "preferredQualifications": "Developing software system testing and validation procedures and documentation by writing efficient code that results in performant solutions;\nConferring with data processing or project managers to obtain and refine system requirements.\nMonitoring existing software to correct errors, adapt it to new platform requirements, and implement new functionality.",
-  "description": "The offered position requires at least 5 years subsequent data engineering experience including the following: \n• Writing advanced SQL for large scale relational data warehouses and data lakes. \n• Designing data pipelines for structured and semi-structured data. \n• Programing data engineering solutions in Python, Java, or Scala. \n• Working with distributed frameworks including Apache Kafka and Apache Spark and Flink \n• Designing reporting solutions with Tableau, Streamlit or Superset."
- },
- {
   "title": "2027 Apple Internship - Information Systems and Technology",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -3135,21 +3000,6 @@
   "description": "• Collaborate with design, verification, and integration engineers to ensure memory controller and PHY requirements are clearly defined, covering the full scope of DRAM-based corner cases.\n• Partner with Architecture, MCU, DDRPHY, and DRAM vendor teams to develop and validate Apple's main memory features.\n• Ensure DRAM simulations meet Apple's performance, power, and reliability requirements.\n• Define and fulfill internal and external DRAM silicon and package-level testing needs.\n• Debug RMA material with DRAM-related defects, driving root cause analysis and resolution.\n• Work closely with DRAM vendors to improve memory performance and power efficiency on Apple systems.\n• Drive roadmaps and technical specifications with memory vendors for next-generation technology node devices."
  },
  {
-  "title": "Software Engineer — ETL Platform, IS&T Ai & Data Platforms",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200676277",
-  "postingDate": "2026年8月08日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200676277/software-engineer-etl-platform-is-t-ai-data-platforms",
-  "minimumQualifications": "4+ years of experience in SRE, DevOps, platform engineering, data infrastructure, or production operations with strong Linux troubleshooting skills.\nStrong Kubernetes/EKS operations experience (kubectl, deployments, pods, resource limits, service accounts, secrets, workload debugging) and hands-on experience supporting Apache Spark on Kubernetes — including tuning, log analysis, memory issues, shuffle failures, and performance bottlenecks.\nProduction experience with Apache Airflow (DAG operations, task failures, retries, scheduling, SLA misses) and Kafka or similar streaming platforms (consumer groups, lag, offsets, partitions, secure client connectivity).\nFamiliarity with Datalake/Lakehouse architectures, object storage (S3 or equivalent), monitoring/logging tools (Splunk, Prometheus, Grafana, CloudWatch, ELK, Datadog), and solid SQL skills.\nScripting proficiency in Python and Bash, with strong incident management, RCA, change management, and operational documentation skills.",
-  "preferredQualifications": "Experience supporting metadata-driven ETL platforms or internal ETL frameworks.\nExperience with Lakehouse technologies (Spark, Iceberg, IRC, Hive Metastore, Parquet) and data loading performance tuning.\nExperience with GitOps or source-of-truth configuration management, and infrastructure-as-code tools (Terraform, Helm, Argo CD, Ansible).\nExperience operating multi-region or region-specific data platforms.\nExperience with certificate/PKI/TLS management, JKS/truststore, Kerberos, or key rotation processes.\nFamiliarity with Spark performance tuning at scale, and platform dependencies such as API gateways, RabbitMQ, Redis, or Cassandra.",
-  "description": "You will operate and triage production pipelines end-to-end: extractors, loaders, batch jobs, streaming ingestion (Kafka), Spark workloads, and Airflow DAGs. You will tune Kubernetes and Spark for stability, build observability tooling, drive root cause analysis, write automation to reduce toil, and manage configuration and secrets through GitOps-style processes. The ideal candidate troubleshoots distributed systems from logs, metrics, and infrastructure signals, and drives permanent fixes through engineering partnership."
- },
- {
   "title": "Engineering Manager, Data Services, IS&T Ai & Data Platforms",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -3178,21 +3028,6 @@
   "minimumQualifications": "BS or MS in Computer Science / related fields or equivalent work experience, with 3–5 years in a BS or MS in Computer Science / related fields or equivalent work experience, with 3–5 years in a Site Reliability Engineering / Infrastructure focused role.\nHands-on production experience with at least one of Couchbase, OpenSearch, or Apache Doris, including exposure to On Call and Incident Management.\nExposure to running infrastructure with reliance on automation tooling, across Datacenter and Cloud architectures (including Alibaba Cloud/Ali Cloud and/or AWS).\nSolid troubleshooting skills, a resourceful first-principles approach to problem solving, and good technical writing habits.\nGood understanding in one or more of the following programming languages: Python, Go.",
   "preferredQualifications": "Some operational experience with stateful services on Kubernetes (operators, StatefulSets, CSI storage).\nExposure to database-as-a-service control planes, provisioning APIs, or self-service tooling.\nExperience assisting with cross-cloud / hybrid-cloud data migrations for search/analytics systems.\nFamiliarity with observability concepts (SLIs/SLOs), backup, and DR practices for document/search/OLAP engines.\nExposure to real-time OLAP/analytics engines (e.g., ClickHouse, StarRocks) as a complement to Apache Doris.\nProficiency in Mandarin (spoken and written), to support coordination with local Ali Cloud teams and regional vendors/partners.\nContributions to open-source database projects or internal data-platform tooling.",
   "description": "The AiDP Data Services SRE team builds engine-agnostic platform capabilities — provisioning, backup/restore, observability, and self-service — spanning Couchbase, OpenSearch, and Apache Doris. This role involves supporting data migration efforts across hybrid-cloud environments with minimal downtime and guaranteed data integrity, following established runbooks and adhering to local data residency and regulatory requirements. This role requires good communication and collaboration with Core Analytics teams and colleagues across a distributed team."
- },
- {
-  "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200675980",
-  "postingDate": "2026年8月08日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200675980/software-engineer-data-services-is-t-ai-data-platforms",
-  "minimumQualifications": "BS or MS in Computer Science / related fields or equivalent work experience, with above 10 years in a Site Reliability Engineering / Infrastructure focused role.\nHands-on production experience with at least two of PostgreSQL, Oracle, MongoDB, CockroachDB, Couchbase, OpenSearch, or Apache Doris, supporting internet-facing production services via On Call and Incident Management.\nOperational experience running large-scale infrastructure with heavy reliance on automation tooling, across Datacenter and Cloud architectures (including Alibaba Cloud/Ali Cloud and/or AWS).\nExcellent troubleshooting and performance deep-dive analysis skills; a resourceful, first-principles problem solver with strong technical writing habits.\nGood understanding in one or more of the following programming languages: Python, Go.",
-  "preferredQualifications": "Real operational experience managing stateful services at scale on Kubernetes (operators, StatefulSets, CSI storage).\nExperience building database-as-a-service control planes, provisioning APIs, or self-service tooling.\nProven track record of engine-agnostic, cross-cloud / hybrid-cloud data migrations at scale.\nExperience defining engine-agnostic observability (SLIs/SLOs), backup, and DR standards across a heterogeneous fleet.\nExperience operating real-time OLAP/analytics engines (e.g., Apache Doris, ClickHouse, StarRocks) at scale.\nProficiency in Mandarin (spoken and written), to support coordination with local Ali Cloud teams and regional vendors/partners.\nContributions to open-source database projects or internal data-platform tooling.",
-  "description": "The AiDP Data Services SRE team builds engine-agnostic platform capabilities — provisioning, backup/restore, observability, and self-service — spanning PostgreSQL, CockroachDB, Couchbase, OpenSearch, MongoDB, Oracle, and Apache Doris. A key part of this role is designing and operating engine-agnostic data migration tooling across hybrid-cloud environments with minimal downtime and guaranteed data integrity. This role requires strong communication, partnership with Core Storage and Analytics teams, and effective collaboration across a distributed team."
  },
  {
   "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
