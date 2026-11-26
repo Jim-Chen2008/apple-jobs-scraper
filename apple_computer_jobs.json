@@ -2760,21 +2760,6 @@
   "description": "You will be in charge of designing and building the infrastructure to support services at Apple scale. Day to day, you will design and tune resolution paths, traffic-steering and failover policies, and capacity; automate operations; harden the platform against load spikes and attacks; and lead the response when incidents occur. You have a passion for automation and making resilient systems that scale. The ideal candidate has a strong knowledge of internet protocols foundation, solid Linux skills, cloud and compute experience, working familiarity with proxies and load balancers, along with strong coding ability in Go and scripting languages . \n"
  },
  {
-  "title": "SRE Engineer",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200677280",
-  "postingDate": "2026年8月17日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200677280/sre-engineer",
-  "minimumQualifications": "Designing and Building DevOps platforms end-to-end along with SRE/Platform Engineering.\nProven experience in building DevOps platforms from scratch.\nApplied Experience on GitOps-based deployment models (ArgoCD / Flux)\nEstablish Infrastructure as Code (IaC) practices.\nBuild and operate Kubernetes platforms (EKS / AKS / GKE / OpenShift)\nExperience working in large-scale, distributed systems\nStrong problem-solving and architectural skills\nProficiency in one or more programming languages (eg. Python) \nSupport of internet-facing production services and distributed systems via deployments, onCall and Incident Management. Lead incident response, RCA, and reliability improvements.\nProficiency in implementing and coordinating telemetry using monitoring and observability tools like Splunk, Grafana, and Prometheus, or similar.\nExperience in solving and resolving issues in Kubernetes from both an operating system and application perspective.\nBuilding and operating container orchestrating systems like Kubernetes or EKS.\nStrong programming experience in Java building web, middleware or backend applications. \nDeep understanding of Oracle or similar relational databases and NoSQL databases such as MongoDB. \nFirsthand experience in performance tuning of applications and databases. \nKnowledge of HTTP/S, TCP, DNS, web application load balancing. \nDeep understanding of basic security concepts and protocols - authentication, authorization, signing, encryption, SSL/TLS, SSH/SFTP, PKI, X509 certificates and PGP.",
-  "preferredQualifications": "Strong programming experience in Java for backend, middleware, or web applications\nExperience with NoSQL databases (MongoDB, Cassandra, DynamoDB, etc.)\nDeep understanding of relational databases (Oracle, PostgreSQL, MySQL, etc.)\nHands-on experience in performance tuning of applications and databases\nExperience with advanced observability practices:\n-Distributed tracing\n-SLO/SLI design\n-Error budgets\nPrior experience in large-scale, highly distributed production environments\nExperience with container orchestration internals (scheduler, CNI, CSI, etc.)\nKnowledge of middleware platforms such as WebMethods Integration Server or similar.\nExperience with multi-cloud or hybrid cloud environments\nFamiliarity with service mesh technologies (Istio, Linkerd, etc.)",
-  "description": "As an SRE at Apple, you will be part of a team who will implement and maintain best-in-class devops practices, work on complex technical challenges related to scalability, reliability and performance of Apple B2B systems. You will be managing the lifecycle of machine learning models in production and non-production environment. You will be responsible for continuously assessing and improving system processes, detecting anomalies, identify the areas of optimization and implementing solutions to enhance system reliability and performance. You should have a passion for programming and a good conceptual understanding of the operating environment - JVM, Operating System, File Systems, Network Protocols. Technical expertise, strong communication skills and teamwork are essential requirements for this role as it involves working with both technical and non-technical groups within Apple and externally with our supply chain partners.   \n\nWe are looking for a Senior SRE Engineer who can design, build, and scale a modern SRE ecosystem from scratch.  This role requires deep hands-on expertise, strong architectural thinking, and the ability to establish GitOps-driven, cloud-native CI/CD platforms using the latest technologies. The ideal candidate will act as a foundational engineer and technical leader, defining standards, tooling, automation, and reliability practices across the organization."
- },
- {
   "title": "Engineering Project Manager",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -3448,6 +3433,21 @@
   "minimumQualifications": "",
   "preferredQualifications": "",
   "description": "-  Design, develop, test and maintain data collection and workflow systems maintained by the Battery Data Systems team, as well integrations and interactions of such systems, locally and abroad\n\n-  Assist in all phases of software implementations, including requirements gathering, development, commissioning, documentation and user training\n\n-  Coordinate development of scope with users and manage vendors to design, implement and deliver overall system integration solutions\n\n-  Provide timely production support for MES custom and out of the box solutions, locally and abroad\n\n-  Responsible for the change management process of the existing applications, ensuring standardization and version control\n\n-  Responsible for working with the customers to understand data output requirements and provide reports as needed\n\n-  Individual will also need to be capable of mentoring others on the suite of applications, in addition to performing projects execution tasks\n\n-  Train engineers, operators, and technicians on the new systems"
+ },
+ {
+  "title": "Hardware Test Engineer-iPhone",
+  "team": "Hardware",
+  "teamCode": "HRDWR",
+  "category": "hw_sw",
+  "positionId": "200695137",
+  "postingDate": "2026年11月26日",
+  "locations": [
+   "Shenzhen"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200695137/hardware-test-engineer-iphone",
+  "minimumQualifications": "B.S. (or M.S.) in Electrical Engineering, Computer Science, or equivalent industry experience\nUnderstand basic HW designs including schematics, data sheet, inter-comm protocols\nGood coding skills in C/C++, Python, Shell, etc.\nExcellent communication skills in both English and Chinese\nUnderstand best practices for HW test setup, measurement and execution",
+  "preferredQualifications": "Strong fundamentals in electrical engineering, experienced in designing embedded microcontroller systems, analog instrumentation, DC power supplies etc.\nProficiency in data post-processing and visualization\nDirect experience in high-volume computers, mobile devices, or consumer electronics\nA naturally curious mind paired with both intuitive and rigorous problem-solving skills\nKnowledge of algorithms, machine learning, or artificial intelligence (AI) is a strong plus\nExperience with OS services, specifically in kernel or driver development and debugging; familiarity with BSD/Mach-like kernels is a plus\n3-5 years of relevant working experience",
+  "description": "As an iPhone Hardware Test Engineer, you will be responsible for the electrical and functional testing for iPhone main logic boards and form factors. Your role will involve designing and defining specifications for test hardware and software.\nApple's custom test solutions are sophisticated embedded systems that optimize for space efficiency, energy consumption, reliability, scalability, and cost. These systems integrate the latest embedded SOCs, custom analog and digital instruments, power systems, mechatronics, and real-time operating systems.\nThis position uniquely requires hardware and software expertise. For every new feature added to the iPhone, you will develop and implement new tests in collaboration with our third-party test vendor partners, system engineers, and factory teams. Your creativity in finding better ways to accomplish tasks is highly valued. You will work closely with the iPhone Hardware Engineering team to influence design for testability and develop innovative testing methods with minimal test access. You will be challenged to achieve more with fewer resources."
  },
  {
   "title": "Camera Calibration and Instrumentation Engineer",

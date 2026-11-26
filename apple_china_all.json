@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月25日",
+  "postingDate": "2026年11月26日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-25T09:40:35.408914443Z",
+  "postDateInGMT": "2026-11-26T09:16:10.664341257Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月25日",
+  "postingDate": "2026年11月26日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-25T09:40:35.408923041Z",
+  "postDateInGMT": "2026-11-26T09:16:10.664348551Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月25日",
+  "postingDate": "2026年11月26日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-25T09:40:35.408924428Z",
+  "postDateInGMT": "2026-11-26T09:16:10.664349864Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月25日",
+  "postingDate": "2026年11月26日",
   "postingTitle": "CN-Specialist",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-25T09:40:35.408925708Z",
+  "postDateInGMT": "2026-11-26T09:16:10.664351316Z",
   "transformedPostingTitle": "cn-specialist",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -3077,6 +3077,86 @@
   "homeOffice": false,
   "jobPositionId": "PIPE-200628625",
   "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200694863-3715",
+  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200694863",
+  "postingDate": "2026年11月26日",
+  "postingTitle": "Supply Demand Management",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-26T06:23:11.039Z",
+  "transformedPostingTitle": "supply-demand-management",
+  "reqId": "200694863-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Operations and Supply Chain",
+   "teamID": "teamsAndSubTeams-OPMFG",
+   "teamCode": "OPMFG"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200694863",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200696721-3715",
+  "jobSummary": "Join Apple's Strategic EPM team, where your individual ingenuity will drive the development of groundbreaking products that enrich millions of lives globally. This is an opportunity to contribute to a culture of innovation, where diverse perspectives fuel our collective success and empower you to do your best work.\nAs an Engineering Project Manager, you will be at the heart of our product lifecycle, orchestrating cross-functional efforts and ensuring the successful delivery of Apple's next-generation devices. We seek a passionate individual eager to make a tangible impact, shaping the future of technology and adding their unique spark to our world-class team.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200696721",
+  "postingDate": "2026年11月26日",
+  "postingTitle": "Strategic Engineering Program Manager (EPM)",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-26T06:19:01.120Z",
+  "transformedPostingTitle": "strategic-engineering-program-manager-epm",
+  "reqId": "200696721-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200696721",
+  "isMultiLocation": false,
   "postExternal": true
  },
  {
@@ -11400,46 +11480,6 @@
   "postExternal": true
  },
  {
-  "id": "200683183-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nThe Infrastructure Operations team is a global team of highly technical individuals who keep the Apple Store Online’s telecommunications platforms running smoothly. We shift between forward-looking projects where we envision future solutions to troubleshooting and improving the call steering we have in place today. In this role, you will focus on monitoring Apple’s IVR to implement operational improvements and to drive best-in-class customer experience.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200683183",
-  "postingDate": "2026年9月14日",
-  "postingTitle": "Contact Center Infrastructure IVR Engineer",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-09-14T16:03:14.866Z",
-  "transformedPostingTitle": "contact-center-infrastructure-ivr-engineer",
-  "reqId": "200683183-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Sales and Business Development",
-   "teamID": "teamsAndSubTeams-SLDEV",
-   "teamCode": "SLDEV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200683183",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200683174-3715",
   "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nOur ASO User Acceptance Testing (UAT) team is a Quality Team responsible for partnering cross functionally across Apple, with business and technical teams, to evaluate the functionality and integrity of our digital and transactional solutions. We are the quality leader chartered with validating and endorsing our digital solutions, overseeing final readiness, functionality, and the end-to-end customer journey for the Apple Store Online business and ensuring the experience that we create matches what we had envisioned for our customers. We hold ourselves to a standard where good enough is never enough — if that resonates with you, this is the team for you!",
   "locations": [
@@ -14276,46 +14316,6 @@
   "type": "REQ",
   "homeOffice": false,
   "jobPositionId": "REQ-200677850",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
-  "id": "200677280-3715",
-  "jobSummary": "Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization.  IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.\n\nDo you love building solutions to handle global complexity and immense scale? Imagine what you could do here.\n\nCustomer Systems is part of IS&T and drives the technology behind Apple's customer support experience — from contact center operations to the software powering the iconic Genius Bar. The team also builds and operates AppleCare's online support platform, which handles 6 billion visits per year, delivering seamless, high-quality support to Apple customers around the globe.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200677280",
-  "postingDate": "2026年8月17日",
-  "postingTitle": "SRE Engineer",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-08-17T07:06:35.295Z",
-  "transformedPostingTitle": "sre-engineer",
-  "reqId": "200677280-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Software and Services",
-   "teamID": "teamsAndSubTeams-SFTWR",
-   "teamCode": "SFTWR"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200677280",
   "isMultiLocation": false,
   "postExternal": true
  },
@@ -17440,46 +17440,6 @@
   "postExternal": true
  },
  {
-  "id": "200661801-3715",
-  "jobSummary": "Imagine what you could do here! The people here at Apple don’t just create products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. At Apple, inclusion is a shared responsibility, and we work together to foster a culture where everyone belongs and is inspired to do their best work.\n\nHere on the Apple Store Online team, we are responsible for Apple’s largest store. Our main goal is to deliver a magical, personal digital experience where customers can shop, buy and learn everything Apple, wherever they are. Each customer should feel like they are our only customer and our job is to set the bar for the experience they receive. To run such an extraordinary store, it takes extraordinary people, and we are looking for someone to help us do extraordinary things.\n\nThis role is a hands-on product leadership role responsible for defining and delivering AI-powered solutions across live streaming moderation, VOC analytics and cross platform conversational AI products. This role will own the product lifecycle management and drive execution for AI systems that protect brand integrity in social commerce environments while transforming customer feedback into actionable business intelligence. Working under the assumption that the product can be scalable across platforms and countries, ensuring alignment between local market needs and global scalability.",
-  "locations": [
-   {
-    "postLocationId": "postLocation-SGI",
-    "city": "",
-    "stateProvince": "",
-    "countryName": "China",
-    "metro": "",
-    "region": "",
-    "name": "Shanghai",
-    "countryID": "iso-country-CHN",
-    "level": 5
-   }
-  ],
-  "positionId": "200661801",
-  "postingDate": "2026年5月09日",
-  "postingTitle": "Senior Product Manager",
-  "localeInfo": {
-   "languageCode": "en_US",
-   "dateFormat": "MMM D, YYYY",
-   "defaultLocaleCode": "zh-CN"
-  },
-  "postDateInGMT": "2026-05-09T00:51:40.367Z",
-  "transformedPostingTitle": "senior-product-manager",
-  "reqId": "200661801-3715",
-  "managedPipelineRole": false,
-  "standardWeeklyHours": 40,
-  "team": {
-   "teamName": "Sales and Business Development",
-   "teamID": "teamsAndSubTeams-SLDEV",
-   "teamCode": "SLDEV"
-  },
-  "type": "REQ",
-  "homeOffice": false,
-  "jobPositionId": "REQ-200661801",
-  "isMultiLocation": false,
-  "postExternal": true
- },
- {
   "id": "200660740-3715",
   "jobSummary": "Why Apple? We live in a mobile and device driven world where knowledge of the physical world around us is needed. We rely on this knowledge to get around, to learn about our environment and to enable spectacular new features for custom applications.   Apple is meeting those needs as robustly and as creatively as possible and is passionate about people who want to help meet that commitment. The success we are striving will be the result of very skilled people working in an environment which cultivates creativity, partnership, and thinking of old problems in new ways. If that sounds like the kind of environment that you find intriguing, then let's talk.",
   "locations": [
@@ -18356,6 +18316,46 @@
   "type": "PIPE",
   "homeOffice": false,
   "jobPositionId": "PIPE-200401406",
+  "isMultiLocation": false,
+  "postExternal": true
+ },
+ {
+  "id": "200695137-3435",
+  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.\n\nWe are searching for self-driven, passionate test engineers who will be responsible for building and developing test systems for the next generation of iPhone, taking a lead role in the debugging of HW/SW issues. The candidate will play a meaningful role in the development of Apple products, collaborate with Apple internal cross-functional teams and contract manufacturers, taking a lead role in design, test and manufacturing with a very high bar of quality.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SHZ",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shenzhen",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200695137",
+  "postingDate": "2026年11月26日",
+  "postingTitle": "Hardware Test Engineer-iPhone",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-26T04:48:26.295Z",
+  "transformedPostingTitle": "hardware-test-engineer-iphone",
+  "reqId": "200695137-3435",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Hardware",
+   "teamID": "teamsAndSubTeams-HRDWR",
+   "teamCode": "HRDWR"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200695137",
   "isMultiLocation": false,
   "postExternal": true
  },
