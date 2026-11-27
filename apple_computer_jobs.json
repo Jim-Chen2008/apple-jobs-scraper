@@ -540,6 +540,21 @@
   "description": "You will take ownership of sophisticated characterization and debugging frameworks for Mac platforms. Operating on a global scale, your expertise will bridge the gap between initial hardware architecture and final mass production, directly optimizing the quality of Mac systems. Expect to work closely with diverse, cross-functional engineering teams, with potential travel required to support worldwide operations."
  },
  {
+  "title": "SRE Engineer",
+  "team": "Software and Services",
+  "teamCode": "SFTWR",
+  "category": "core",
+  "positionId": "200677279",
+  "postingDate": "2026年11月27日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200677279/sre-engineer",
+  "minimumQualifications": "Designing and Building DevOps platforms end-to-end along with SRE/Platform Engineering.\nProven experience in building DevOps platforms from scratch.\nApplied Experience on GitOps-based deployment models (ArgoCD / Flux)\nEstablish Infrastructure as Code (IaC) practices.\nBuild and operate Kubernetes platforms (EKS / AKS / GKE / OpenShift)\nExperience working in large-scale, distributed systems\nStrong problem-solving and architectural skills\nProficiency in one or more programming languages (eg. Python) \nSupport of internet-facing production services and distributed systems via deployments, onCall and Incident Management. Lead incident response, RCA, and reliability improvements.\nProficiency in implementing and coordinating telemetry using monitoring and observability tools like Splunk, Grafana, and Prometheus, or similar.\nExperience in solving and resolving issues in Kubernetes from both an operating system and application perspective.\nBuilding and operating container orchestrating systems like Kubernetes or EKS.\nStrong programming experience in Java building web, middleware or backend applications. \nDeep understanding of Oracle or similar relational databases and NoSQL databases such as MongoDB. \nFirsthand experience in performance tuning of applications and databases. \nKnowledge of HTTP/S, TCP, DNS, web application load balancing. \nDeep understanding of basic security concepts and protocols - authentication, authorization, signing, encryption, SSL/TLS, SSH/SFTP, PKI, X509 certificates and PGP.",
+  "preferredQualifications": "Strong programming experience in Java for backend, middleware, or web applications\nExperience with NoSQL databases (MongoDB, Cassandra, DynamoDB, etc.)\nDeep understanding of relational databases (Oracle, PostgreSQL, MySQL, etc.)\nHands-on experience in performance tuning of applications and databases\nExperience with advanced observability practices:\n-Distributed tracing\n-SLO/SLI design\n-Error budgets\nPrior experience in large-scale, highly distributed production environments\nExperience with container orchestration internals (scheduler, CNI, CSI, etc.)\nKnowledge of middleware platforms such as WebMethods Integration Server or similar.\nExperience with multi-cloud or hybrid cloud environments\nFamiliarity with service mesh technologies (Istio, Linkerd, etc.)",
+  "description": "As an SRE at Apple, you will be part of a team who will implement and maintain best-in-class devops practices, work on complex technical challenges related to scalability, reliability and performance of Apple B2B systems. You will be managing the lifecycle of machine learning models in production and non-production environment. You will be responsible for continuously assessing and improving system processes, detecting anomalies, identify the areas of optimization and implementing solutions to enhance system reliability and performance. You should have a passion for programming and a good conceptual understanding of the operating environment - JVM, Operating System, File Systems, Network Protocols. Technical expertise, strong communication skills and teamwork are essential requirements for this role as it involves working with both technical and non-technical groups within Apple and externally with our supply chain partners.   \n\nWe are looking for a Senior SRE Engineer who can design, build, and scale a modern SRE ecosystem from scratch.  This role requires deep hands-on expertise, strong architectural thinking, and the ability to establish GitOps-driven, cloud-native CI/CD platforms using the latest technologies. The ideal candidate will act as a foundational engineer and technical leader, defining standards, tooling, automation, and reliability practices across the organization."
+ },
+ {
   "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
   "team": "Hardware",
   "teamCode": "HRDWR",
@@ -823,6 +838,21 @@
   "minimumQualifications": "15+ years of experience designing, building, and operating large-scale distributed systems, cloud infrastructure, or platform technologies in production environments.\nTrack record of owning architecture and delivering complex infrastructure or platform initiatives across multiple engineering organizations.\nExpert-level software engineering experience in Java, Go, Scala, Python, C++, or similar programming languages.\nDeep expertise in distributed systems, cloud-native architectures, Kubernetes, container orchestration, networking, and modern infrastructure platforms.\nProven history of building and operating highly available, scalable, secure, and observable production systems at scale.\nExperience designing automation for deployment, infrastructure management, and operational excellence. \nExceptional debugging and problem-solving skills in complex production environments.\nExperience setting technical direction across software engineering, infrastructure, SRE, security, and product organizations.\nExcellent communication skills and a record of influencing technical direction across globally distributed engineering organizations.\nBS or MS in Computer Science, Computer Engineering, Electrical Engineering, or a related technical field, or equivalent practical experience.",
   "preferredQualifications": "Experience architecting large-scale data, analytics, AI, or machine learning platforms.\nExperience with technologies such as Kubernetes, Spark, Ray, Kafka, Trino, Iceberg, Airflow, or other modern data platform technologies. \nExperience deploying and operating platforms across public cloud providers such as Alibaba Cloud, AWS, or GCP, as well as private cloud or on-premises environments. \nExperience founding greenfield infrastructure or platform initiatives.\nExperience operating services in regulated environments with security, compliance, and data residency requirements. \nExperience building developer platforms, platform automation, and self-service infrastructure. \nPassion for building world-class infrastructure and helping establish a new engineering organization from the ground up.",
   "description": "As a Staff Software Engineer within the Apple Data Platform organization, you will serve as the senior-most individual contributor responsible for establishing and evolving the Apple Data Platform in China. This is a unique greenfield opportunity to build a new regional engineering capability while working on one of Apple's most strategic infrastructure initiatives.\n\nYou will own the design, implementation, deployment, and operation of core platform services that enable data, analytics, and AI workloads across China. Working closely with engineering teams across China and the United States, you will deliver global platform capabilities while ensuring the platform meets regional operational, security, and regulatory requirements.\n\nAs a technical leader, you will set architectural direction, drive engineering excellence, define technical best practices, and build a highly reliable, scalable, and secure platform that serves customers across the region."
+ },
+ {
+  "title": "Apple Applied AI & Software Engineering Intern (Finance GBS) - Shanghai",
+  "team": "Students",
+  "teamCode": "STDNT",
+  "category": "intern",
+  "positionId": "200691508",
+  "postingDate": "2026年11月06日",
+  "locations": [
+   "Shanghai"
+  ],
+  "link": "https://jobs.apple.com/zh-cn/details/200691508/apple-applied-ai-software-engineering-intern-finance-gbs-shanghai",
+  "minimumQualifications": "Educational background in Computer Science, Data Science, Information Systems, Engineering, or relevant majors.\nAvailable to join internship for at least 6 months full-time\nProficient in at least one programming or scripting language (e.g., Python, VBA, SQL)\nGood understanding of data manipulation and transformation techniques\nStrong communication skills, with the ability to effectively convey ideas and collaborate.",
+  "preferredQualifications": "Understanding of (or willingness to learn) core finance processes with the courage to challenge the status-quo, identify automation opportunities and drive implementation of innovative solutions.\nCuriosity to “go beyond the coding” and convert datasets into business insights that influence meaningful actions and results on a regional and global scale, including process improvements and business solutions\nMature, responsible and ambitious professional who demonstrates integrity by driving excellence in automation solutions, ensuring high-quality deliverables, and taking responsibility for continuous process optimization\nA proactive mindset and interest in improving business efficiency through technology\n",
+  "description": "Are you someone with strong coding or programming skills who’s curious about how technology can transform the world of finance? If you’re interested in applying your technical abilities to solve real business and financial challenges, this internship is the perfect opportunity for you.\n\nAs a Finance Intern in GBS R2R (Record to Report), you will help to develop efficient, compliant processes and automation solutions for Apple’s business needs. You’ll have the opportunity to directly contribute to ongoing automation projects, gaining exposure to real-world business processes and enterprise-grade technologies. This is a dynamic role with plenty of room for growth and evolving job responsibilities.\n\n\n"
  },
  {
   "title": "Ecosystem Platforms and Partnerships - System EPM",
@@ -1320,21 +1350,6 @@
   "description": "Definition and trade-off studies of RGB camera and depth-sensing optics, sensors, actuator, and packaging.\nInteraction with optical, electrical, process, controls systems, sensing, test, and mechanical teams on integration of camera/depth-sensing hardware into products.\nLeadership of offshore manufacturing partners on camera/depth-sensing design evaluation, product prototype builds, and qualification.\nLeadership of failure analysis and corrective action implementation at manufacturing sites as well as remotely, including assembly processes, testing, and calibration; parametric-data analysis of end-of-line yield and post-reliability failures.\nEvaluation and debugging of camera/depth-sensing HW at module and product levels for Camera Design and Integration.\nDocumentation of camera-specific design, test, and manufacturing requirements.\nInternational travel may be required to supplier facilities for product development and production bring-up."
  },
  {
-  "title": "Java Backend Engineer - Retail",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200686507",
-  "postingDate": "2026年10月19日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200686507/java-backend-engineer-retail",
-  "minimumQualifications": "Bachelor’s or Master’s degree in Computer Science, Mathematics, or equivalent practical industry experience.\nDemonstrated experience in designing and developing multi-tier, distributed enterprise applications for high-volume environments.\nDeep proficiency in Java, with an in-depth understanding of object-oriented design and the enterprise Java ecosystem.",
-  "preferredQualifications": "Background building, deploying, and orchestrating highly scalable microservices using Containerization (Kubernetes/Docker) in public cloud environments (preferably AWS).\nHands-on experience designing RESTful APIs and integrating relational or NoSQL database technologies.\nSolid understanding of enterprise architecture patterns (high availability, load balancing, replication), cloud paradigms (AWS/GCP), and CI/CD tools (Git, Maven, Gradle).\nOutstanding communication and collaborative skills with a proven track record of contributing to cross-functional engineering teams.\nMastery of Clean Code principles, Test-Driven Development (TDD), Agile development methodologies, and DevOps practices.\nExposure to GraphQL and modern API architectural paradigms.",
-  "description": "You will join a global engineering team delivering state-of-the-art technical solutions that power Apple’s retail and marketing ecosystem. Working with modern services, frameworks, and cloud tools, you will design and build complex, multi-tier enterprise applications across the full software development lifecycle. You will bring a collaborative, forward-thinking mindset to challenge the status quo, influence development processes, and shape future technical visions.\n"
- },
- {
   "title": "Software Engineering Intern – AI Tools for Hardware Engineering",
   "team": "Students",
   "teamCode": "STDNT",
@@ -1665,21 +1680,6 @@
   "description": "We are looking for an SAP Test Lead to join our Business Process Re-engineering (BPR) group. In this role, you will support planning, creating, scheduling, coordinating, and executing tests for projects within the WW SOS Operations organization. You will partner with project managers and development teams to ensure high-quality products for our business and customers while continuously improving our testing practices. Description: You will manage end-to-end test activities, including test strategy, planning, execution, team coordination, and communication. By driving the successful release of system enhancements and new functionalities through effective user acceptance testing, you will play a critical role in our operations. "
  },
  {
-  "title": "AI & Project Operations Intern – Managing Director Office, Greater China",
-  "team": "Students",
-  "teamCode": "STDNT",
-  "category": "intern",
-  "positionId": "200682900",
-  "postingDate": "2026年9月29日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200682900/ai-project-operations-intern-managing-director-office-greater-china",
-  "minimumQualifications": "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Software Engineering, AI, or a related technical discipline.\nAvailable for a full-time internship for a minimum of six months.\nStrong written and verbal communication skills in English and Chinese.\nAbility to write and debug code in Python or another relevant programming language to build practical tools.\nHands-on experience building LLM applications or AI workflows through coursework, personal projects, or previous internships.\n",
-  "preferredQualifications": "Takes initiative, works through obstacles, and follows through on commitments to deliver results.\nCollaborates effectively, listens carefully, and explains technical ideas clearly to colleagues with different backgrounds.\nLearns quickly, seeks feedback, and applies new knowledge to unfamiliar problems.\nBrings structure to evolving requirements and manages competing priorities.\nExperience building web interfaces, dashboards, API integrations, or workflow automation.\nFamiliarity with prompt design and evaluation or local model deployment using tools such as Ollama or MLX.\nExperience with database integration and data modeling, including proficiency in SQL and familiarity with vector databases for AI/LLM applications.\nExperience supporting event coordination or on-site operations.",
-  "description": "At Apple, we look for people who are the best at what they do — and, just as importantly, how they do it. The Managing Director Office in Greater China is seeking a highly motivated and technically sharp intern to support internal AI automation, workflow optimization, and project operations.\n\nYou will work with colleagues to understand real needs, turn ideas into practical tools, and improve them through feedback. This is an opportunity to combine technical skills with creativity and collaboration, taking solutions from an initial idea into everyday use. As an AI & Project Operations Intern, you will help develop internal AI capabilities and support the day-to-day execution of departmental initiatives.\n\nIf you enjoy building useful things, learning quickly, and taking initiative to move work forward, we’d like to hear from you. \n\n"
- },
- {
   "title": "SAP BTP Cloud Platform Security Engineer",
   "team": "Software and Services",
   "teamCode": "SFTWR",
@@ -1978,21 +1978,6 @@
   "minimumQualifications": "Bachelor’s degree in Computer Science, Engineering, Mathematics, or equivalent practical experience.\n5+ years of experience in software or performance engineering, with demonstrated ownership of production performance for enterprise cloud applications.\nHands-on experience engineering and tuning cloud-hosted applications on Alibaba Cloud, along with production experience on AWS.\nExperience configuring, sizing, and performance-tuning relational databases, including SAP HANA, on cloud infrastructure.\nExperience modeling realistic workloads and conducting load, stress, soak, and capacity testing using tools such as Apache JMeter, k6, Gatling, or LoadRunner Enterprise.\nExperience decomposing latency across complex multi-tier architectures and utilizing telemetry to identify root causes and quantify improvements.\nExperience managing production performance incidents, including real-time triage and authoring detailed technical root cause analyses.\nProfessional working proficiency in English.\n",
   "preferredQualifications": "Experience operating enterprise workloads in China regions on Alibaba Cloud, including local networking architectures, load balancing, and observability tooling.\nExperience evaluating and optimizing SAP BTP runtime sizing, service quotas, and integration behaviors on hyperscaler platforms.\nExperience implementing application performance monitoring (APM) and distributed tracing systems (e.g., Dynatrace, Grafana, Datadog, or AppDynamics).\nProfessional certifications on major cloud platforms (e.g., Alibaba Cloud ACP/ACE, AWS Solutions Architect/Specialty, or SAP on Cloud).\nExperience with enterprise integration patterns and architectures, such as S/4HANA, OData services, Fiori, and Core Data Services (CDS).\nExperience applying AI and machine learning tools to automate performance test analysis, log synthesis, or anomaly detection workflows.\nExperience collaborating across cross-functional engineering teams within an Agile or Scrum delivery framework.\n",
   "description": "As a Cloud Performance Engineer, you will own the end-to-end performance and capacity engineering for enterprise applications hosted on cloud infrastructure. You will design high-fidelity performance test scenarios, decompose latency across complex global network and application paths, and identify bottlenecks before they impact users. In addition, you will partner closely with architecture, database, and software engineering teams to establish performance baselines, build actionable observability, and guide technical sign-offs for production workloads."
- },
- {
-  "title": "Software Engineer, Data Services, IS&T Ai & Data Platforms",
-  "team": "Software and Services",
-  "teamCode": "SFTWR",
-  "category": "core",
-  "positionId": "200675984",
-  "postingDate": "2026年9月23日",
-  "locations": [
-   "Shanghai"
-  ],
-  "link": "https://jobs.apple.com/zh-cn/details/200675984/software-engineer-data-services-is-t-ai-data-platforms",
-  "minimumQualifications": "BS or MS in Computer Science / related fields or equivalent work experience, with more than 7 years in a Site Reliability Engineering / Infrastructure focused role.\nHands-on production experience with at least one of Oracle, PostgreSQL, MongoDB, or CockroachDB, including exposure to On Call and Incident Management.\nExposure to running infrastructure with reliance on automation tooling, across Datacenter and Cloud architectures (including Alibaba Cloud/Ali Cloud and/or AWS).\nSolid troubleshooting skills, a resourceful first-principles approach to problem solving, and good technical writing habits.\nGood understanding in one or more of the following programming languages: Python, Go.",
-  "preferredQualifications": "Some operational experience with stateful services on Kubernetes (operators, StatefulSets, CSI storage).\nExposure to database-as-a-service control planes, provisioning APIs, or self-service tooling.\nExperience assisting with cross-cloud / hybrid-cloud data migrations for transactional systems.\nFamiliarity with observability concepts (SLIs/SLOs), backup, and DR practices for OLTP/distributed-SQL engines.\nProficiency in Mandarin (spoken and written), to support coordination with local Ali Cloud teams and regional vendors/partners.\nContributions to open-source database projects or internal data-platform tooling.",
-  "description": "The AiDP Data Services SRE team builds engine-agnostic platform capabilities — provisioning, backup/restore, observability, and self-service — spanning Oracle, PostgreSQL, MongoDB, and CockroachDB. This role involves supporting data migration efforts across hybrid-cloud environments with minimal downtime and guaranteed data integrity, following established runbooks and adhering to local data residency and regulatory requirements. This role requires good communication and collaboration with Core Storage teams and colleagues across a distributed team."
  },
  {
   "title": "Touch HW EE Validation Engineer",
