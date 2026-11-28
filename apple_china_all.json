@@ -16,14 +16,14 @@
    }
   ],
   "positionId": "114438029",
-  "postingDate": "2026年11月27日",
+  "postingDate": "2026年11月28日",
   "postingTitle": "CN-Store Leader",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-27T09:31:42.950691546Z",
+  "postDateInGMT": "2026-11-28T08:44:37.701622279Z",
   "transformedPostingTitle": "cn-store-leader",
   "reqId": "PIPE-114438029",
   "managedPipelineRole": true,
@@ -56,14 +56,14 @@
    }
   ],
   "positionId": "114438255",
-  "postingDate": "2026年11月27日",
+  "postingDate": "2026年11月28日",
   "postingTitle": "CN-Senior Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-27T09:31:42.950698766Z",
+  "postDateInGMT": "2026-11-28T08:44:37.701628950Z",
   "transformedPostingTitle": "cn-senior-manager",
   "reqId": "PIPE-114438255",
   "managedPipelineRole": true,
@@ -96,14 +96,14 @@
    }
   ],
   "positionId": "114438027",
-  "postingDate": "2026年11月27日",
+  "postingDate": "2026年11月28日",
   "postingTitle": "CN-Manager",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-27T09:31:42.950699923Z",
+  "postDateInGMT": "2026-11-28T08:44:37.701630156Z",
   "transformedPostingTitle": "cn-manager",
   "reqId": "PIPE-114438027",
   "managedPipelineRole": true,
@@ -136,14 +136,14 @@
    }
   ],
   "positionId": "114438030",
-  "postingDate": "2026年11月27日",
+  "postingDate": "2026年11月28日",
   "postingTitle": "CN-Specialist",
   "localeInfo": {
    "languageCode": "en_US",
    "dateFormat": "MMM D, YYYY",
    "defaultLocaleCode": "zh-CN"
   },
-  "postDateInGMT": "2026-11-27T09:31:42.950701154Z",
+  "postDateInGMT": "2026-11-28T08:44:37.701631387Z",
   "transformedPostingTitle": "cn-specialist",
   "reqId": "PIPE-114438030",
   "managedPipelineRole": true,
@@ -3077,6 +3077,46 @@
   "homeOffice": false,
   "jobPositionId": "PIPE-200628625",
   "isMultiLocation": true,
+  "postExternal": true
+ },
+ {
+  "id": "200696133-3715",
+  "jobSummary": "Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.",
+  "locations": [
+   {
+    "postLocationId": "postLocation-SGI",
+    "city": "",
+    "stateProvince": "",
+    "countryName": "China",
+    "metro": "",
+    "region": "",
+    "name": "Shanghai",
+    "countryID": "iso-country-CHN",
+    "level": 5
+   }
+  ],
+  "positionId": "200696133",
+  "postingDate": "2026年11月27日",
+  "postingTitle": "Materials Program Manager",
+  "localeInfo": {
+   "languageCode": "en_US",
+   "dateFormat": "MMM D, YYYY",
+   "defaultLocaleCode": "zh-CN"
+  },
+  "postDateInGMT": "2026-11-27T19:04:28.755Z",
+  "transformedPostingTitle": "materials-program-manager",
+  "reqId": "200696133-3715",
+  "managedPipelineRole": false,
+  "standardWeeklyHours": 40,
+  "team": {
+   "teamName": "Operations and Supply Chain",
+   "teamID": "teamsAndSubTeams-OPMFG",
+   "teamCode": "OPMFG"
+  },
+  "type": "REQ",
+  "homeOffice": false,
+  "jobPositionId": "REQ-200696133",
+  "isMultiLocation": false,
   "postExternal": true
  },
  {
